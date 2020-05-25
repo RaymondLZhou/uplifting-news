@@ -1,4 +1,42 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Uplifting News
+
+Project description
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine
+
+### Prerequisites
+
+What you need to install the software and how to install them
+
+Step 1
+
+```
+Example
+```
+
+Step 2
+
+```
+Example
+```
+
+### Running
+
+How to run the application
+
+Step 1
+
+```
+Example
+```
+
+Step 2
+
+```
+Example
+```
 
 ## Available Scripts
 
@@ -37,32 +75,12 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Built With
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+* [Title](link) - Purpose
+* [Title](link) - Purpose
+* [Title](link) - Purpose
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## License
 
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details
