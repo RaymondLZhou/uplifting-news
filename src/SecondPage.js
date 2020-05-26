@@ -8,7 +8,7 @@ function SecondPage() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is a second page!
+          This is a second Page!
         </p>
 
       </header>
