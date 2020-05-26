@@ -1,6 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { Link } from 'react-router-dom'
+import logo from './logo.svg'
+import './App.css'
 
 function App() {
   return (
@@ -18,9 +19,14 @@ function App() {
         >
           Learn React
         </a>
+        <Link to="/second-page">
+          <button>
+           Link to Second Page
+          </button>
+        </Link>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
