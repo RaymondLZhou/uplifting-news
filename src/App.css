@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.button {
+  background-color: white;
+  color: black;
+  border: 2px solid #61dafb;
+  transition-duration: 0.3s;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: #61dafb;
+  color: white;
+}

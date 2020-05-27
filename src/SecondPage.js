@@ -8,9 +8,11 @@ function SecondPage() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+
         <p>
           This is a Second Page!
         </p>
+
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -19,8 +21,9 @@ function SecondPage() {
         >
           Learn React
         </a>
+
         <Link to="/">
-          <button>
+          <button className="button">
            Link to First Page
           </button>
         </Link>
