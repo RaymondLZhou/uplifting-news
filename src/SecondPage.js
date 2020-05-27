@@ -11,6 +11,14 @@ function SecondPage() {
         <p>
           This is a Second Page!
         </p>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
         <Link to="/">
           <button>
            Link to First Page
