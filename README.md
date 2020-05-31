@@ -83,4 +83,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) file for details
