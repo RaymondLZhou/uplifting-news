@@ -9,6 +9,7 @@ feed = feedparser.parse(url)
 
 for elem in feed.entries:
     print(elem.title)
-    print(elem.link)
     print(elem.description)
-    print("\n") # 2 newlines
+    print(elem.published)
+    print(elem.link)
+    print()
