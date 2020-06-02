@@ -1,6 +1,7 @@
 import json
 import requests
 from bs4 import BeautifulSoup
+from time import sleep
 
 with open("feed.json") as json_data:
     newsList = json.load(json_data)
@@ -21,6 +22,8 @@ for news in newsList:
     article = " ".join(content.text.strip() for content in contents)
     article = {"text": article}
     articles.append(article)
+
+    sleep(2)
 
 with open("articlesRaw.json", "w") as outfile:
     json.dump(articles, outfile, indent=4)
