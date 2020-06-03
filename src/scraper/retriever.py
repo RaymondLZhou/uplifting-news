@@ -19,6 +19,14 @@ for news in newsList:
 
     contents = soup.find_all("p")
 
+    if len(contents) < 16:
+        continue
+
+    contents = contents[12:len(contents)-3]
+
+    if contents[0].text.strip()[0:24] == "These are external links":
+        contents = contents[1:]
+
     article = " ".join(content.text.strip() for content in contents)
     article = {"text": article}
     articles.append(article)
