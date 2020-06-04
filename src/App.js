@@ -1,5 +1,4 @@
 import React from 'react'
-//import { Component } from 'react'
 import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
@@ -9,7 +8,7 @@ import CardColumns from 'react-bootstrap/CardColumns'
 
 const display = feed.map((feed) => {
   return (
-    <Card>
+    <Card style={{ width: '35rem' }} className="card">
       <Card.Body>
         <Card.Title> 
           {feed.title} 
@@ -22,12 +21,14 @@ const display = feed.map((feed) => {
         <Card.Text>
           {feed.date}
         </Card.Text>
-        
-        <a href={feed.link}>
-          <button className="button">
-            Link to Article
-          </button>
-        </a>
+
+        <Card.Text>
+          <a href={feed.link}>
+            <button className="button">
+              Link to Article
+            </button>
+          </a>
+        </Card.Text>
       </Card.Body>
     </Card>
   )
@@ -53,7 +54,7 @@ function App() {
         </a>
 
         <Link to="/second-page">
-          <button className="button">
+          <button className="button" id="spaces">
            Link to Second Page
           </button>
         </Link>
