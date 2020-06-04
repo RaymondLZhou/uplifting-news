@@ -17,4 +17,4 @@ for elem in feed.entries:
     newsList.append(newsObject)
 
 with open("feed.json", "w") as outfile:
-    json.dump(newsList, outfile, ensure_ascii=False, indent=4)
+    json.dump(newsList, outfile, indent=4)
