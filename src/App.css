@@ -56,4 +56,6 @@
 
 .card {
   margin: 40px;
+  border: 2px solid #61dafb;
+  padding: 15px;
 }

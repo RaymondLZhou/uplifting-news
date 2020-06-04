@@ -23,7 +23,7 @@ function SecondPage() {
         </a>
 
         <Link to="/">
-          <button className="button">
+          <button className="button" id="spaces">
            Link to First Page
           </button>
         </Link>

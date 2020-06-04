@@ -23,10 +23,13 @@ const display = feed.map((feed) => {
         </Card.Text>
 
         <Card.Text>
-          <a href={feed.link}>
-            <button className="button">
+          <a 
+            href={feed.link} 
+            className="App-link" 
+            target="_blank"
+            rel="noopener noreferrer"
+          >
               Link to Article
-            </button>
           </a>
         </Card.Text>
       </Card.Body>
