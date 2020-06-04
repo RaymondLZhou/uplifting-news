@@ -8,7 +8,7 @@ import CardColumns from 'react-bootstrap/CardColumns'
 
 const display = feed.map((feed) => {
   return (
-    <Card style={{ width: '35rem' }} className="card">
+    <Card style={{ width: '23rem' }} className="card">
       <Card.Body>
         <Card.Title> 
           {feed.title} 
@@ -62,7 +62,7 @@ function App() {
           </button>
         </Link>
 
-        <CardColumns> {display} </CardColumns>
+        <CardColumns className="cardColumn"> {display} </CardColumns>
       </header>
     </div>
   )

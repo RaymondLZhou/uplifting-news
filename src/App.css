@@ -55,7 +55,16 @@
 }
 
 .card {
-  margin: 40px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   border: 2px solid #61dafb;
   padding: 15px;
+  float: left;
+  height: 370px;
+}
+
+.cardColumn {
+  margin-left: 30px;
 }
