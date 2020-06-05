@@ -74,7 +74,7 @@ function App() {
         </a>
       </header>
 
-      <body>
+      <body className="App-body">
         <CardColumns className="cardColumn"> {display} </CardColumns>
       </body>
     </div>
