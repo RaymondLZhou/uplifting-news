@@ -48,35 +48,37 @@ const display = feed.map((feed) => {
   )
 })
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo"/>
-        <p>
-          Uplifting News
-        </p>
-
-        <Link to="/second-page">
-          <button className="button" id="spaces">
-           Link to Second Page
-          </button>
-        </Link>
-
-        <a
-          className="App-link"
-          href="#body"
-        >
-          See News
-        </a>
-      </header>
-
-        <body className="App-body" id="body">
-          <CardColumns className="cardColumn"> {display} </CardColumns>
-        </body>
-
-    </div>
-  )
+class App extends React.Component {
+  render() {
+    return (
+      <div className="App">
+        <header className="App-header">
+          <img src={logo} className="App-logo" alt="logo"/>
+          <p>
+            Uplifting News
+          </p>
+  
+          <Link to="/second-page">
+            <button className="button" id="spaces">
+             Link to Second Page
+            </button>
+          </Link>
+  
+          <a
+            className="App-link"
+            href="#body"
+          >
+            See News
+          </a>
+        </header>
+  
+          <body className="App-body" id="body">
+            <CardColumns className="cardColumn"> {display} </CardColumns>
+          </body>
+  
+      </div>
+    )
+  }
 }
 
 export default App
