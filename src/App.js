@@ -38,7 +38,6 @@ const display = feed.map((feed) => {
             style={{ marginLeft: '6rem' }} 
             href="/#" 
             className="App-link" 
-            rel="noopener noreferrer"
           >
               Back to Top
           </a>
@@ -66,17 +65,16 @@ function App() {
 
         <a
           className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+          href="#body"
         >
-          Learn React
+          See News
         </a>
       </header>
 
-      <body className="App-body">
-        <CardColumns className="cardColumn"> {display} </CardColumns>
-      </body>
+        <body className="App-body" id="body">
+          <CardColumns className="cardColumn"> {display} </CardColumns>
+        </body>
+
     </div>
   )
 }
