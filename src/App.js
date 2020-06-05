@@ -12,11 +12,11 @@ const display = feed.map((feed) => {
   return (
     <Card style={{ width: '23rem' }} className="card">
       <Card.Body>
-        <Card.Title> 
+        <Card.Title className="cardTitle"> 
           {feed.title} 
         </Card.Title>
         
-        <Card.Text>
+        <Card.Text className="cardDescription">
           {feed.description}
         </Card.Text>
 

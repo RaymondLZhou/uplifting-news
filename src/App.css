@@ -74,10 +74,19 @@ html {
   border: 2px solid #61dafb;
   padding: 15px;
   float: left;
-  height: 370px;
+  height: 420px;
   font-size: calc(10px + 2vmin);
 }
 
 .cardColumn {
   margin-left: 30px;
+}
+
+.cardTitle {
+  border-bottom: 1px solid #61dafb;
+  height: 110px;
+}
+
+.cardDescription {
+  height: 156px;
 }
