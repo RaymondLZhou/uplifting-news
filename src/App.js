@@ -2,7 +2,9 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
+
 import feed from './scraper/feed.json'
+
 import Card from 'react-bootstrap/Card'
 import CardColumns from 'react-bootstrap/CardColumns'
 
@@ -57,13 +59,24 @@ function App() {
         </p>
 
         <Link to="/second-page">
-          <button className="button">
+          <button className="button" id="spaces">
            Link to Second Page
           </button>
         </Link>
 
-        <CardColumns className="cardColumn"> {display} </CardColumns>
+        <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn React
+        </a>
       </header>
+
+      <body>
+        <CardColumns className="cardColumn"> {display} </CardColumns>
+      </body>
     </div>
   )
 }

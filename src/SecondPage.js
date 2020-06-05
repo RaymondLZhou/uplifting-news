@@ -12,6 +12,12 @@ function SecondPage() {
         <p>
           This is a Second Page!
         </p>
+        
+        <Link to="/">
+          <button className="button" id="spaces">
+           Link to First Page
+          </button>
+        </Link>
 
         <a
           className="App-link"
@@ -21,12 +27,6 @@ function SecondPage() {
         >
           Learn React
         </a>
-
-        <Link to="/">
-          <button className="button" id="spaces">
-           Link to First Page
-          </button>
-        </Link>
       </header>
     </div>
   )
