@@ -50,7 +50,7 @@ html {
 
 .button {
   background-color: white;
-  color: black;
+  color: #282c34;
   border: 2px solid #61dafb;
   transition-duration: 0.3s;
   cursor: pointer;
