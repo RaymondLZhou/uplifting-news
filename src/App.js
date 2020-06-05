@@ -34,7 +34,7 @@ const display = feed.map((feed) => {
        
           <a
             style={{ marginLeft: '6rem' }} 
-            href="#top" 
+            href="/#" 
             className="App-link" 
             rel="noopener noreferrer"
           >
@@ -51,9 +51,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <a name="top"></a>
         <img src={logo} className="App-logo" alt="logo"/>
-
         <p>
           Uplifting News
         </p>
