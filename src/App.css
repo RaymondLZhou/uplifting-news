@@ -20,7 +20,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(15px + 2vmin);
   color: white;
 }
 
@@ -43,6 +43,7 @@
   border: 2px solid #61dafb;
   transition-duration: 0.3s;
   cursor: pointer;
+  font-size: calc(5px + 2vmin);
 }
 
 .button:hover {
@@ -51,7 +52,7 @@
 }
 
 #spaces {
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 .card {
@@ -63,6 +64,7 @@
   padding: 15px;
   float: left;
   height: 370px;
+  font-size: calc(10px + 2vmin);
 }
 
 .cardColumn {

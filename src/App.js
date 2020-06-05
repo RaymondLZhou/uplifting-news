@@ -31,7 +31,17 @@ const display = feed.map((feed) => {
           >
               Link to Article
           </a>
+       
+          <a
+            style={{ marginLeft: '6rem' }} 
+            href="#top" 
+            className="App-link" 
+            rel="noopener noreferrer"
+          >
+              Back to Top
+          </a>
         </Card.Text>
+
       </Card.Body>
     </Card>
   )
@@ -41,23 +51,15 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <a name="top"></a>
+        <img src={logo} className="App-logo" alt="logo"/>
 
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Uplifting News
         </p>
 
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-
         <Link to="/second-page">
-          <button className="button" id="spaces">
+          <button className="button">
            Link to Second Page
           </button>
         </Link>
