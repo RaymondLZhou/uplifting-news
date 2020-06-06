@@ -78,8 +78,8 @@ html {
   font-size: calc(10px + 2vmin);
 }
 
-.cardColumn {
-  margin-left: 30px;
+.cardColumns {
+  margin-left: 25px;
 }
 
 .cardTitle {

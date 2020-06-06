@@ -4,15 +4,12 @@ import logo from './logo.svg'
 import './App.css'
 
 class SecondPage extends React.Component {
-  render() {
+  render () {
     return (
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-  
-          <p>
-            This is a Second Page!
-          </p>
+          <p> This is a Second Page! </p>
           
           <Link to="/">
             <button className="button" id="spaces">
