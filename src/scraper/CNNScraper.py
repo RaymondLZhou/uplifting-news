@@ -15,7 +15,6 @@ for elem in feed.entries:
 
     if "" in (title, description, date, link):
         continue
-    
 
     newsObject = {
         "title": title,
