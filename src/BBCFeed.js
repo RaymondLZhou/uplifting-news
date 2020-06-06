@@ -1,5 +1,5 @@
 import React from 'react'
-import feed from './scraper/feed.json'
+import feed from './scraper/BBCFeed.json'
 import Card from 'react-bootstrap/Card'
 
 class BBCFeed extends React.Component {
