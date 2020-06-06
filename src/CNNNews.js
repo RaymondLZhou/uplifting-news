@@ -3,15 +3,15 @@ import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
 import CardColumns from 'react-bootstrap/CardColumns'
-import BBCFeed from './BBCFeed.js'
+import CNNFeed from './CNNFeed.js'
 
-class BBCNews extends React.Component {
+class CNNNews extends React.Component {
   render () {
     return (
       <div className="App">
         <header className="App-header" id="header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p> BBC News </p>
+          <p> CNN News </p>
           
           <Link to="/">
             <button className="button" id="spaces">
@@ -23,11 +23,11 @@ class BBCNews extends React.Component {
         </header>
 
         <body className="App-body" id="body">
-          <CardColumns className="cardColumns"> <BBCFeed/> </CardColumns>
+          <CardColumns className="cardColumns"> <CNNFeed/> </CardColumns>
         </body>
       </div>
     );
   }
 }
 
-export default BBCNews
+export default CNNNews

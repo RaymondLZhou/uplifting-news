@@ -4,6 +4,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import './index.css'
 import App from './App'
 import BBCNews from './BBCNews.js'
+import CNNNews from './CNNNews.js'
 import * as serviceWorker from './serviceWorker'
 
 ReactDOM.render(
@@ -15,6 +16,9 @@ ReactDOM.render(
         </Route>
         <Route path="/bbc-news">
           <BBCNews/>
+        </Route>
+        <Route path="/cnn-news">
+          <CNNNews/>
         </Route>
       </Switch>
     </Router>

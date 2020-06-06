@@ -11,11 +11,21 @@ class App extends React.Component {
           <img src={logo} className="App-logo" alt="logo"/>
           <p> Uplifting News </p>
 
-          <Link to="/bbc-news">
-            <button className="button" id="spaces">
-            Link to Second Page
-            </button>
-          </Link>
+          <div className="links">
+            <Link to="/bbc-news" className="link">
+              <button className="button" id="spaces">
+              Link to BBC News
+              </button>
+            </Link>
+
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+            <Link to="/cnn-news">
+              <button className="button" id="spaces">
+              Link to CNN News
+              </button>
+            </Link>
+          </div>
 
           <a
             className="App-link"

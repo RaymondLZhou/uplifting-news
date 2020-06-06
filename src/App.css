@@ -90,3 +90,7 @@ html {
 .cardDescription {
   height: 156px;
 }
+
+.links {
+  display: inline;
+}
