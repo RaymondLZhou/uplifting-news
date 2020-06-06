@@ -2,7 +2,7 @@ import React from 'react'
 import feed from './scraper/feed.json'
 import Card from 'react-bootstrap/Card'
 
-class FeedDisplay extends React.Component {
+class BBCFeed extends React.Component {
   render() {
     return (
       feed.map((feed) => (
@@ -39,4 +39,4 @@ class FeedDisplay extends React.Component {
   }
 }
 
-export default FeedDisplay
+export default BBCFeed

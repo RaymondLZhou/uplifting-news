@@ -11,12 +11,12 @@ class App extends React.Component {
           <img src={logo} className="App-logo" alt="logo"/>
           <p> Uplifting News </p>
 
-          <Link to="/second-page">
+          <Link to="/bbc-news">
             <button className="button" id="spaces">
             Link to Second Page
             </button>
           </Link>
-          
+
           <a
             className="App-link"
             href="https://reactjs.org"

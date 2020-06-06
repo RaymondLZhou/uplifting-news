@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import './index.css'
 import App from './App'
-import SecondPage from './SecondPage'
+import SecondPage from './BBCNews.js'
 import * as serviceWorker from './serviceWorker'
 
 ReactDOM.render(
@@ -13,7 +13,7 @@ ReactDOM.render(
         <Route exact path="/">
           <App />
         </Route>
-        <Route path="/second-page">
+        <Route path="/bbc-news">
           <SecondPage />
         </Route>
       </Switch>

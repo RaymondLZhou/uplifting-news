@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
 import CardColumns from 'react-bootstrap/CardColumns'
-import FeedDisplay from './FeedDisplay.js'
+import BBCFeed from './BBCFeed.js'
 
 class SecondPage extends React.Component {
   render () {
@@ -23,7 +23,7 @@ class SecondPage extends React.Component {
         </header>
 
         <body className="App-body" id="body">
-          <CardColumns className="cardColumns"> <FeedDisplay/> </CardColumns>
+          <CardColumns className="cardColumns"> <BBCFeed/> </CardColumns>
         </body>
       </div>
     );
