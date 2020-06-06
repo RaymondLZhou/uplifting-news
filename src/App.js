@@ -2,8 +2,6 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
-import CardColumns from 'react-bootstrap/CardColumns'
-import FeedDisplay from './FeedDisplay.js'
 
 class App extends React.Component {
   render() {
@@ -18,13 +16,16 @@ class App extends React.Component {
             Link to Second Page
             </button>
           </Link>
-
-          <a className="App-link" href="#body"> See News </a>
+          
+          <a
+            className="App-link"
+            href="https://reactjs.org"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Learn React
+          </a>
         </header>
-
-        <body className="App-body" id="body">
-          <CardColumns className="cardColumns"> <FeedDisplay/> </CardColumns>
-        </body>
       </div>
     )
   }

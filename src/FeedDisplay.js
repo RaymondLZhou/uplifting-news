@@ -26,7 +26,7 @@ class FeedDisplay extends React.Component {
           
               <a
                 style={{ marginLeft: '6rem' }} 
-                href="/#" 
+                href="#header" 
                 className="App-link" 
               >
                   Back to Top
