@@ -16,6 +16,9 @@ for elem in feed.entries:
     if "" in (title, description, date, link):
         continue
 
+    if link[-5:] != ".html":
+        continue
+
     newsObject = {
         "title": title,
         "description": description,
