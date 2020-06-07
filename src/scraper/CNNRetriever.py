@@ -12,20 +12,18 @@ for news in newsList:
     url = news["link"]
     page = requests.get(url)
     soup = BeautifulSoup(page.text, "html.parser")
-    results = soup.find(class_="story-body__inner")
+    results = soup.find(class_="l-container")
 
     if results is None:
-        continue
+        results = soup.find(class_="BasicArticle__main")
 
-    contents = soup.find_all("p")
-
-    if len(contents) < 16:
-        continue
-
-    contents = contents[12:len(contents)-3]
-
-    if contents[0].text.strip()[0:24] == "These are external links":
-        contents = contents[1:]
+        if results is None:
+            contents = []
+        
+        contents = soup.find_all(class_="Paragraph__component")
+    
+    else:
+        contents = soup.find_all(class_="zn-body__paragraph")
 
     article = " ".join(content.text.strip() for content in contents)
     article = {"text": article}
