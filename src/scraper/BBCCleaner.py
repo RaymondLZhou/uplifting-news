@@ -1,7 +1,7 @@
 import json
 import re
 
-with open("articlesRaw.json") as json_data:
+with open("BBCArticlesRaw.json") as json_data:
     newsList = json.load(json_data)
 
 REPLACE_NO_SPACE = re.compile(r"[.;:!\'?,\"()\[\]]")
@@ -14,5 +14,5 @@ newsList = [REPLACE_WITH_SPACE.sub(" ", news) for news in newsList]
 
 articles = [{"text": news} for news in newsList]
 
-with open("articlesCleaned.json", "w") as outfile:
+with open("BBCArticlesCleaned.json", "w") as outfile:
     json.dump(articles, outfile, indent=4)
