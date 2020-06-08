@@ -26,6 +26,8 @@ for news in newsList:
         contents = soup.find_all(class_="zn-body__paragraph")
 
     article = " ".join(content.text.strip() for content in contents)
+    article = article.replace("(CNN)", "")
+    article = article.replace("(CNN Business)", "")
     article = {"text": article}
     articles.append(article)
 
