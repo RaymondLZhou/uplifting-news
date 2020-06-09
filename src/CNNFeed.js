@@ -1,5 +1,5 @@
 import React from 'react'
-import feed from './scraper/CNNFeed.json'
+import feed from './scraper/cnn/CNNFeed.json'
 import Card from 'react-bootstrap/Card'
 
 class CNNFeed extends React.Component {
