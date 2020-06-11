@@ -13,7 +13,7 @@ neutral = []
 overall = []
 
 for news in newsList:
-    scores = sia.polarity_scores(news["description"])
+    scores = sia.polarity_scores(news["title"] + news["description"])
     
     descriptions.append(news["description"])
     positive.append(scores["pos"])
@@ -21,7 +21,7 @@ for news in newsList:
     negative.append(scores["neg"])
     overall.append(scores["compound"])
 
-frame = pd.DataFrame ({
+sentiments = pd.DataFrame ({
     "description": descriptions,
     "positive": positive,
     "neutral": neutral,
@@ -29,4 +29,33 @@ frame = pd.DataFrame ({
     "overall": overall,
 })
 
-frame.to_csv("BBCSentiment.csv")
+sentiments.to_csv("BBCSentiment.csv")
+
+with open("../scraper/cnn/CNNFeed.json") as json_data:
+    newsList = json.load(json_data)
+
+sia = SentimentIntensityAnalyzer()
+descriptions = []
+positive = []
+negative = []
+neutral = []
+overall = []
+
+for news in newsList:
+    scores = sia.polarity_scores(news["title"] + news["description"])
+    
+    descriptions.append(news["description"])
+    positive.append(scores["pos"])
+    neutral.append(scores["neu"])
+    negative.append(scores["neg"])
+    overall.append(scores["compound"])
+
+sentiments = pd.DataFrame ({
+    "description": descriptions,
+    "positive": positive,
+    "neutral": neutral,
+    "negative": negative,
+    "overall": overall,
+})
+
+sentiments.to_csv("CNNSentiment.csv")
