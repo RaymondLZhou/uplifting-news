@@ -6,8 +6,7 @@ with open("../scraper/bbc/BBCFeed.json") as json_data:
 
 sia = SentimentIntensityAnalyzer()
 
-news = newsList[0]["description"]
-
-scores = sia.polarity_scores(news)
-
-print("{:-<40} {}".format(news, str(scores)))
+for news in newsList:
+    scores = sia.polarity_scores(news["description"])
+    print("{:-<40} {}".format(news["description"], str(scores)))
+    print()
