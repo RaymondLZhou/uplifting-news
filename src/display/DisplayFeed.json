@@ -1,895 +1,5 @@
 [
     {
-        "title": "George Floyd death: Thousands turn out for UK anti-racism protests",
-        "description": "Demonstrations sparked by the death of George Floyd take place in towns and cities across the UK.",
-        "date": "Sat, 06 Jun 2020 20:26:01 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52949014",
-        "positive": 0.0,
-        "neutral": 0.755,
-        "negative": 0.245,
-        "overall": -0.8316
-    },
-    {
-        "title": "George Floyd: Thousands protest against racism in Washington DC",
-        "description": "Rallies across the United States against the death in custody of George Floyd go into a 12th day.",
-        "date": "Sat, 06 Jun 2020 19:26:58 GMT",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-52951093",
-        "positive": 0.083,
-        "neutral": 0.621,
-        "negative": 0.296,
-        "overall": -0.802
-    },
-    {
-        "title": "Coronavirus: NHS trust bosses not consulted over new face mask rules",
-        "description": "Hospital bosses in England felt \"in the dark\" over changes to policies on face masks and visitors.",
-        "date": "Sat, 06 Jun 2020 17:49:54 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52946850",
-        "positive": 0.113,
-        "neutral": 0.887,
-        "negative": 0.0,
-        "overall": 0.5106
-    },
-    {
-        "title": "D-Day anniversary: Emotional surprise for veteran in lockdown",
-        "description": "Coronavirus disrupted Harry Billinge's D-Day plans. But he got to meet a face from his past instead.",
-        "date": "Sat, 06 Jun 2020 12:50:35 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52949391",
-        "positive": 0.15,
-        "neutral": 0.85,
-        "negative": 0.0,
-        "overall": 0.4019
-    },
-    {
-        "title": "Coronavirus: Is R number balanced on knife edge?",
-        "description": "There are concerns coronavirus might be starting to spread in parts of England again.",
-        "date": "Sat, 06 Jun 2020 08:16:23 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52944037",
-        "positive": 0.064,
-        "neutral": 0.936,
-        "negative": 0.0,
-        "overall": 0.0772
-    },
-    {
-        "title": "John Bercow: Ex-Speaker 'sorry' not to receive peerage",
-        "description": "The former Commons speaker tells the BBC he \"made a lot of enemies\" but denies bullying allegations.",
-        "date": "Sat, 06 Jun 2020 12:37:42 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-politics-52948716",
-        "positive": 0.0,
-        "neutral": 0.642,
-        "negative": 0.358,
-        "overall": -0.9032
-    },
-    {
-        "title": "George Floyd death: Australians defy virus in mass anti-racism rallies",
-        "description": "Protesters march in support of George Floyd and indigenous Australians despite coronavirus warnings.",
-        "date": "Sat, 06 Jun 2020 11:10:20 GMT",
-        "link": "https://www.bbc.co.uk/news/world-australia-52947115",
-        "positive": 0.167,
-        "neutral": 0.691,
-        "negative": 0.142,
-        "overall": -0.0803
-    },
-    {
-        "title": "NFL says players' protests during national anthem should be allowed",
-        "description": "The National Football League previously banned its players from dropping to one knee before games.",
-        "date": "Sat, 06 Jun 2020 08:38:05 GMT",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-52945934",
-        "positive": 0.0,
-        "neutral": 0.818,
-        "negative": 0.182,
-        "overall": -0.5994
-    },
-    {
-        "title": "Coronavirus: Merseyside's 'forgotten street'",
-        "description": "The BBC's Ed Thomas visits one street in north-west England that's reeling from three Covid-19 deaths.",
-        "date": "Fri, 05 Jun 2020 23:19:36 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52930891",
-        "positive": 0.0,
-        "neutral": 0.905,
-        "negative": 0.095,
-        "overall": -0.2263
-    },
-    {
-        "title": "Coronavirus: Far-right Rome protest turns briefly violent",
-        "description": "A rally by extremists and football fans over the government's response ended in clashes with police.",
-        "date": "Sat, 06 Jun 2020 19:34:57 GMT",
-        "link": "https://www.bbc.co.uk/news/world-europe-52951920",
-        "positive": 0.0,
-        "neutral": 0.913,
-        "negative": 0.087,
-        "overall": -0.25
-    },
-    {
-        "title": "Coronavirus: Hunting for future killer viruses",
-        "description": "Scientists are gathering data on how new diseases emerge in the hope of identifying future pandemics.",
-        "date": "Sat, 06 Jun 2020 11:14:08 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52786714",
-        "positive": 0.111,
-        "neutral": 0.725,
-        "negative": 0.164,
-        "overall": -0.34
-    },
-    {
-        "title": "Kameko stuns Pinatubo to win 2,000 Guineas at Newmarket",
-        "description": "Kameko inflicts a first defeat on Pinatubo to win the 2,000 Guineas, the first British Classic of the season.",
-        "date": "Sat, 06 Jun 2020 16:15:17 GMT",
-        "link": "https://www.bbc.co.uk/sport/horse-racing/52941233",
-        "positive": 0.258,
-        "neutral": 0.653,
-        "negative": 0.089,
-        "overall": 0.6908
-    },
-    {
-        "title": "Prince William reveals he is secret helpline volunteer",
-        "description": "The second in line to the throne has been secretly answering text messages from people needing help.",
-        "date": "Sat, 06 Jun 2020 13:50:08 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52940787",
-        "positive": 0.105,
-        "neutral": 0.895,
-        "negative": 0.0,
-        "overall": 0.4019
-    },
-    {
-        "title": "Coronavirus face mask lights up with moving mouth shapes",
-        "description": "A games designer creates a face mask that shows animated mouth shapes as you speak.",
-        "date": "Fri, 05 Jun 2020 23:14:11 GMT",
-        "link": "https://www.bbc.co.uk/news/technology-52944499",
-        "positive": 0.091,
-        "neutral": 0.909,
-        "negative": 0.0,
-        "overall": 0.2732
-    },
-    {
-        "title": "How the NFL made its U-turn on kneeling",
-        "description": "Four years after Colin Kaepernick first kneeled during the US national anthem, the NFL says it was \"wrong\" for not allowing players to protest.",
-        "date": "Sat, 06 Jun 2020 14:17:21 GMT",
-        "link": "https://www.bbc.co.uk/sport/american-football/52948942",
-        "positive": 0.0,
-        "neutral": 0.938,
-        "negative": 0.062,
-        "overall": -0.25
-    },
-    {
-        "title": "Band spends lockdown playing in Norfolk country house",
-        "description": "The musicians have practising together after moving into a country house before lockdown.",
-        "date": "Fri, 05 Jun 2020 23:15:03 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-norfolk-52911102",
-        "positive": 0.091,
-        "neutral": 0.909,
-        "negative": 0.0,
-        "overall": 0.2023
-    },
-    {
-        "title": "George Floyd: US children explain why they are protesting",
-        "description": "People of all ages are demonstrating, including kids who say \"you can't judge a book by its colour\".",
-        "date": "Fri, 05 Jun 2020 22:12:48 GMT",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-52943127",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus claims 10 of the Royal Chelsea Pensioners",
-        "description": "Ten of the Chelsea Pensioners have died in the coronavirus pandemic but their comrades soldier on.",
-        "date": "Fri, 05 Jun 2020 23:18:34 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52930892",
-        "positive": 0.0,
-        "neutral": 0.905,
-        "negative": 0.095,
-        "overall": -0.3182
-    },
-    {
-        "title": "Safaris go virtual as coronavirus hits tourism",
-        "description": "The people can't go to the animals, but some companies are finding ways to bring them into homes.",
-        "date": "Fri, 05 Jun 2020 23:11:46 GMT",
-        "link": "https://www.bbc.co.uk/news/world-africa-52930888",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: Is China bolder in the wake of the pandemic?",
-        "description": "As the rest of the world reels from the pandemic, China is pushing ahead with the pursuit of its national interest.",
-        "date": "Fri, 05 Jun 2020 23:16:50 GMT",
-        "link": "https://www.bbc.co.uk/news/world-asia-52936580",
-        "positive": 0.157,
-        "neutral": 0.843,
-        "negative": 0.0,
-        "overall": 0.6369
-    },
-    {
-        "title": "How Bill Gates became the voodoo doll of Covid conspiracies",
-        "description": "The ex-Microsoft head is currently the target of all kinds of outlandish theories and false claims.",
-        "date": "Fri, 05 Jun 2020 23:12:58 GMT",
-        "link": "https://www.bbc.co.uk/news/technology-52833706",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: 40,000 UK deaths - what happened?",
-        "description": "The UK's coronavirus death toll has passed more than 40,000, according to the latest figures.",
-        "date": "Fri, 05 Jun 2020 22:04:18 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52944894",
-        "positive": 0.0,
-        "neutral": 0.83,
-        "negative": 0.17,
-        "overall": -0.5994
-    },
-    {
-        "title": "Coronavirus: Kate Garraway opens up on husband's battle with 'evil virus'",
-        "description": "TV presenter Kate Garraway's partner has been in a coma for nearly 10 weeks, after catching Covid-19.",
-        "date": "Fri, 05 Jun 2020 11:09:53 GMT",
-        "link": "https://www.bbc.co.uk/news/entertainment-arts-52933404",
-        "positive": 0.0,
-        "neutral": 0.774,
-        "negative": 0.226,
-        "overall": -0.7906
-    },
-    {
-        "title": "Back-to-school diary: \u2018You can throw the ball, but no-one can catch it\u2019",
-        "description": "When 11-year-old Carl returned to primary school this week almost everything had changed.",
-        "date": "Fri, 05 Jun 2020 23:48:36 GMT",
-        "link": "https://www.bbc.co.uk/news/stories-52906290",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "The influencers trampling nature - and the man who's trying to stop them",
-        "description": "Fed up with eco-oblivious influencers, some people have started naming and shaming.",
-        "date": "Fri, 05 Jun 2020 23:22:09 GMT",
-        "link": "https://www.bbc.co.uk/news/blogs-trending-52840452",
-        "positive": 0.0,
-        "neutral": 0.909,
-        "negative": 0.091,
-        "overall": -0.296
-    },
-    {
-        "title": "Madeleine McCann: What is known about the German suspect?",
-        "description": "Named as Christian B, 43, the man currently in jail has many previous convictions.",
-        "date": "Fri, 05 Jun 2020 17:54:53 GMT",
-        "link": "https://www.bbc.co.uk/news/world-europe-52937626",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "George Floyd: Fake White House image and protest videos debunked",
-        "description": "Debunking some of the most widely shared misleading posts and videos about the George Floyd protests.",
-        "date": "Fri, 05 Jun 2020 23:19:17 GMT",
-        "link": "https://www.bbc.co.uk/news/52934672",
-        "positive": 0.082,
-        "neutral": 0.613,
-        "negative": 0.305,
-        "overall": -0.7419
-    },
-    {
-        "title": "George Floyd protests: What do 'white privilege' and 'ally' mean?",
-        "description": "Protests following the death of George Floyd have brought some important phrases into the spotlight.",
-        "date": "Fri, 05 Jun 2020 23:49:10 GMT",
-        "link": "https://www.bbc.co.uk/news/newsbeat-52892949",
-        "positive": 0.143,
-        "neutral": 0.664,
-        "negative": 0.193,
-        "overall": -0.3612
-    },
-    {
-        "title": "My Money: 'This was not a normal week!'",
-        "description": "Alex Wright from Leicester takes us through his weekly spending during the coronavirus pandemic.",
-        "date": "Fri, 05 Jun 2020 21:30:14 GMT",
-        "link": "https://www.bbc.co.uk/news/business-52909713",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Yearning for sound of tourists in Alps again",
-        "description": "The hills come alive again with the noise of mountain railways and cable cars.",
-        "date": "Fri, 05 Jun 2020 23:17:25 GMT",
-        "link": "https://www.bbc.co.uk/news/world-europe-52935142",
-        "positive": 0.177,
-        "neutral": 0.823,
-        "negative": 0.0,
-        "overall": 0.4767
-    },
-    {
-        "title": "No positive results in latest Premier League tests",
-        "description": "There were no positive results for coronavirus from 1,195 tests in the latest round of testing in the Premier League.",
-        "date": "Sat, 06 Jun 2020 20:08:23 GMT",
-        "link": "https://www.bbc.co.uk/sport/football/52950898",
-        "positive": 0.208,
-        "neutral": 0.665,
-        "negative": 0.127,
-        "overall": 0.5859
-    },
-    {
-        "title": "Racism is a pandemic - Joshua speaks at Black Lives Matter march",
-        "description": "Britain's world heavyweight champion Anthony Joshua describes racism as a \"pandemic\" at a Black Lives Matter march.",
-        "date": "Sat, 06 Jun 2020 19:51:23 GMT",
-        "link": "https://www.bbc.co.uk/sport/boxing/52950772",
-        "positive": 0.183,
-        "neutral": 0.571,
-        "negative": 0.246,
-        "overall": -0.6249
-    },
-    {
-        "title": "US Open coronavirus protocols extreme - Djokovic",
-        "description": "World number one Novak Djokovic calls the coronavirus safety protocols, planned in order for the US Open to take place \"extreme\".",
-        "date": "Sat, 06 Jun 2020 17:21:59 GMT",
-        "link": "https://www.bbc.co.uk/sport/tennis/52950195",
-        "positive": 0.146,
-        "neutral": 0.854,
-        "negative": 0.0,
-        "overall": 0.4767
-    },
-    {
-        "title": "Bayern move to within two wins of Bundesliga title",
-        "description": "Bayern Munich need a maximum of two wins from their final four games to clinch an eighth straight Bundesliga title after coming from behind to beat Bayer Leverkusen.",
-        "date": "Sat, 06 Jun 2020 18:31:31 GMT",
-        "link": "https://www.bbc.co.uk/sport/football/52949790",
-        "positive": 0.225,
-        "neutral": 0.775,
-        "negative": 0.0,
-        "overall": 0.8519
-    },
-    {
-        "title": "Burgess criticism of Fords 'strange and confusing'",
-        "description": "Criticism of Mike and George Ford by ex-England international Sam Burgess is \"strange and confusing\", says Leicester Tigers head coach Geordan Murphy.",
-        "date": "Sat, 06 Jun 2020 16:36:27 GMT",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/52950776",
-        "positive": 0.0,
-        "neutral": 0.794,
-        "negative": 0.206,
-        "overall": -0.6705
-    },
-    {
-        "title": "Sunday's football gossip: Real make \u00a371m bid for Leverkusen's Havertz",
-        "description": "Real Madrid make Havertz bid, Everton lead Rabiot chase, Chelsea set to offload several players, plus more.",
-        "date": "Sat, 06 Jun 2020 20:36:16 GMT",
-        "link": "https://www.bbc.co.uk/sport/52950189",
-        "positive": 0.0,
-        "neutral": 0.936,
-        "negative": 0.064,
-        "overall": -0.1779
-    },
-    {
-        "title": "Missing three drugs tests is 'normal' - world champion Naser given provisional ban",
-        "description": "World 400m champion Salwa Eid Naser is given a provisional suspension for failing to make herself available for anti-doping tests.",
-        "date": "Sat, 06 Jun 2020 13:08:55 GMT",
-        "link": "https://www.bbc.co.uk/sport/athletics/52938089",
-        "positive": 0.198,
-        "neutral": 0.662,
-        "negative": 0.14,
-        "overall": 0.5106
-    },
-    {
-        "title": "Coronavirus: Are protests legal amid lockdown?",
-        "description": "Black Lives Matter protests continue in the UK - but are they illegal under restrictions on gatherings?",
-        "date": "Sat, 06 Jun 2020 12:44:31 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52909814",
-        "positive": 0.087,
-        "neutral": 0.605,
-        "negative": 0.308,
-        "overall": -0.782
-    },
-    {
-        "title": "Coronavirus: How to make your own face mask",
-        "description": "Our guide to different types of face coverings and step-by-step instructions on how to make them.",
-        "date": "Thu, 04 Jun 2020 16:22:43 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52609777",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus UK map: How many confirmed cases are there in your area?",
-        "description": "Key graphics explaining how coronavirus has spread in the UK and the government's response.",
-        "date": "Sat, 06 Jun 2020 15:31:49 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-51768274",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Can superspreading be stopped?",
-        "description": "Identifying superspreading events could be crucial in the fight against the virus, scientists say.",
-        "date": "Sat, 06 Jun 2020 07:16:46 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52903787",
-        "positive": 0.0,
-        "neutral": 0.86,
-        "negative": 0.14,
-        "overall": -0.3818
-    },
-    {
-        "title": "Your tributes to those who have died",
-        "description": "A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.",
-        "date": "Fri, 05 Jun 2020 14:40:01 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52676411",
-        "positive": 0.0,
-        "neutral": 0.874,
-        "negative": 0.126,
-        "overall": -0.5574
-    },
-    {
-        "title": "Coronavirus: Who should wear a face mask or face covering?",
-        "description": "Face coverings are to become compulsory for people using public transport in England.",
-        "date": "Fri, 05 Jun 2020 20:34:53 GMT",
-        "link": "https://www.bbc.co.uk/news/health-51205344",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: What are social distancing and self-isolation rules?",
-        "description": "You can now meet more people and play certain non-contact sports in the UK - but what are they?",
-        "date": "Mon, 01 Jun 2020 12:55:59 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-51506729",
-        "positive": 0.14,
-        "neutral": 0.86,
-        "negative": 0.0,
-        "overall": 0.4102
-    },
-    {
-        "title": "Coronavirus and face coverings: the correct way to wear them",
-        "description": "Across the world, people are being asked to wear face coverings to help stop coronavirus from spreading.",
-        "date": "Thu, 04 Jun 2020 16:43:52 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52606128",
-        "positive": 0.093,
-        "neutral": 0.83,
-        "negative": 0.076,
-        "overall": 0.128
-    },
-    {
-        "title": "Can I start a new relationship? And other questions",
-        "description": "Starting a new relationship is difficult during the current crisis, but not impossible.",
-        "date": "Thu, 04 Jun 2020 06:38:31 GMT",
-        "link": "https://www.bbc.co.uk/news/world-asia-china-51176409",
-        "positive": 0.0,
-        "neutral": 0.788,
-        "negative": 0.212,
-        "overall": -0.5106
-    },
-    {
-        "title": "Coronavirus: How does contact tracing work in England?",
-        "description": "People who have been in close contact with someone found to have Covid-19 are now being traced.",
-        "date": "Fri, 05 Jun 2020 08:40:47 GMT",
-        "link": "https://www.bbc.co.uk/news/explainers-52442754",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: Which schools are reopening for pupils?",
-        "description": "Which children are the first to go back to school, and what about the rest?",
-        "date": "Fri, 05 Jun 2020 14:24:39 GMT",
-        "link": "https://www.bbc.co.uk/news/education-51643556",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: Could social distancing of less than two metres work?",
-        "description": "The government is under pressure to relax the 2m social distancing rule - but is it safe to do so?",
-        "date": "Tue, 02 Jun 2020 13:46:35 GMT",
-        "link": "https://www.bbc.co.uk/news/science-environment-52522460",
-        "positive": 0.188,
-        "neutral": 0.763,
-        "negative": 0.049,
-        "overall": 0.6767
-    },
-    {
-        "title": "Coronavirus symptoms: What are they and how do I protect myself?",
-        "description": "Loss of taste and smell have been added to the UK's list of coronavirus symptoms.",
-        "date": "Thu, 04 Jun 2020 19:53:57 GMT",
-        "link": "https://www.bbc.co.uk/news/health-51048366",
-        "positive": 0.102,
-        "neutral": 0.898,
-        "negative": 0.0,
-        "overall": 0.3818
-    },
-    {
-        "title": "Coronavirus: What tests are being done in the UK?",
-        "description": "What are the tests for coronavirus, who are they for and how do they work?",
-        "date": "Thu, 04 Jun 2020 13:46:03 GMT",
-        "link": "https://www.bbc.co.uk/news/health-51943612",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: What are the UK travel quarantine rules?",
-        "description": "What do you need to know if you're planning to fly during the Covid-19 pandemic?",
-        "date": "Fri, 05 Jun 2020 15:32:59 GMT",
-        "link": "https://www.bbc.co.uk/news/explainers-52544307",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "NHS test & trace: Does contact tracing stop coronavirus?",
-        "description": "Wales is the latest part of the UK to launch a tracing system, but how do they work?",
-        "date": "Mon, 01 Jun 2020 23:03:28 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52852689",
-        "positive": 0.0,
-        "neutral": 0.921,
-        "negative": 0.079,
-        "overall": -0.2406
-    },
-    {
-        "title": "Coronavirus: How dangerous is lifting lockdown?",
-        "description": "Why is lifting restrictions being described as a \"dangerous moment\"?",
-        "date": "Mon, 01 Jun 2020 23:57:25 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52878816",
-        "positive": 0.0,
-        "neutral": 0.647,
-        "negative": 0.353,
-        "overall": -0.7622
-    },
-    {
-        "title": "Coronavirus: Why we don't know how many are being tested",
-        "description": "The UK Statistics Authority has criticised the government's handling of Covid-19 testing data.",
-        "date": "Tue, 02 Jun 2020 16:47:18 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52891611",
-        "positive": 0.054,
-        "neutral": 0.83,
-        "negative": 0.116,
-        "overall": -0.3612
-    },
-    {
-        "title": "Hay fever v coronavirus: what are the symptoms?",
-        "description": "The Royal College of General Practitioners is warning people not to mix up the symptoms.",
-        "date": "Sun, 19 Apr 2020 23:14:43 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52319536",
-        "positive": 0.0,
-        "neutral": 0.893,
-        "negative": 0.107,
-        "overall": -0.34
-    },
-    {
-        "title": "Coronavirus: When will shops open and what will the rules be?",
-        "description": "Non-essential shops can reopen in England in June, but will I be able to buy a book or have a haircut?",
-        "date": "Mon, 01 Jun 2020 11:14:21 GMT",
-        "link": "https://www.bbc.co.uk/news/business-52808931",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Social distancing: A practical guide to how to socialise now",
-        "description": "Meeting friends? Here's how to handle the awkward new rules - from sharing food to avoiding hugs.",
-        "date": "Sat, 30 May 2020 08:43:46 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52848793",
-        "positive": 0.283,
-        "neutral": 0.592,
-        "negative": 0.125,
-        "overall": 0.7269
-    },
-    {
-        "title": "Coronavirus: We answer kids' questions about going back to school",
-        "description": "The BBC's Education Editor Branwen Jeffreys answers kids' questions about going back to school.",
-        "date": "Thu, 28 May 2020 23:00:48 GMT",
-        "link": "https://www.bbc.co.uk/news/education-52842040",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: School return plan 'like a jigsaw puzzle'",
-        "description": "A head teacher explains how she is piecing school life back together before children return.",
-        "date": "Sat, 30 May 2020 00:28:10 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-norfolk-52771769",
-        "positive": 0.111,
-        "neutral": 0.889,
-        "negative": 0.0,
-        "overall": 0.3612
-    },
-    {
-        "title": "Coronavirus: What are the risks for children?",
-        "description": "Children seem to be at low risk from the disease, but can they still spread it?",
-        "date": "Fri, 29 May 2020 18:05:38 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52003804",
-        "positive": 0.0,
-        "neutral": 0.791,
-        "negative": 0.209,
-        "overall": -0.4606
-    },
-    {
-        "title": "Coronavirus: Who should be shielding?",
-        "description": "People most at risk of needing hospital treatment if they get coronavirus are being asked to stay home.",
-        "date": "Sun, 31 May 2020 16:15:29 GMT",
-        "link": "https://www.bbc.co.uk/news/health-51997151",
-        "positive": 0.0,
-        "neutral": 0.898,
-        "negative": 0.102,
-        "overall": -0.3353
-    },
-    {
-        "title": "Coronavirus: Are these targets being hit?",
-        "description": "Ministers have set targets for testing, medical equipment and hospital beds. Have they delivered?",
-        "date": "Tue, 02 Jun 2020 11:05:14 GMT",
-        "link": "https://www.bbc.co.uk/news/52382786",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: What are the rules on weddings?",
-        "description": "There is a lot of uncertainty around when and how weddings are allowed to take place. What are your rights?",
-        "date": "Fri, 05 Jun 2020 14:20:16 GMT",
-        "link": "https://www.bbc.co.uk/news/explainers-52811509",
-        "positive": 0.0,
-        "neutral": 0.897,
-        "negative": 0.103,
-        "overall": -0.4137
-    },
-    {
-        "title": "All you need to know about new measures",
-        "description": "How will social and work life be different after the easing of some restrictions around the UK?",
-        "date": "Wed, 03 Jun 2020 18:25:39 GMT",
-        "link": "https://www.bbc.co.uk/news/explainers-52530518",
-        "positive": 0.08,
-        "neutral": 0.92,
-        "negative": 0.0,
-        "overall": 0.25
-    },
-    {
-        "title": "Coronavirus: What does it mean if I've been furloughed by work?",
-        "description": "Millions unable to do their job due to coronavirus will have their wages paid by a new scheme.",
-        "date": "Fri, 29 May 2020 17:42:21 GMT",
-        "link": "https://www.bbc.co.uk/news/explainers-52135342",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: What help are self-employed getting from government?",
-        "description": "What is being done for the five million self-employed people in the UK facing a sudden loss of income?",
-        "date": "Fri, 29 May 2020 16:13:48 GMT",
-        "link": "https://www.bbc.co.uk/news/business-52052123",
-        "positive": 0.108,
-        "neutral": 0.811,
-        "negative": 0.081,
-        "overall": 0.1926
-    },
-    {
-        "title": "Samoan rugby team that set off 104 days ago still not home",
-        "description": "While waiting for flights to resume, 20 players shared a single room in Auckland for three months.",
-        "date": "Fri, 05 Jun 2020 04:07:23 GMT",
-        "link": "https://www.bbc.co.uk/news/world-asia-52900959",
-        "positive": 0.085,
-        "neutral": 0.915,
-        "negative": 0.0,
-        "overall": 0.34
-    },
-    {
-        "title": "Remote working: How cities might change if we worked from home more",
-        "description": "Our homes, transport and city-centre spaces would change if we worked from home for good.",
-        "date": "Sun, 31 May 2020 23:15:45 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-52767773",
-        "positive": 0.104,
-        "neutral": 0.896,
-        "negative": 0.0,
-        "overall": 0.4404
-    },
-    {
-        "title": "Nude sunbather mistaken for dead body near railway line in Essex",
-        "description": "Rail workers spotted a pair of feet \"but no signs of life\" within the railway boundary in Essex.",
-        "date": "Wed, 03 Jun 2020 16:15:52 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-essex-52904213",
-        "positive": 0.0,
-        "neutral": 0.769,
-        "negative": 0.231,
-        "overall": -0.7351
-    },
-    {
-        "title": "Coronavirus: How safe is it to get on a plane?",
-        "description": "Many airlines are planning to resume flying, but they first need to reduce the risks of Covid-19.",
-        "date": "Tue, 02 Jun 2020 13:00:06 GMT",
-        "link": "https://www.bbc.co.uk/news/business-52822913",
-        "positive": 0.071,
-        "neutral": 0.833,
-        "negative": 0.096,
-        "overall": -0.1779
-    },
-    {
-        "title": "Our masked identities: Cartoons of India's new normal",
-        "description": "Cartoonist Priya Kuriyan documents how masks became prevalent in India - even before its lockdown.",
-        "date": "Sun, 31 May 2020 23:08:26 GMT",
-        "link": "https://www.bbc.co.uk/news/world-asia-india-52792382",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "From cats to cakes: The photo that made me",
-        "description": "Members of the Association of Photographers select a picture that kick-started their career.",
-        "date": "Thu, 04 Jun 2020 23:37:10 GMT",
-        "link": "https://www.bbc.co.uk/news/in-pictures-52896224",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "#WeAreTired: Nigerian women speak out over wave of violence",
-        "description": "Thousands sign a petition and use the hashtag #WeAreTired to protest against recent rapes and killings.",
-        "date": "Thu, 04 Jun 2020 23:25:48 GMT",
-        "link": "https://www.bbc.co.uk/news/world-africa-52889965",
-        "positive": 0.0,
-        "neutral": 0.645,
-        "negative": 0.355,
-        "overall": -0.9001
-    },
-    {
-        "title": "Dancing On My Own: The story behind Robyn's 2010 'sad banger'",
-        "description": "The Swedish singer discusses her pop classic, and how she once became 'tired of the broken heart'.",
-        "date": "Sun, 31 May 2020 23:18:10 GMT",
-        "link": "https://www.bbc.co.uk/news/newsbeat-52817969",
-        "positive": 0.0,
-        "neutral": 0.725,
-        "negative": 0.275,
-        "overall": -0.8442
-    },
-    {
-        "title": "Coronavirus: Kenyan boy who made hand-washing machine awarded",
-        "description": "Stephen Wamukota came up with a hand-washing machine that helps prevent the spread of Covid-19.",
-        "date": "Tue, 02 Jun 2020 16:52:33 GMT",
-        "link": "https://www.bbc.co.uk/news/world-africa-52898797",
-        "positive": 0.163,
-        "neutral": 0.837,
-        "negative": 0.0,
-        "overall": 0.4019
-    },
-    {
-        "title": "Philando Castile death: 'I lost my best friend in a police shooting'",
-        "description": "Four years before George Floyd's death made global headlines, another man was shot dead in the same part of the US.",
-        "date": "Wed, 03 Jun 2020 01:08:37 GMT",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-52896872",
-        "positive": 0.158,
-        "neutral": 0.534,
-        "negative": 0.308,
-        "overall": -0.7906
-    },
-    {
-        "title": "Here's what defunding the police would mean",
-        "description": "\u2022 Analysis: As Trump gives in to his baser instincts, cities look for policing changes\n\u2022 St. Paul mayor reflects on generations of pain among African Americans",
-        "date": "Sun, 07 Jun 2020 23:04:56 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/eCUWYkT9FKw/index.html",
-        "positive": 0.0,
-        "neutral": 0.904,
-        "negative": 0.096,
-        "overall": -0.5106
-    },
-    {
-        "title": "New York plans to move some police funding to youth and social services",
-        "description": "New York City will move some of its funding from the New York Police Department to youth and social services, Mayor Bill De Blasio said on Sunday.",
-        "date": "Sun, 07 Jun 2020 22:51:15 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/7j3aICTRSn8/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Top Trump officials claim there's no systemic racism in US law enforcement agencies as Americans flood streets in protest",
-        "description": "Several top Trump administration officials claimed Sunday that systemic racism is not an issue in US law enforcement agencies -- even as thousands of Americans continue to take to the streets to protest against racism and police violence following the police killing of a black man in Minneapolis.",
-        "date": "Sun, 07 Jun 2020 21:33:46 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/SRIuSXgIAjs/index.html",
-        "positive": 0.043,
-        "neutral": 0.662,
-        "negative": 0.296,
-        "overall": -0.9732
-    },
-    {
-        "title": "More colleges say their student athletes have Covid-19",
-        "description": "\u2022 Trump's CDC director has a controversial past\n\u2022 Mayor says NYC is within parameters to proceed with reopening\n\u2022 US vaccine program is fueling fears, two experts say\n\u2022 This country decided against a lockdown. See how it's going.",
-        "date": "Sun, 07 Jun 2020 21:50:01 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/i8mX3uITVfA/index.html",
-        "positive": 0.0,
-        "neutral": 0.897,
-        "negative": 0.103,
-        "overall": -0.5574
-    },
-    {
-        "title": "Joe Biden hits a milestone Hillary Clinton never did: 50%",
-        "description": "\u2022 Analysis: Trump's chaos has turned on him\n\u2022 Trump meets with campaign team as poll numbers fall\n\u2022 Analysis: Trump's historically strong with his base -- that's a problem\n\u2022 Colin Powell says he will vote for Biden for president",
-        "date": "Sun, 07 Jun 2020 21:34:12 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/n-IoPKpPJbw/index.html",
-        "positive": 0.064,
-        "neutral": 0.812,
-        "negative": 0.124,
-        "overall": -0.4767
-    },
-    {
-        "title": "James Bennet resigns from New York Times after Cotton op-ed backlash",
-        "description": "The editor of The New York Times' editorial page, James Bennet, has resigned, publisher A.G. Sulzberger announced Sunday. Bennet's resignation comes after the publication of a controversial op-ed from Republican Sen. Tom Cotton earlier in the week drew significant criticism, including from dozens of the newspaper's staffers.",
-        "date": "Sun, 07 Jun 2020 21:28:03 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/qq0mGnA5Y6I/index.html",
-        "positive": 0.029,
-        "neutral": 0.794,
-        "negative": 0.178,
-        "overall": -0.8126
-    },
-    {
-        "title": "Police officer faces charges after using a stun gun on a black man",
-        "description": "A police officer in Fairfax County, Virginia, faces up to three years in prison in connection with his arrest and use of a stun gun on a black man who cried out, \"I can't breathe.\"",
-        "date": "Sun, 07 Jun 2020 19:40:13 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/y1qFrSP4X_E/index.html",
-        "positive": 0.0,
-        "neutral": 0.709,
-        "negative": 0.291,
-        "overall": -0.9217
-    },
-    {
-        "title": "Journalist says there's something important media is missing",
-        "description": "Mukhtar Ibrahim didn't imagine the communities he covers would be at the epicenter of protests sweeping the nation when he founded a startup news website in Minnesota last year.",
-        "date": "Sun, 07 Jun 2020 05:11:41 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/LV83SF8B31c/index.html",
-        "positive": 0.049,
-        "neutral": 0.899,
-        "negative": 0.052,
-        "overall": -0.0258
-    },
-    {
-        "title": "White House is considering a Trump speech to the nation on race and unity",
-        "description": "After a weekend of massive peaceful protests around the country, White House officials are currently deliberating a plan for President Donald Trump to address the nation this week on issues related to race and national unity, as Housing and Urban Development Secretary Ben Carson hinted in an interview with CNN on Sunday and a senior administration official said was under serious consideration.",
-        "date": "Sun, 07 Jun 2020 22:13:44 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/hBIPoTD6Rlo/index.html",
-        "positive": 0.043,
-        "neutral": 0.914,
-        "negative": 0.043,
-        "overall": 0.25
-    },
-    {
-        "title": "Colin Powell: Trump lies 'all the time'",
-        "description": "\u2022 Watch and read: Colin Powell's State of the Union interview\n\u2022 Powell slams GOP lawmakers for having 'nothing to say' about Trump's protest response\n\u2022 'Situation has gotten worse': Powell explains why Trump shouldn't be reelected",
-        "date": "Sun, 07 Jun 2020 17:56:01 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/OosxOysWApk/index.html",
-        "positive": 0.0,
-        "neutral": 0.89,
-        "negative": 0.11,
-        "overall": -0.5859
-    },
-    {
-        "title": "Powell calls out Republican lawmakers for having 'nothing to say' about Trump's response to Floyd protests",
-        "description": "Former Republican Secretary of State Colin Powell on Sunday called out Republican lawmakers for having \"nothing to say\" about President Donald Trump's militarized response to widespread unrest following the death of George Floyd at the hands of police.",
-        "date": "Sun, 07 Jun 2020 18:38:05 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Mx0zpjuUs9c/index.html",
-        "positive": 0.0,
-        "neutral": 0.93,
-        "negative": 0.07,
-        "overall": -0.5994
-    },
-    {
-        "title": "University calls professor's tweets 'vile and inexcusable' following backlash online",
-        "description": "A professor at the University of North Carolina Wilmington has come under fire for tweets he posted which the school has called \"vile and inexcusable,\" according to a statement the school provided to CNN Saturday.",
-        "date": "Sun, 07 Jun 2020 15:03:24 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Mp5x1yabvKE/index.html",
-        "positive": 0.0,
-        "neutral": 0.791,
-        "negative": 0.209,
-        "overall": -0.891
-    },
-    {
         "title": "Opinion: Trump's most self-defeating move",
         "description": "Abraham Lincoln knew the value of a good photo. In February 1860, the former congressman from Illinois posed for Matthew Brady in the pioneering photographer's New York studio. The resulting image concealed some cosmetic flaws, giving Lincoln a determined look. It was widely distributed and credited with helping him win the nomination and the presidency.",
         "date": "Sun, 07 Jun 2020 20:26:01 GMT",
@@ -898,156 +8,6 @@
         "neutral": 0.729,
         "negative": 0.0,
         "overall": 0.9485
-    },
-    {
-        "title": "UFC champion announces his retirement",
-        "description": "Mixed martial arts fighter Conor McGregor announced his retirement from the sport on social media Sunday.",
-        "date": "Sun, 07 Jun 2020 13:20:49 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/tck-u1QDVX4/index.html",
-        "positive": 0.234,
-        "neutral": 0.766,
-        "negative": 0.0,
-        "overall": 0.6705
-    },
-    {
-        "title": "15% Pledge calls on store chains to dedicate shelf space to black-owned businesses",
-        "description": "A new initiative is aiming to make the shelves of major US retailers a better reflection of the streets of America.",
-        "date": "Sun, 07 Jun 2020 21:16:04 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fCqlcAEbEsc/index.html",
-        "positive": 0.086,
-        "neutral": 0.914,
-        "negative": 0.0,
-        "overall": 0.4404
-    },
-    {
-        "title": "Marines ban depictions of the Confederate flag, including on bumper stickers and mugs",
-        "description": "The US Marine Corps has ordered the removal of all public displays of the Confederate flag from Marine installations.",
-        "date": "Sun, 07 Jun 2020 19:00:08 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/wh9YpjdijHo/index.html",
-        "positive": 0.0,
-        "neutral": 0.893,
-        "negative": 0.107,
-        "overall": -0.5574
-    },
-    {
-        "title": "Opinion: Coral reefs are facing their own pandemic, but we have a survival guide",
-        "description": "Coral reefs are facing their own pandemic. For years, people have compromised the immunity of these ecosystems through pollution and overfishing. Meanwhile, climate change has created a fever in our oceans by raising temperatures and acidifying seas. The resulting outbreak has decimated approximately half of the world's reefs.",
-        "date": "Sun, 07 Jun 2020 15:20:50 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XLc8s1usn_g/index.html",
-        "positive": 0.041,
-        "neutral": 0.959,
-        "negative": 0.0,
-        "overall": 0.3612
-    },
-    {
-        "title": "Chinese soccer legend calls for the downfall of the Communist Party",
-        "description": "A retired Chinese soccer star has openly called for the downfall of China's ruling Communist Party, in what he says was the \"biggest and most correct decision\" of his life.",
-        "date": "Sun, 07 Jun 2020 01:49:44 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/TnFdehsvo7U/index.html",
-        "positive": 0.065,
-        "neutral": 0.935,
-        "negative": 0.0,
-        "overall": 0.4019
-    },
-    {
-        "title": "After Covid, we may be in a volatile gig economy that relies heavily on the internet",
-        "description": "The economy is reopening and life is slowly getting back on track, but it's not back to normal. High unemployment rates and the need to socially distance will have lasting effects on how and where we work.",
-        "date": "Sun, 07 Jun 2020 22:57:13 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aATZipiKDLI/index.html",
-        "positive": 0.0,
-        "neutral": 0.929,
-        "negative": 0.071,
-        "overall": -0.5927
-    },
-    {
-        "title": "UK protesters topple statue of slave trader",
-        "description": "Anti-racism protesters in England have pulled down a statue of a 17th-century slave trader while demonstrating in solidarity with the US Black Lives Matter movement.",
-        "date": "Sun, 07 Jun 2020 21:46:33 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/35gO1Ws79Dw/index.html",
-        "positive": 0.103,
-        "neutral": 0.779,
-        "negative": 0.118,
-        "overall": -0.128
-    },
-    {
-        "title": "Banksy shares new artwork supporting Black Lives Matter",
-        "description": "Banksy, perhaps the most well-known anonymous artist and social critic in the world, is showing his support for the Black Lives Matter movement with a new piece of art and a stark message: \"People of Colour are being failed by the system.\"",
-        "date": "Sun, 07 Jun 2020 20:58:03 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/dKlfcyK1uJA/index.html",
-        "positive": 0.161,
-        "neutral": 0.741,
-        "negative": 0.098,
-        "overall": 0.3612
-    },
-    {
-        "title": "California restaurant agrees to a change amid national unrest",
-        "description": "Sixty-three years ago, a pancake house opened in California that spawned a nationwide restaurant chain.",
-        "date": "Sat, 06 Jun 2020 15:19:42 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/qmdGubnqAjA/index.html",
-        "positive": 0.087,
-        "neutral": 0.913,
-        "negative": 0.0,
-        "overall": 0.2023
-    },
-    {
-        "title": "Opinion: Are we living through a moment of fundamental societal change?",
-        "description": "Remember when \"Black Lives Matter\" was still considered a controversial thing to say?",
-        "date": "Sun, 07 Jun 2020 19:06:10 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Y_xFAyHrbL8/index.html",
-        "positive": 0.049,
-        "neutral": 0.854,
-        "negative": 0.097,
-        "overall": -0.264
-    },
-    {
-        "title": "Surfer dies after being bitten by a great white shark",
-        "description": "A 60-year-old surfer died Sunday in Australia after being bitten by a great white shark that was nearly ten feet long, authorities say.",
-        "date": "Sun, 07 Jun 2020 13:25:14 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/i2g3eLA0v5E/index.html",
-        "positive": 0.211,
-        "neutral": 0.696,
-        "negative": 0.093,
-        "overall": 0.6808
-    },
-    {
-        "title": "Scientists backed by Zuckerberg's foundation urge him to change stance on Trump posts",
-        "description": "More than 140 scientists who have received funding and support from Mark Zuckerberg's philanthropic organization wrote to the Facebook CEO Saturday expressing concern about how he handled President Donald Trump's posts on the platform.",
-        "date": "Sun, 07 Jun 2020 21:34:26 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/N39PWIUSHec/index.html",
-        "positive": 0.079,
-        "neutral": 0.921,
-        "negative": 0.0,
-        "overall": 0.4215
-    },
-    {
-        "title": "The world's best egg dishes",
-        "description": "Which came first, the chicken or the egg? If we're talking menus, you might be inclined to say \"egg,\" if only for its ubiquity at breakfast. But the egg is the star of many other meals, too, and it is beloved for its workhorse qualities in recipes the world over.",
-        "date": "Sat, 06 Jun 2020 14:08:52 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/7bdArR3pFhA/index.html",
-        "positive": 0.126,
-        "neutral": 0.874,
-        "negative": 0.0,
-        "overall": 0.8176
-    },
-    {
-        "title": "The recovery is underway. Does that mean it's time for more stimulus?",
-        "description": "Record stimulus efforts are facilitating the global recovery from the steepest economic downturn since the Great Depression. That means it's time to spend even more, investors and economists say.",
-        "date": "Sun, 07 Jun 2020 12:25:56 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/riQldKJn_yw/index.html",
-        "positive": 0.09,
-        "neutral": 0.83,
-        "negative": 0.081,
-        "overall": 0.1027
-    },
-    {
-        "title": "Thousands of people are volunteering to be laid off",
-        "description": "Who would want to lose their job in the middle of the worst job market since the Great Depression? Believe or not, thousands of people would.",
-        "date": "Thu, 04 Jun 2020 17:15:58 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/4A1-MzIcHOQ/index.html",
-        "positive": 0.12,
-        "neutral": 0.646,
-        "negative": 0.234,
-        "overall": -0.7269
     },
     {
         "title": "Dealerships are opening up again. But good luck finding the car you want",
@@ -1070,164 +30,34 @@
         "overall": 0.891
     },
     {
-        "title": "GOP governor who Democrats applaud",
-        "description": "There has been so much anxiety and anger in the country these past few months \u2014 and certainly over the last week \u2014 that a calm voice and steady hand can be very hard to find.",
-        "date": "Sun, 07 Jun 2020 12:50:48 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/IMIb4AfSBhs/index.html",
-        "positive": 0.171,
-        "neutral": 0.67,
-        "negative": 0.159,
-        "overall": 0.1352
-    },
-    {
-        "title": "NFL's 'sorry' is too little and too late",
-        "description": "The NFL is sorry.",
-        "date": "Sat, 06 Jun 2020 20:02:01 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/zrqov5jqPAA/index.html",
-        "positive": 0.0,
-        "neutral": 0.885,
-        "negative": 0.115,
-        "overall": -0.0772
-    },
-    {
-        "title": "America needs white people to step up",
-        "description": "We can't jog and be black. We can't barbecue and be black. We can't bird watch and be black. We can't sleep in our bed and be black. We can't even sit in our own car and be black.",
-        "date": "Sat, 06 Jun 2020 20:30:45 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/VjEc579rymw/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
+        "title": "Bayern move to within two wins of Bundesliga title",
+        "description": "Bayern Munich need a maximum of two wins from their final four games to clinch an eighth straight Bundesliga title after coming from behind to beat Bayer Leverkusen.",
+        "date": "Sat, 06 Jun 2020 18:31:31 GMT",
+        "link": "https://www.bbc.co.uk/sport/football/52949790",
+        "positive": 0.225,
+        "neutral": 0.775,
         "negative": 0.0,
-        "overall": 0.0
+        "overall": 0.8519
     },
     {
-        "title": "Trump's messy split-city GOP convention",
-        "description": "Of all the institutions the Trump presidency is harming, it's likely no one suspected the Republican National Convention might be one of them. But President Donald Trump's refusal to fully acknowledge the risks associated with the pandemic is creating a new political threat to his own candidacy.",
-        "date": "Sat, 06 Jun 2020 14:58:59 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/xKHVRBMxGVA/index.html",
-        "positive": 0.036,
-        "neutral": 0.703,
-        "negative": 0.261,
-        "overall": -0.9147
-    },
-    {
-        "title": "This week in America would make RFK weep",
-        "description": "Fifty-two years ago this weekend, Robert F. Kennedy, then the junior senator from New York and a leading candidate for the Democratic presidential nomination, died in Los Angeles, the victim of a political assassination. I've been looking again at the final months of his life, which were largely shaped by the murder of Martin Luther King, Jr. The words he spoke the night of April 4, 1968, when King was assassinated, and in the days following feel tailor-made for own moment in 2020. And his efforts at guidance as a presidential candidate during those weeks leading up to his own death on June 6, bring into stark relief the stunning dereliction of leadership shown in 2020 by President Donald Trump.",
-        "date": "Sat, 06 Jun 2020 17:34:02 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/lYPYJ9UW0bo/index.html",
-        "positive": 0.04,
-        "neutral": 0.83,
-        "negative": 0.129,
-        "overall": -0.926
-    },
-    {
-        "title": "Indian actor Chiranjeevi Sarja dies after heart attack",
-        "description": "Chiranjeevi Sarja, a famous Indian actor, has passed away at the age of 39.",
-        "date": "Sun, 07 Jun 2020 22:31:29 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/4u3h2FsD6eU/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
+        "title": "The world's best egg dishes",
+        "description": "Which came first, the chicken or the egg? If we're talking menus, you might be inclined to say \"egg,\" if only for its ubiquity at breakfast. But the egg is the star of many other meals, too, and it is beloved for its workhorse qualities in recipes the world over.",
+        "date": "Sat, 06 Jun 2020 14:08:52 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/7bdArR3pFhA/index.html",
+        "positive": 0.126,
+        "neutral": 0.874,
         "negative": 0.0,
-        "overall": 0.0
+        "overall": 0.8176
     },
     {
-        "title": "No taller than 500 meters: China signals 'new era' for architecture",
-        "description": "An end to \"copycat\" buildings and a ban on skyscrapers taller than 500 meters (1,640 feet) are among the Chinese government's new guidelines for architects, property developers and urban planners.",
-        "date": "Sun, 07 Jun 2020 01:14:23 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fB19hUa-B10/index.html",
-        "positive": 0.0,
-        "neutral": 0.864,
-        "negative": 0.136,
-        "overall": -0.7003
-    },
-    {
-        "title": "DC mayor says federal response to protests led to larger groups participating peacefully",
-        "description": "DC Mayor Muriel Bowser said Sunday she believes the federal law enforcement response to protests after the police killing of George Floyd encouraged more people to participate and do so peacefully.",
-        "date": "Sun, 07 Jun 2020 21:25:37 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/21s17RycdZQ/index.html",
-        "positive": 0.129,
-        "neutral": 0.716,
-        "negative": 0.155,
-        "overall": -0.0859
-    },
-    {
-        "title": "Nursing home resident: 'I feel as though I am in #DeathCamp2020'",
-        "description": "When news broke months ago about the country's first coronavirus outbreak at a nursing home, Linda Mayberry immediately recognized the home's corporate logo as it flashed across her television screen. It was the same one emblazoned throughout the long-term care facility where she lived.",
-        "date": "Fri, 05 Jun 2020 12:00:54 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/StK2sPeqe4Y/index.html",
-        "positive": 0.057,
-        "neutral": 0.893,
-        "negative": 0.05,
-        "overall": 0.1027
-    },
-    {
-        "title": "Texas county GOP chair-elect won't assume office following backlash",
-        "description": "A Texas Republican county chairman-elect said Saturday he won't assume office amid backlash over posting a controversial image of a Martin Luther King Jr. quote with a banana in the picture.",
-        "date": "Sun, 07 Jun 2020 00:57:40 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aPeKI5-ddj0/index.html",
-        "positive": 0.0,
-        "neutral": 0.951,
-        "negative": 0.049,
-        "overall": -0.2023
-    },
-    {
-        "title": "After reviewing video, police inspector charged -- not protester",
-        "description": "A Philadelphia police inspector is facing charges after prosecutors said a video shows him striking a student protester on the head with a metal baton.",
-        "date": "Sun, 07 Jun 2020 02:46:06 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/ezSTiwWfih8/index.html",
-        "positive": 0.0,
-        "neutral": 0.878,
-        "negative": 0.122,
-        "overall": -0.4404
-    },
-    {
-        "title": "How creative director Arthur Lewis built a dynamic collection of black art",
-        "description": "The front door of Arthur Lewis' Los Angeles home opens to a room organized like an exhibition space. The marks of domesticity -- dining room table, mantel, fireplace, throw pillows -- are present, but engulfed by art. Paintings and sculptures grab all the attention, and maybe the intention, of the space.",
-        "date": "Wed, 01 Apr 2020 09:53:01 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/uWiGnVC39OQ/index.html",
-        "positive": 0.088,
-        "neutral": 0.912,
-        "negative": 0.0,
-        "overall": 0.5423
-    },
-    {
-        "title": "Polaroid innovator Elsa Dorfman has died at age 83",
-        "description": "American photographer Elsa Dorfman, known for her intimate large-scale portraits of well-known figures including Bob Dylan, Allen Ginsberg and Faye Dunaway, died last Saturday at age 83.",
-        "date": "Wed, 03 Jun 2020 16:10:18 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/sH8aSC2i9VU/index.html",
-        "positive": 0.0,
-        "neutral": 0.821,
-        "negative": 0.179,
-        "overall": -0.802
-    },
-    {
-        "title": "Austrian architects will transform Hitler's birthplace into a police station",
-        "description": "Austria has unveiled plans to transform Adolf Hitler's birthplace into a police station, following years of debate and legal wrangling over the controversial site.",
-        "date": "Wed, 03 Jun 2020 15:50:00 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/K6pDsZgHdeY/index.html",
-        "positive": 0.046,
-        "neutral": 0.898,
-        "negative": 0.056,
-        "overall": -0.0772
-    },
-    {
-        "title": "The 1960s symbol we need more than ever before",
-        "description": "In a video installation by James Joyce, a yellow circle rotates as two black ovals and a curved line tumble at the bottom, thwarted by gravity. Watching the video, Perseverance in the Face of Absurdity, which was projected at Banksy's pop-up dystopian theme park, Dismaland in 2015, one can mentally reassemble the three shapes into their familiar formation: two eyes and a swooping smile.",
-        "date": "Mon, 30 Mar 2020 21:53:32 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/WZdOsaZNmMk/index.html",
-        "positive": 0.036,
-        "neutral": 0.948,
-        "negative": 0.016,
-        "overall": 0.34
-    },
-    {
-        "title": "'My emotions were so raw': The people creating art to remember George Floyd",
-        "description": "In the wake of George Floyd's death at the hands of a Minneapolis police officer, artists have been quick to respond with works that seek to memorialize, to provoke and to heal.",
-        "date": "Sun, 07 Jun 2020 10:33:20 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XnpLzgiOadQ/index.html",
-        "positive": 0.045,
-        "neutral": 0.82,
-        "negative": 0.135,
-        "overall": -0.6597
+        "title": "Social distancing: A practical guide to how to socialise now",
+        "description": "Meeting friends? Here's how to handle the awkward new rules - from sharing food to avoiding hugs.",
+        "date": "Sat, 30 May 2020 08:43:46 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52848793",
+        "positive": 0.283,
+        "neutral": 0.592,
+        "negative": 0.125,
+        "overall": 0.7269
     },
     {
         "title": "Bruce Lee gets a fitting tribute in ESPN doc",
@@ -1240,6 +70,96 @@
         "overall": 0.7087
     },
     {
+        "title": "Kameko stuns Pinatubo to win 2,000 Guineas at Newmarket",
+        "description": "Kameko inflicts a first defeat on Pinatubo to win the 2,000 Guineas, the first British Classic of the season.",
+        "date": "Sat, 06 Jun 2020 16:15:17 GMT",
+        "link": "https://www.bbc.co.uk/sport/horse-racing/52941233",
+        "positive": 0.258,
+        "neutral": 0.653,
+        "negative": 0.089,
+        "overall": 0.6908
+    },
+    {
+        "title": "Surfer dies after being bitten by a great white shark",
+        "description": "A 60-year-old surfer died Sunday in Australia after being bitten by a great white shark that was nearly ten feet long, authorities say.",
+        "date": "Sun, 07 Jun 2020 13:25:14 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/i2g3eLA0v5E/index.html",
+        "positive": 0.211,
+        "neutral": 0.696,
+        "negative": 0.093,
+        "overall": 0.6808
+    },
+    {
+        "title": "Coronavirus: Could social distancing of less than two metres work?",
+        "description": "The government is under pressure to relax the 2m social distancing rule - but is it safe to do so?",
+        "date": "Tue, 02 Jun 2020 13:46:35 GMT",
+        "link": "https://www.bbc.co.uk/news/science-environment-52522460",
+        "positive": 0.188,
+        "neutral": 0.763,
+        "negative": 0.049,
+        "overall": 0.6767
+    },
+    {
+        "title": "UFC champion announces his retirement",
+        "description": "Mixed martial arts fighter Conor McGregor announced his retirement from the sport on social media Sunday.",
+        "date": "Sun, 07 Jun 2020 13:20:49 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/tck-u1QDVX4/index.html",
+        "positive": 0.234,
+        "neutral": 0.766,
+        "negative": 0.0,
+        "overall": 0.6705
+    },
+    {
+        "title": "Coronavirus: Is China bolder in the wake of the pandemic?",
+        "description": "As the rest of the world reels from the pandemic, China is pushing ahead with the pursuit of its national interest.",
+        "date": "Fri, 05 Jun 2020 23:16:50 GMT",
+        "link": "https://www.bbc.co.uk/news/world-asia-52936580",
+        "positive": 0.157,
+        "neutral": 0.843,
+        "negative": 0.0,
+        "overall": 0.6369
+    },
+    {
+        "title": "No positive results in latest Premier League tests",
+        "description": "There were no positive results for coronavirus from 1,195 tests in the latest round of testing in the Premier League.",
+        "date": "Sat, 06 Jun 2020 20:08:23 GMT",
+        "link": "https://www.bbc.co.uk/sport/football/52950898",
+        "positive": 0.208,
+        "neutral": 0.665,
+        "negative": 0.127,
+        "overall": 0.5859
+    },
+    {
+        "title": "How creative director Arthur Lewis built a dynamic collection of black art",
+        "description": "The front door of Arthur Lewis' Los Angeles home opens to a room organized like an exhibition space. The marks of domesticity -- dining room table, mantel, fireplace, throw pillows -- are present, but engulfed by art. Paintings and sculptures grab all the attention, and maybe the intention, of the space.",
+        "date": "Wed, 01 Apr 2020 09:53:01 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/uWiGnVC39OQ/index.html",
+        "positive": 0.088,
+        "neutral": 0.912,
+        "negative": 0.0,
+        "overall": 0.5423
+    },
+    {
+        "title": "Missing three drugs tests is 'normal' - world champion Naser given provisional ban",
+        "description": "World 400m champion Salwa Eid Naser is given a provisional suspension for failing to make herself available for anti-doping tests.",
+        "date": "Sat, 06 Jun 2020 13:08:55 GMT",
+        "link": "https://www.bbc.co.uk/sport/athletics/52938089",
+        "positive": 0.198,
+        "neutral": 0.662,
+        "negative": 0.14,
+        "overall": 0.5106
+    },
+    {
+        "title": "Coronavirus: NHS trust bosses not consulted over new face mask rules",
+        "description": "Hospital bosses in England felt \"in the dark\" over changes to policies on face masks and visitors.",
+        "date": "Sat, 06 Jun 2020 17:49:54 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52946850",
+        "positive": 0.113,
+        "neutral": 0.887,
+        "negative": 0.0,
+        "overall": 0.5106
+    },
+    {
         "title": "Yvonne Orji set for stand-up special debut",
         "description": "\"Can I navigate home? This place that I call home? And if I can't, then is it really?\"",
         "date": "Fri, 05 Jun 2020 08:38:54 GMT",
@@ -1248,6 +168,826 @@
         "neutral": 0.861,
         "negative": 0.0,
         "overall": 0.5007
+    },
+    {
+        "title": "US Open coronavirus protocols extreme - Djokovic",
+        "description": "World number one Novak Djokovic calls the coronavirus safety protocols, planned in order for the US Open to take place \"extreme\".",
+        "date": "Sat, 06 Jun 2020 17:21:59 GMT",
+        "link": "https://www.bbc.co.uk/sport/tennis/52950195",
+        "positive": 0.146,
+        "neutral": 0.854,
+        "negative": 0.0,
+        "overall": 0.4767
+    },
+    {
+        "title": "Yearning for sound of tourists in Alps again",
+        "description": "The hills come alive again with the noise of mountain railways and cable cars.",
+        "date": "Fri, 05 Jun 2020 23:17:25 GMT",
+        "link": "https://www.bbc.co.uk/news/world-europe-52935142",
+        "positive": 0.177,
+        "neutral": 0.823,
+        "negative": 0.0,
+        "overall": 0.4767
+    },
+    {
+        "title": "15% Pledge calls on store chains to dedicate shelf space to black-owned businesses",
+        "description": "A new initiative is aiming to make the shelves of major US retailers a better reflection of the streets of America.",
+        "date": "Sun, 07 Jun 2020 21:16:04 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fCqlcAEbEsc/index.html",
+        "positive": 0.086,
+        "neutral": 0.914,
+        "negative": 0.0,
+        "overall": 0.4404
+    },
+    {
+        "title": "Remote working: How cities might change if we worked from home more",
+        "description": "Our homes, transport and city-centre spaces would change if we worked from home for good.",
+        "date": "Sun, 31 May 2020 23:15:45 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52767773",
+        "positive": 0.104,
+        "neutral": 0.896,
+        "negative": 0.0,
+        "overall": 0.4404
+    },
+    {
+        "title": "Scientists backed by Zuckerberg's foundation urge him to change stance on Trump posts",
+        "description": "More than 140 scientists who have received funding and support from Mark Zuckerberg's philanthropic organization wrote to the Facebook CEO Saturday expressing concern about how he handled President Donald Trump's posts on the platform.",
+        "date": "Sun, 07 Jun 2020 21:34:26 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/N39PWIUSHec/index.html",
+        "positive": 0.079,
+        "neutral": 0.921,
+        "negative": 0.0,
+        "overall": 0.4215
+    },
+    {
+        "title": "Coronavirus: What are social distancing and self-isolation rules?",
+        "description": "You can now meet more people and play certain non-contact sports in the UK - but what are they?",
+        "date": "Mon, 01 Jun 2020 12:55:59 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-51506729",
+        "positive": 0.14,
+        "neutral": 0.86,
+        "negative": 0.0,
+        "overall": 0.4102
+    },
+    {
+        "title": "Chinese soccer legend calls for the downfall of the Communist Party",
+        "description": "A retired Chinese soccer star has openly called for the downfall of China's ruling Communist Party, in what he says was the \"biggest and most correct decision\" of his life.",
+        "date": "Sun, 07 Jun 2020 01:49:44 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/TnFdehsvo7U/index.html",
+        "positive": 0.065,
+        "neutral": 0.935,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "title": "Coronavirus: Kenyan boy who made hand-washing machine awarded",
+        "description": "Stephen Wamukota came up with a hand-washing machine that helps prevent the spread of Covid-19.",
+        "date": "Tue, 02 Jun 2020 16:52:33 GMT",
+        "link": "https://www.bbc.co.uk/news/world-africa-52898797",
+        "positive": 0.163,
+        "neutral": 0.837,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "title": "Prince William reveals he is secret helpline volunteer",
+        "description": "The second in line to the throne has been secretly answering text messages from people needing help.",
+        "date": "Sat, 06 Jun 2020 13:50:08 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52940787",
+        "positive": 0.105,
+        "neutral": 0.895,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "title": "D-Day anniversary: Emotional surprise for veteran in lockdown",
+        "description": "Coronavirus disrupted Harry Billinge's D-Day plans. But he got to meet a face from his past instead.",
+        "date": "Sat, 06 Jun 2020 12:50:35 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52949391",
+        "positive": 0.15,
+        "neutral": 0.85,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "title": "Coronavirus symptoms: What are they and how do I protect myself?",
+        "description": "Loss of taste and smell have been added to the UK's list of coronavirus symptoms.",
+        "date": "Thu, 04 Jun 2020 19:53:57 GMT",
+        "link": "https://www.bbc.co.uk/news/health-51048366",
+        "positive": 0.102,
+        "neutral": 0.898,
+        "negative": 0.0,
+        "overall": 0.3818
+    },
+    {
+        "title": "Banksy shares new artwork supporting Black Lives Matter",
+        "description": "Banksy, perhaps the most well-known anonymous artist and social critic in the world, is showing his support for the Black Lives Matter movement with a new piece of art and a stark message: \"People of Colour are being failed by the system.\"",
+        "date": "Sun, 07 Jun 2020 20:58:03 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/dKlfcyK1uJA/index.html",
+        "positive": 0.161,
+        "neutral": 0.741,
+        "negative": 0.098,
+        "overall": 0.3612
+    },
+    {
+        "title": "Opinion: Coral reefs are facing their own pandemic, but we have a survival guide",
+        "description": "Coral reefs are facing their own pandemic. For years, people have compromised the immunity of these ecosystems through pollution and overfishing. Meanwhile, climate change has created a fever in our oceans by raising temperatures and acidifying seas. The resulting outbreak has decimated approximately half of the world's reefs.",
+        "date": "Sun, 07 Jun 2020 15:20:50 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XLc8s1usn_g/index.html",
+        "positive": 0.041,
+        "neutral": 0.959,
+        "negative": 0.0,
+        "overall": 0.3612
+    },
+    {
+        "title": "Coronavirus: School return plan 'like a jigsaw puzzle'",
+        "description": "A head teacher explains how she is piecing school life back together before children return.",
+        "date": "Sat, 30 May 2020 00:28:10 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-norfolk-52771769",
+        "positive": 0.111,
+        "neutral": 0.889,
+        "negative": 0.0,
+        "overall": 0.3612
+    },
+    {
+        "title": "The 1960s symbol we need more than ever before",
+        "description": "In a video installation by James Joyce, a yellow circle rotates as two black ovals and a curved line tumble at the bottom, thwarted by gravity. Watching the video, Perseverance in the Face of Absurdity, which was projected at Banksy's pop-up dystopian theme park, Dismaland in 2015, one can mentally reassemble the three shapes into their familiar formation: two eyes and a swooping smile.",
+        "date": "Mon, 30 Mar 2020 21:53:32 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/WZdOsaZNmMk/index.html",
+        "positive": 0.036,
+        "neutral": 0.948,
+        "negative": 0.016,
+        "overall": 0.34
+    },
+    {
+        "title": "Samoan rugby team that set off 104 days ago still not home",
+        "description": "While waiting for flights to resume, 20 players shared a single room in Auckland for three months.",
+        "date": "Fri, 05 Jun 2020 04:07:23 GMT",
+        "link": "https://www.bbc.co.uk/news/world-asia-52900959",
+        "positive": 0.085,
+        "neutral": 0.915,
+        "negative": 0.0,
+        "overall": 0.34
+    },
+    {
+        "title": "Coronavirus face mask lights up with moving mouth shapes",
+        "description": "A games designer creates a face mask that shows animated mouth shapes as you speak.",
+        "date": "Fri, 05 Jun 2020 23:14:11 GMT",
+        "link": "https://www.bbc.co.uk/news/technology-52944499",
+        "positive": 0.091,
+        "neutral": 0.909,
+        "negative": 0.0,
+        "overall": 0.2732
+    },
+    {
+        "title": "White House is considering a Trump speech to the nation on race and unity",
+        "description": "After a weekend of massive peaceful protests around the country, White House officials are currently deliberating a plan for President Donald Trump to address the nation this week on issues related to race and national unity, as Housing and Urban Development Secretary Ben Carson hinted in an interview with CNN on Sunday and a senior administration official said was under serious consideration.",
+        "date": "Sun, 07 Jun 2020 22:13:44 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/hBIPoTD6Rlo/index.html",
+        "positive": 0.043,
+        "neutral": 0.914,
+        "negative": 0.043,
+        "overall": 0.25
+    },
+    {
+        "title": "All you need to know about new measures",
+        "description": "How will social and work life be different after the easing of some restrictions around the UK?",
+        "date": "Wed, 03 Jun 2020 18:25:39 GMT",
+        "link": "https://www.bbc.co.uk/news/explainers-52530518",
+        "positive": 0.08,
+        "neutral": 0.92,
+        "negative": 0.0,
+        "overall": 0.25
+    },
+    {
+        "title": "California restaurant agrees to a change amid national unrest",
+        "description": "Sixty-three years ago, a pancake house opened in California that spawned a nationwide restaurant chain.",
+        "date": "Sat, 06 Jun 2020 15:19:42 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/qmdGubnqAjA/index.html",
+        "positive": 0.087,
+        "neutral": 0.913,
+        "negative": 0.0,
+        "overall": 0.2023
+    },
+    {
+        "title": "Band spends lockdown playing in Norfolk country house",
+        "description": "The musicians have practising together after moving into a country house before lockdown.",
+        "date": "Fri, 05 Jun 2020 23:15:03 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-norfolk-52911102",
+        "positive": 0.091,
+        "neutral": 0.909,
+        "negative": 0.0,
+        "overall": 0.2023
+    },
+    {
+        "title": "Coronavirus: What help are self-employed getting from government?",
+        "description": "What is being done for the five million self-employed people in the UK facing a sudden loss of income?",
+        "date": "Fri, 29 May 2020 16:13:48 GMT",
+        "link": "https://www.bbc.co.uk/news/business-52052123",
+        "positive": 0.108,
+        "neutral": 0.811,
+        "negative": 0.081,
+        "overall": 0.1926
+    },
+    {
+        "title": "GOP governor who Democrats applaud",
+        "description": "There has been so much anxiety and anger in the country these past few months \u2014 and certainly over the last week \u2014 that a calm voice and steady hand can be very hard to find.",
+        "date": "Sun, 07 Jun 2020 12:50:48 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/IMIb4AfSBhs/index.html",
+        "positive": 0.171,
+        "neutral": 0.67,
+        "negative": 0.159,
+        "overall": 0.1352
+    },
+    {
+        "title": "Coronavirus and face coverings: the correct way to wear them",
+        "description": "Across the world, people are being asked to wear face coverings to help stop coronavirus from spreading.",
+        "date": "Thu, 04 Jun 2020 16:43:52 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52606128",
+        "positive": 0.093,
+        "neutral": 0.83,
+        "negative": 0.076,
+        "overall": 0.128
+    },
+    {
+        "title": "Nursing home resident: 'I feel as though I am in #DeathCamp2020'",
+        "description": "When news broke months ago about the country's first coronavirus outbreak at a nursing home, Linda Mayberry immediately recognized the home's corporate logo as it flashed across her television screen. It was the same one emblazoned throughout the long-term care facility where she lived.",
+        "date": "Fri, 05 Jun 2020 12:00:54 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/StK2sPeqe4Y/index.html",
+        "positive": 0.057,
+        "neutral": 0.893,
+        "negative": 0.05,
+        "overall": 0.1027
+    },
+    {
+        "title": "The recovery is underway. Does that mean it's time for more stimulus?",
+        "description": "Record stimulus efforts are facilitating the global recovery from the steepest economic downturn since the Great Depression. That means it's time to spend even more, investors and economists say.",
+        "date": "Sun, 07 Jun 2020 12:25:56 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/riQldKJn_yw/index.html",
+        "positive": 0.09,
+        "neutral": 0.83,
+        "negative": 0.081,
+        "overall": 0.1027
+    },
+    {
+        "title": "Coronavirus: Is R number balanced on knife edge?",
+        "description": "There are concerns coronavirus might be starting to spread in parts of England again.",
+        "date": "Sat, 06 Jun 2020 08:16:23 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52944037",
+        "positive": 0.064,
+        "neutral": 0.936,
+        "negative": 0.0,
+        "overall": 0.0772
+    },
+    {
+        "title": "Indian actor Chiranjeevi Sarja dies after heart attack",
+        "description": "Chiranjeevi Sarja, a famous Indian actor, has passed away at the age of 39.",
+        "date": "Sun, 07 Jun 2020 22:31:29 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/4u3h2FsD6eU/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "America needs white people to step up",
+        "description": "We can't jog and be black. We can't barbecue and be black. We can't bird watch and be black. We can't sleep in our bed and be black. We can't even sit in our own car and be black.",
+        "date": "Sat, 06 Jun 2020 20:30:45 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/VjEc579rymw/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "New York plans to move some police funding to youth and social services",
+        "description": "New York City will move some of its funding from the New York Police Department to youth and social services, Mayor Bill De Blasio said on Sunday.",
+        "date": "Sun, 07 Jun 2020 22:51:15 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/7j3aICTRSn8/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "From cats to cakes: The photo that made me",
+        "description": "Members of the Association of Photographers select a picture that kick-started their career.",
+        "date": "Thu, 04 Jun 2020 23:37:10 GMT",
+        "link": "https://www.bbc.co.uk/news/in-pictures-52896224",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Our masked identities: Cartoons of India's new normal",
+        "description": "Cartoonist Priya Kuriyan documents how masks became prevalent in India - even before its lockdown.",
+        "date": "Sun, 31 May 2020 23:08:26 GMT",
+        "link": "https://www.bbc.co.uk/news/world-asia-india-52792382",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: What does it mean if I've been furloughed by work?",
+        "description": "Millions unable to do their job due to coronavirus will have their wages paid by a new scheme.",
+        "date": "Fri, 29 May 2020 17:42:21 GMT",
+        "link": "https://www.bbc.co.uk/news/explainers-52135342",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: Are these targets being hit?",
+        "description": "Ministers have set targets for testing, medical equipment and hospital beds. Have they delivered?",
+        "date": "Tue, 02 Jun 2020 11:05:14 GMT",
+        "link": "https://www.bbc.co.uk/news/52382786",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: We answer kids' questions about going back to school",
+        "description": "The BBC's Education Editor Branwen Jeffreys answers kids' questions about going back to school.",
+        "date": "Thu, 28 May 2020 23:00:48 GMT",
+        "link": "https://www.bbc.co.uk/news/education-52842040",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: When will shops open and what will the rules be?",
+        "description": "Non-essential shops can reopen in England in June, but will I be able to buy a book or have a haircut?",
+        "date": "Mon, 01 Jun 2020 11:14:21 GMT",
+        "link": "https://www.bbc.co.uk/news/business-52808931",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: What are the UK travel quarantine rules?",
+        "description": "What do you need to know if you're planning to fly during the Covid-19 pandemic?",
+        "date": "Fri, 05 Jun 2020 15:32:59 GMT",
+        "link": "https://www.bbc.co.uk/news/explainers-52544307",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: What tests are being done in the UK?",
+        "description": "What are the tests for coronavirus, who are they for and how do they work?",
+        "date": "Thu, 04 Jun 2020 13:46:03 GMT",
+        "link": "https://www.bbc.co.uk/news/health-51943612",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: Which schools are reopening for pupils?",
+        "description": "Which children are the first to go back to school, and what about the rest?",
+        "date": "Fri, 05 Jun 2020 14:24:39 GMT",
+        "link": "https://www.bbc.co.uk/news/education-51643556",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: How does contact tracing work in England?",
+        "description": "People who have been in close contact with someone found to have Covid-19 are now being traced.",
+        "date": "Fri, 05 Jun 2020 08:40:47 GMT",
+        "link": "https://www.bbc.co.uk/news/explainers-52442754",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: Who should wear a face mask or face covering?",
+        "description": "Face coverings are to become compulsory for people using public transport in England.",
+        "date": "Fri, 05 Jun 2020 20:34:53 GMT",
+        "link": "https://www.bbc.co.uk/news/health-51205344",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus UK map: How many confirmed cases are there in your area?",
+        "description": "Key graphics explaining how coronavirus has spread in the UK and the government's response.",
+        "date": "Sat, 06 Jun 2020 15:31:49 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-51768274",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus: How to make your own face mask",
+        "description": "Our guide to different types of face coverings and step-by-step instructions on how to make them.",
+        "date": "Thu, 04 Jun 2020 16:22:43 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52609777",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "My Money: 'This was not a normal week!'",
+        "description": "Alex Wright from Leicester takes us through his weekly spending during the coronavirus pandemic.",
+        "date": "Fri, 05 Jun 2020 21:30:14 GMT",
+        "link": "https://www.bbc.co.uk/news/business-52909713",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Madeleine McCann: What is known about the German suspect?",
+        "description": "Named as Christian B, 43, the man currently in jail has many previous convictions.",
+        "date": "Fri, 05 Jun 2020 17:54:53 GMT",
+        "link": "https://www.bbc.co.uk/news/world-europe-52937626",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Back-to-school diary: \u2018You can throw the ball, but no-one can catch it\u2019",
+        "description": "When 11-year-old Carl returned to primary school this week almost everything had changed.",
+        "date": "Fri, 05 Jun 2020 23:48:36 GMT",
+        "link": "https://www.bbc.co.uk/news/stories-52906290",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "How Bill Gates became the voodoo doll of Covid conspiracies",
+        "description": "The ex-Microsoft head is currently the target of all kinds of outlandish theories and false claims.",
+        "date": "Fri, 05 Jun 2020 23:12:58 GMT",
+        "link": "https://www.bbc.co.uk/news/technology-52833706",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Safaris go virtual as coronavirus hits tourism",
+        "description": "The people can't go to the animals, but some companies are finding ways to bring them into homes.",
+        "date": "Fri, 05 Jun 2020 23:11:46 GMT",
+        "link": "https://www.bbc.co.uk/news/world-africa-52930888",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "George Floyd: US children explain why they are protesting",
+        "description": "People of all ages are demonstrating, including kids who say \"you can't judge a book by its colour\".",
+        "date": "Fri, 05 Jun 2020 22:12:48 GMT",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-52943127",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Journalist says there's something important media is missing",
+        "description": "Mukhtar Ibrahim didn't imagine the communities he covers would be at the epicenter of protests sweeping the nation when he founded a startup news website in Minnesota last year.",
+        "date": "Sun, 07 Jun 2020 05:11:41 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/LV83SF8B31c/index.html",
+        "positive": 0.049,
+        "neutral": 0.899,
+        "negative": 0.052,
+        "overall": -0.0258
+    },
+    {
+        "title": "Austrian architects will transform Hitler's birthplace into a police station",
+        "description": "Austria has unveiled plans to transform Adolf Hitler's birthplace into a police station, following years of debate and legal wrangling over the controversial site.",
+        "date": "Wed, 03 Jun 2020 15:50:00 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/K6pDsZgHdeY/index.html",
+        "positive": 0.046,
+        "neutral": 0.898,
+        "negative": 0.056,
+        "overall": -0.0772
+    },
+    {
+        "title": "NFL's 'sorry' is too little and too late",
+        "description": "The NFL is sorry.",
+        "date": "Sat, 06 Jun 2020 20:02:01 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/zrqov5jqPAA/index.html",
+        "positive": 0.0,
+        "neutral": 0.885,
+        "negative": 0.115,
+        "overall": -0.0772
+    },
+    {
+        "title": "George Floyd death: Australians defy virus in mass anti-racism rallies",
+        "description": "Protesters march in support of George Floyd and indigenous Australians despite coronavirus warnings.",
+        "date": "Sat, 06 Jun 2020 11:10:20 GMT",
+        "link": "https://www.bbc.co.uk/news/world-australia-52947115",
+        "positive": 0.167,
+        "neutral": 0.691,
+        "negative": 0.142,
+        "overall": -0.0803
+    },
+    {
+        "title": "DC mayor says federal response to protests led to larger groups participating peacefully",
+        "description": "DC Mayor Muriel Bowser said Sunday she believes the federal law enforcement response to protests after the police killing of George Floyd encouraged more people to participate and do so peacefully.",
+        "date": "Sun, 07 Jun 2020 21:25:37 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/21s17RycdZQ/index.html",
+        "positive": 0.129,
+        "neutral": 0.716,
+        "negative": 0.155,
+        "overall": -0.0859
+    },
+    {
+        "title": "UK protesters topple statue of slave trader",
+        "description": "Anti-racism protesters in England have pulled down a statue of a 17th-century slave trader while demonstrating in solidarity with the US Black Lives Matter movement.",
+        "date": "Sun, 07 Jun 2020 21:46:33 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/35gO1Ws79Dw/index.html",
+        "positive": 0.103,
+        "neutral": 0.779,
+        "negative": 0.118,
+        "overall": -0.128
+    },
+    {
+        "title": "Coronavirus: How safe is it to get on a plane?",
+        "description": "Many airlines are planning to resume flying, but they first need to reduce the risks of Covid-19.",
+        "date": "Tue, 02 Jun 2020 13:00:06 GMT",
+        "link": "https://www.bbc.co.uk/news/business-52822913",
+        "positive": 0.071,
+        "neutral": 0.833,
+        "negative": 0.096,
+        "overall": -0.1779
+    },
+    {
+        "title": "Sunday's football gossip: Real make \u00a371m bid for Leverkusen's Havertz",
+        "description": "Real Madrid make Havertz bid, Everton lead Rabiot chase, Chelsea set to offload several players, plus more.",
+        "date": "Sat, 06 Jun 2020 20:36:16 GMT",
+        "link": "https://www.bbc.co.uk/sport/52950189",
+        "positive": 0.0,
+        "neutral": 0.936,
+        "negative": 0.064,
+        "overall": -0.1779
+    },
+    {
+        "title": "Texas county GOP chair-elect won't assume office following backlash",
+        "description": "A Texas Republican county chairman-elect said Saturday he won't assume office amid backlash over posting a controversial image of a Martin Luther King Jr. quote with a banana in the picture.",
+        "date": "Sun, 07 Jun 2020 00:57:40 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aPeKI5-ddj0/index.html",
+        "positive": 0.0,
+        "neutral": 0.951,
+        "negative": 0.049,
+        "overall": -0.2023
+    },
+    {
+        "title": "Coronavirus: Merseyside's 'forgotten street'",
+        "description": "The BBC's Ed Thomas visits one street in north-west England that's reeling from three Covid-19 deaths.",
+        "date": "Fri, 05 Jun 2020 23:19:36 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52930891",
+        "positive": 0.0,
+        "neutral": 0.905,
+        "negative": 0.095,
+        "overall": -0.2263
+    },
+    {
+        "title": "NHS test & trace: Does contact tracing stop coronavirus?",
+        "description": "Wales is the latest part of the UK to launch a tracing system, but how do they work?",
+        "date": "Mon, 01 Jun 2020 23:03:28 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52852689",
+        "positive": 0.0,
+        "neutral": 0.921,
+        "negative": 0.079,
+        "overall": -0.2406
+    },
+    {
+        "title": "How the NFL made its U-turn on kneeling",
+        "description": "Four years after Colin Kaepernick first kneeled during the US national anthem, the NFL says it was \"wrong\" for not allowing players to protest.",
+        "date": "Sat, 06 Jun 2020 14:17:21 GMT",
+        "link": "https://www.bbc.co.uk/sport/american-football/52948942",
+        "positive": 0.0,
+        "neutral": 0.938,
+        "negative": 0.062,
+        "overall": -0.25
+    },
+    {
+        "title": "Coronavirus: Far-right Rome protest turns briefly violent",
+        "description": "A rally by extremists and football fans over the government's response ended in clashes with police.",
+        "date": "Sat, 06 Jun 2020 19:34:57 GMT",
+        "link": "https://www.bbc.co.uk/news/world-europe-52951920",
+        "positive": 0.0,
+        "neutral": 0.913,
+        "negative": 0.087,
+        "overall": -0.25
+    },
+    {
+        "title": "Opinion: Are we living through a moment of fundamental societal change?",
+        "description": "Remember when \"Black Lives Matter\" was still considered a controversial thing to say?",
+        "date": "Sun, 07 Jun 2020 19:06:10 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Y_xFAyHrbL8/index.html",
+        "positive": 0.049,
+        "neutral": 0.854,
+        "negative": 0.097,
+        "overall": -0.264
+    },
+    {
+        "title": "The influencers trampling nature - and the man who's trying to stop them",
+        "description": "Fed up with eco-oblivious influencers, some people have started naming and shaming.",
+        "date": "Fri, 05 Jun 2020 23:22:09 GMT",
+        "link": "https://www.bbc.co.uk/news/blogs-trending-52840452",
+        "positive": 0.0,
+        "neutral": 0.909,
+        "negative": 0.091,
+        "overall": -0.296
+    },
+    {
+        "title": "Coronavirus claims 10 of the Royal Chelsea Pensioners",
+        "description": "Ten of the Chelsea Pensioners have died in the coronavirus pandemic but their comrades soldier on.",
+        "date": "Fri, 05 Jun 2020 23:18:34 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52930892",
+        "positive": 0.0,
+        "neutral": 0.905,
+        "negative": 0.095,
+        "overall": -0.3182
+    },
+    {
+        "title": "Coronavirus: Who should be shielding?",
+        "description": "People most at risk of needing hospital treatment if they get coronavirus are being asked to stay home.",
+        "date": "Sun, 31 May 2020 16:15:29 GMT",
+        "link": "https://www.bbc.co.uk/news/health-51997151",
+        "positive": 0.0,
+        "neutral": 0.898,
+        "negative": 0.102,
+        "overall": -0.3353
+    },
+    {
+        "title": "Hay fever v coronavirus: what are the symptoms?",
+        "description": "The Royal College of General Practitioners is warning people not to mix up the symptoms.",
+        "date": "Sun, 19 Apr 2020 23:14:43 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52319536",
+        "positive": 0.0,
+        "neutral": 0.893,
+        "negative": 0.107,
+        "overall": -0.34
+    },
+    {
+        "title": "Coronavirus: Hunting for future killer viruses",
+        "description": "Scientists are gathering data on how new diseases emerge in the hope of identifying future pandemics.",
+        "date": "Sat, 06 Jun 2020 11:14:08 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52786714",
+        "positive": 0.111,
+        "neutral": 0.725,
+        "negative": 0.164,
+        "overall": -0.34
+    },
+    {
+        "title": "Coronavirus: Why we don't know how many are being tested",
+        "description": "The UK Statistics Authority has criticised the government's handling of Covid-19 testing data.",
+        "date": "Tue, 02 Jun 2020 16:47:18 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52891611",
+        "positive": 0.054,
+        "neutral": 0.83,
+        "negative": 0.116,
+        "overall": -0.3612
+    },
+    {
+        "title": "George Floyd protests: What do 'white privilege' and 'ally' mean?",
+        "description": "Protests following the death of George Floyd have brought some important phrases into the spotlight.",
+        "date": "Fri, 05 Jun 2020 23:49:10 GMT",
+        "link": "https://www.bbc.co.uk/news/newsbeat-52892949",
+        "positive": 0.143,
+        "neutral": 0.664,
+        "negative": 0.193,
+        "overall": -0.3612
+    },
+    {
+        "title": "Can superspreading be stopped?",
+        "description": "Identifying superspreading events could be crucial in the fight against the virus, scientists say.",
+        "date": "Sat, 06 Jun 2020 07:16:46 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52903787",
+        "positive": 0.0,
+        "neutral": 0.86,
+        "negative": 0.14,
+        "overall": -0.3818
+    },
+    {
+        "title": "Coronavirus: What are the rules on weddings?",
+        "description": "There is a lot of uncertainty around when and how weddings are allowed to take place. What are your rights?",
+        "date": "Fri, 05 Jun 2020 14:20:16 GMT",
+        "link": "https://www.bbc.co.uk/news/explainers-52811509",
+        "positive": 0.0,
+        "neutral": 0.897,
+        "negative": 0.103,
+        "overall": -0.4137
+    },
+    {
+        "title": "After reviewing video, police inspector charged -- not protester",
+        "description": "A Philadelphia police inspector is facing charges after prosecutors said a video shows him striking a student protester on the head with a metal baton.",
+        "date": "Sun, 07 Jun 2020 02:46:06 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/ezSTiwWfih8/index.html",
+        "positive": 0.0,
+        "neutral": 0.878,
+        "negative": 0.122,
+        "overall": -0.4404
+    },
+    {
+        "title": "Coronavirus: What are the risks for children?",
+        "description": "Children seem to be at low risk from the disease, but can they still spread it?",
+        "date": "Fri, 29 May 2020 18:05:38 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52003804",
+        "positive": 0.0,
+        "neutral": 0.791,
+        "negative": 0.209,
+        "overall": -0.4606
+    },
+    {
+        "title": "Joe Biden hits a milestone Hillary Clinton never did: 50%",
+        "description": "\u2022 Analysis: Trump's chaos has turned on him\n\u2022 Trump meets with campaign team as poll numbers fall\n\u2022 Analysis: Trump's historically strong with his base -- that's a problem\n\u2022 Colin Powell says he will vote for Biden for president",
+        "date": "Sun, 07 Jun 2020 21:34:12 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/n-IoPKpPJbw/index.html",
+        "positive": 0.064,
+        "neutral": 0.812,
+        "negative": 0.124,
+        "overall": -0.4767
+    },
+    {
+        "title": "Here's what defunding the police would mean",
+        "description": "\u2022 Analysis: As Trump gives in to his baser instincts, cities look for policing changes\n\u2022 St. Paul mayor reflects on generations of pain among African Americans",
+        "date": "Sun, 07 Jun 2020 23:04:56 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/eCUWYkT9FKw/index.html",
+        "positive": 0.0,
+        "neutral": 0.904,
+        "negative": 0.096,
+        "overall": -0.5106
+    },
+    {
+        "title": "Can I start a new relationship? And other questions",
+        "description": "Starting a new relationship is difficult during the current crisis, but not impossible.",
+        "date": "Thu, 04 Jun 2020 06:38:31 GMT",
+        "link": "https://www.bbc.co.uk/news/world-asia-china-51176409",
+        "positive": 0.0,
+        "neutral": 0.788,
+        "negative": 0.212,
+        "overall": -0.5106
+    },
+    {
+        "title": "Marines ban depictions of the Confederate flag, including on bumper stickers and mugs",
+        "description": "The US Marine Corps has ordered the removal of all public displays of the Confederate flag from Marine installations.",
+        "date": "Sun, 07 Jun 2020 19:00:08 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/wh9YpjdijHo/index.html",
+        "positive": 0.0,
+        "neutral": 0.893,
+        "negative": 0.107,
+        "overall": -0.5574
+    },
+    {
+        "title": "More colleges say their student athletes have Covid-19",
+        "description": "\u2022 Trump's CDC director has a controversial past\n\u2022 Mayor says NYC is within parameters to proceed with reopening\n\u2022 US vaccine program is fueling fears, two experts say\n\u2022 This country decided against a lockdown. See how it's going.",
+        "date": "Sun, 07 Jun 2020 21:50:01 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/i8mX3uITVfA/index.html",
+        "positive": 0.0,
+        "neutral": 0.897,
+        "negative": 0.103,
+        "overall": -0.5574
+    },
+    {
+        "title": "Your tributes to those who have died",
+        "description": "A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.",
+        "date": "Fri, 05 Jun 2020 14:40:01 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52676411",
+        "positive": 0.0,
+        "neutral": 0.874,
+        "negative": 0.126,
+        "overall": -0.5574
+    },
+    {
+        "title": "Colin Powell: Trump lies 'all the time'",
+        "description": "\u2022 Watch and read: Colin Powell's State of the Union interview\n\u2022 Powell slams GOP lawmakers for having 'nothing to say' about Trump's protest response\n\u2022 'Situation has gotten worse': Powell explains why Trump shouldn't be reelected",
+        "date": "Sun, 07 Jun 2020 17:56:01 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/OosxOysWApk/index.html",
+        "positive": 0.0,
+        "neutral": 0.89,
+        "negative": 0.11,
+        "overall": -0.5859
+    },
+    {
+        "title": "After Covid, we may be in a volatile gig economy that relies heavily on the internet",
+        "description": "The economy is reopening and life is slowly getting back on track, but it's not back to normal. High unemployment rates and the need to socially distance will have lasting effects on how and where we work.",
+        "date": "Sun, 07 Jun 2020 22:57:13 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aATZipiKDLI/index.html",
+        "positive": 0.0,
+        "neutral": 0.929,
+        "negative": 0.071,
+        "overall": -0.5927
     },
     {
         "title": "Dwayne Johnson pleas for leadership",
@@ -1260,6 +1000,76 @@
         "overall": -0.5994
     },
     {
+        "title": "Powell calls out Republican lawmakers for having 'nothing to say' about Trump's response to Floyd protests",
+        "description": "Former Republican Secretary of State Colin Powell on Sunday called out Republican lawmakers for having \"nothing to say\" about President Donald Trump's militarized response to widespread unrest following the death of George Floyd at the hands of police.",
+        "date": "Sun, 07 Jun 2020 18:38:05 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Mx0zpjuUs9c/index.html",
+        "positive": 0.0,
+        "neutral": 0.93,
+        "negative": 0.07,
+        "overall": -0.5994
+    },
+    {
+        "title": "Coronavirus: 40,000 UK deaths - what happened?",
+        "description": "The UK's coronavirus death toll has passed more than 40,000, according to the latest figures.",
+        "date": "Fri, 05 Jun 2020 22:04:18 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52944894",
+        "positive": 0.0,
+        "neutral": 0.83,
+        "negative": 0.17,
+        "overall": -0.5994
+    },
+    {
+        "title": "NFL says players' protests during national anthem should be allowed",
+        "description": "The National Football League previously banned its players from dropping to one knee before games.",
+        "date": "Sat, 06 Jun 2020 08:38:05 GMT",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-52945934",
+        "positive": 0.0,
+        "neutral": 0.818,
+        "negative": 0.182,
+        "overall": -0.5994
+    },
+    {
+        "title": "Racism is a pandemic - Joshua speaks at Black Lives Matter march",
+        "description": "Britain's world heavyweight champion Anthony Joshua describes racism as a \"pandemic\" at a Black Lives Matter march.",
+        "date": "Sat, 06 Jun 2020 19:51:23 GMT",
+        "link": "https://www.bbc.co.uk/sport/boxing/52950772",
+        "positive": 0.183,
+        "neutral": 0.571,
+        "negative": 0.246,
+        "overall": -0.6249
+    },
+    {
+        "title": "'My emotions were so raw': The people creating art to remember George Floyd",
+        "description": "In the wake of George Floyd's death at the hands of a Minneapolis police officer, artists have been quick to respond with works that seek to memorialize, to provoke and to heal.",
+        "date": "Sun, 07 Jun 2020 10:33:20 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XnpLzgiOadQ/index.html",
+        "positive": 0.045,
+        "neutral": 0.82,
+        "negative": 0.135,
+        "overall": -0.6597
+    },
+    {
+        "title": "Burgess criticism of Fords 'strange and confusing'",
+        "description": "Criticism of Mike and George Ford by ex-England international Sam Burgess is \"strange and confusing\", says Leicester Tigers head coach Geordan Murphy.",
+        "date": "Sat, 06 Jun 2020 16:36:27 GMT",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/52950776",
+        "positive": 0.0,
+        "neutral": 0.794,
+        "negative": 0.206,
+        "overall": -0.6705
+    },
+    {
+        "title": "No taller than 500 meters: China signals 'new era' for architecture",
+        "description": "An end to \"copycat\" buildings and a ban on skyscrapers taller than 500 meters (1,640 feet) are among the Chinese government's new guidelines for architects, property developers and urban planners.",
+        "date": "Sun, 07 Jun 2020 01:14:23 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fB19hUa-B10/index.html",
+        "positive": 0.0,
+        "neutral": 0.864,
+        "negative": 0.136,
+        "overall": -0.7003
+    },
+    {
         "title": "Stephen Colbert calls out police tactics at protests",
         "description": "\"Late Show\" host Stephen Colbert is weighing in on the treatment of peaceful protestors at nationwide demonstrations against police brutality and systematic racism.",
         "date": "Fri, 05 Jun 2020 14:11:32 GMT",
@@ -1268,5 +1078,195 @@
         "neutral": 0.705,
         "negative": 0.211,
         "overall": -0.7096
+    },
+    {
+        "title": "Thousands of people are volunteering to be laid off",
+        "description": "Who would want to lose their job in the middle of the worst job market since the Great Depression? Believe or not, thousands of people would.",
+        "date": "Thu, 04 Jun 2020 17:15:58 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/4A1-MzIcHOQ/index.html",
+        "positive": 0.12,
+        "neutral": 0.646,
+        "negative": 0.234,
+        "overall": -0.7269
+    },
+    {
+        "title": "Nude sunbather mistaken for dead body near railway line in Essex",
+        "description": "Rail workers spotted a pair of feet \"but no signs of life\" within the railway boundary in Essex.",
+        "date": "Wed, 03 Jun 2020 16:15:52 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-essex-52904213",
+        "positive": 0.0,
+        "neutral": 0.769,
+        "negative": 0.231,
+        "overall": -0.7351
+    },
+    {
+        "title": "George Floyd: Fake White House image and protest videos debunked",
+        "description": "Debunking some of the most widely shared misleading posts and videos about the George Floyd protests.",
+        "date": "Fri, 05 Jun 2020 23:19:17 GMT",
+        "link": "https://www.bbc.co.uk/news/52934672",
+        "positive": 0.082,
+        "neutral": 0.613,
+        "negative": 0.305,
+        "overall": -0.7419
+    },
+    {
+        "title": "Coronavirus: How dangerous is lifting lockdown?",
+        "description": "Why is lifting restrictions being described as a \"dangerous moment\"?",
+        "date": "Mon, 01 Jun 2020 23:57:25 GMT",
+        "link": "https://www.bbc.co.uk/news/health-52878816",
+        "positive": 0.0,
+        "neutral": 0.647,
+        "negative": 0.353,
+        "overall": -0.7622
+    },
+    {
+        "title": "Coronavirus: Are protests legal amid lockdown?",
+        "description": "Black Lives Matter protests continue in the UK - but are they illegal under restrictions on gatherings?",
+        "date": "Sat, 06 Jun 2020 12:44:31 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52909814",
+        "positive": 0.087,
+        "neutral": 0.605,
+        "negative": 0.308,
+        "overall": -0.782
+    },
+    {
+        "title": "Philando Castile death: 'I lost my best friend in a police shooting'",
+        "description": "Four years before George Floyd's death made global headlines, another man was shot dead in the same part of the US.",
+        "date": "Wed, 03 Jun 2020 01:08:37 GMT",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-52896872",
+        "positive": 0.158,
+        "neutral": 0.534,
+        "negative": 0.308,
+        "overall": -0.7906
+    },
+    {
+        "title": "Coronavirus: Kate Garraway opens up on husband's battle with 'evil virus'",
+        "description": "TV presenter Kate Garraway's partner has been in a coma for nearly 10 weeks, after catching Covid-19.",
+        "date": "Fri, 05 Jun 2020 11:09:53 GMT",
+        "link": "https://www.bbc.co.uk/news/entertainment-arts-52933404",
+        "positive": 0.0,
+        "neutral": 0.774,
+        "negative": 0.226,
+        "overall": -0.7906
+    },
+    {
+        "title": "Polaroid innovator Elsa Dorfman has died at age 83",
+        "description": "American photographer Elsa Dorfman, known for her intimate large-scale portraits of well-known figures including Bob Dylan, Allen Ginsberg and Faye Dunaway, died last Saturday at age 83.",
+        "date": "Wed, 03 Jun 2020 16:10:18 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/sH8aSC2i9VU/index.html",
+        "positive": 0.0,
+        "neutral": 0.821,
+        "negative": 0.179,
+        "overall": -0.802
+    },
+    {
+        "title": "George Floyd: Thousands protest against racism in Washington DC",
+        "description": "Rallies across the United States against the death in custody of George Floyd go into a 12th day.",
+        "date": "Sat, 06 Jun 2020 19:26:58 GMT",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-52951093",
+        "positive": 0.083,
+        "neutral": 0.621,
+        "negative": 0.296,
+        "overall": -0.802
+    },
+    {
+        "title": "James Bennet resigns from New York Times after Cotton op-ed backlash",
+        "description": "The editor of The New York Times' editorial page, James Bennet, has resigned, publisher A.G. Sulzberger announced Sunday. Bennet's resignation comes after the publication of a controversial op-ed from Republican Sen. Tom Cotton earlier in the week drew significant criticism, including from dozens of the newspaper's staffers.",
+        "date": "Sun, 07 Jun 2020 21:28:03 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/qq0mGnA5Y6I/index.html",
+        "positive": 0.029,
+        "neutral": 0.794,
+        "negative": 0.178,
+        "overall": -0.8126
+    },
+    {
+        "title": "George Floyd death: Thousands turn out for UK anti-racism protests",
+        "description": "Demonstrations sparked by the death of George Floyd take place in towns and cities across the UK.",
+        "date": "Sat, 06 Jun 2020 20:26:01 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-52949014",
+        "positive": 0.0,
+        "neutral": 0.755,
+        "negative": 0.245,
+        "overall": -0.8316
+    },
+    {
+        "title": "Dancing On My Own: The story behind Robyn's 2010 'sad banger'",
+        "description": "The Swedish singer discusses her pop classic, and how she once became 'tired of the broken heart'.",
+        "date": "Sun, 31 May 2020 23:18:10 GMT",
+        "link": "https://www.bbc.co.uk/news/newsbeat-52817969",
+        "positive": 0.0,
+        "neutral": 0.725,
+        "negative": 0.275,
+        "overall": -0.8442
+    },
+    {
+        "title": "University calls professor's tweets 'vile and inexcusable' following backlash online",
+        "description": "A professor at the University of North Carolina Wilmington has come under fire for tweets he posted which the school has called \"vile and inexcusable,\" according to a statement the school provided to CNN Saturday.",
+        "date": "Sun, 07 Jun 2020 15:03:24 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Mp5x1yabvKE/index.html",
+        "positive": 0.0,
+        "neutral": 0.791,
+        "negative": 0.209,
+        "overall": -0.891
+    },
+    {
+        "title": "#WeAreTired: Nigerian women speak out over wave of violence",
+        "description": "Thousands sign a petition and use the hashtag #WeAreTired to protest against recent rapes and killings.",
+        "date": "Thu, 04 Jun 2020 23:25:48 GMT",
+        "link": "https://www.bbc.co.uk/news/world-africa-52889965",
+        "positive": 0.0,
+        "neutral": 0.645,
+        "negative": 0.355,
+        "overall": -0.9001
+    },
+    {
+        "title": "John Bercow: Ex-Speaker 'sorry' not to receive peerage",
+        "description": "The former Commons speaker tells the BBC he \"made a lot of enemies\" but denies bullying allegations.",
+        "date": "Sat, 06 Jun 2020 12:37:42 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-politics-52948716",
+        "positive": 0.0,
+        "neutral": 0.642,
+        "negative": 0.358,
+        "overall": -0.9032
+    },
+    {
+        "title": "Trump's messy split-city GOP convention",
+        "description": "Of all the institutions the Trump presidency is harming, it's likely no one suspected the Republican National Convention might be one of them. But President Donald Trump's refusal to fully acknowledge the risks associated with the pandemic is creating a new political threat to his own candidacy.",
+        "date": "Sat, 06 Jun 2020 14:58:59 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/xKHVRBMxGVA/index.html",
+        "positive": 0.036,
+        "neutral": 0.703,
+        "negative": 0.261,
+        "overall": -0.9147
+    },
+    {
+        "title": "Police officer faces charges after using a stun gun on a black man",
+        "description": "A police officer in Fairfax County, Virginia, faces up to three years in prison in connection with his arrest and use of a stun gun on a black man who cried out, \"I can't breathe.\"",
+        "date": "Sun, 07 Jun 2020 19:40:13 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/y1qFrSP4X_E/index.html",
+        "positive": 0.0,
+        "neutral": 0.709,
+        "negative": 0.291,
+        "overall": -0.9217
+    },
+    {
+        "title": "This week in America would make RFK weep",
+        "description": "Fifty-two years ago this weekend, Robert F. Kennedy, then the junior senator from New York and a leading candidate for the Democratic presidential nomination, died in Los Angeles, the victim of a political assassination. I've been looking again at the final months of his life, which were largely shaped by the murder of Martin Luther King, Jr. The words he spoke the night of April 4, 1968, when King was assassinated, and in the days following feel tailor-made for own moment in 2020. And his efforts at guidance as a presidential candidate during those weeks leading up to his own death on June 6, bring into stark relief the stunning dereliction of leadership shown in 2020 by President Donald Trump.",
+        "date": "Sat, 06 Jun 2020 17:34:02 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/lYPYJ9UW0bo/index.html",
+        "positive": 0.04,
+        "neutral": 0.83,
+        "negative": 0.129,
+        "overall": -0.926
+    },
+    {
+        "title": "Top Trump officials claim there's no systemic racism in US law enforcement agencies as Americans flood streets in protest",
+        "description": "Several top Trump administration officials claimed Sunday that systemic racism is not an issue in US law enforcement agencies -- even as thousands of Americans continue to take to the streets to protest against racism and police violence following the police killing of a black man in Minneapolis.",
+        "date": "Sun, 07 Jun 2020 21:33:46 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/SRIuSXgIAjs/index.html",
+        "positive": 0.043,
+        "neutral": 0.662,
+        "negative": 0.296,
+        "overall": -0.9732
     }
 ]
