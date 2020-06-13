@@ -1,0 +1,541 @@
+[
+    {
+        "description": "Demonstrations sparked by the death of George Floyd take place in towns and cities across the UK.",
+        "positive": 0.0,
+        "neutral": 0.755,
+        "negative": 0.245,
+        "overall": -0.8316
+    },
+    {
+        "description": "Rallies across the United States against the death in custody of George Floyd go into a 12th day.",
+        "positive": 0.083,
+        "neutral": 0.621,
+        "negative": 0.296,
+        "overall": -0.802
+    },
+    {
+        "description": "Hospital bosses in England felt \"in the dark\" over changes to policies on face masks and visitors.",
+        "positive": 0.113,
+        "neutral": 0.887,
+        "negative": 0.0,
+        "overall": 0.5106
+    },
+    {
+        "description": "Coronavirus disrupted Harry Billinge's D-Day plans. But he got to meet a face from his past instead.",
+        "positive": 0.15,
+        "neutral": 0.85,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "description": "There are concerns coronavirus might be starting to spread in parts of England again.",
+        "positive": 0.064,
+        "neutral": 0.936,
+        "negative": 0.0,
+        "overall": 0.0772
+    },
+    {
+        "description": "The former Commons speaker tells the BBC he \"made a lot of enemies\" but denies bullying allegations.",
+        "positive": 0.0,
+        "neutral": 0.642,
+        "negative": 0.358,
+        "overall": -0.9032
+    },
+    {
+        "description": "Protesters march in support of George Floyd and indigenous Australians despite coronavirus warnings.",
+        "positive": 0.167,
+        "neutral": 0.691,
+        "negative": 0.142,
+        "overall": -0.0803
+    },
+    {
+        "description": "The National Football League previously banned its players from dropping to one knee before games.",
+        "positive": 0.0,
+        "neutral": 0.818,
+        "negative": 0.182,
+        "overall": -0.5994
+    },
+    {
+        "description": "The BBC's Ed Thomas visits one street in north-west England that's reeling from three Covid-19 deaths.",
+        "positive": 0.0,
+        "neutral": 0.905,
+        "negative": 0.095,
+        "overall": -0.2263
+    },
+    {
+        "description": "A rally by extremists and football fans over the government's response ended in clashes with police.",
+        "positive": 0.0,
+        "neutral": 0.913,
+        "negative": 0.087,
+        "overall": -0.25
+    },
+    {
+        "description": "Scientists are gathering data on how new diseases emerge in the hope of identifying future pandemics.",
+        "positive": 0.111,
+        "neutral": 0.725,
+        "negative": 0.164,
+        "overall": -0.34
+    },
+    {
+        "description": "Kameko inflicts a first defeat on Pinatubo to win the 2,000 Guineas, the first British Classic of the season.",
+        "positive": 0.258,
+        "neutral": 0.653,
+        "negative": 0.089,
+        "overall": 0.6908
+    },
+    {
+        "description": "The second in line to the throne has been secretly answering text messages from people needing help.",
+        "positive": 0.105,
+        "neutral": 0.895,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "description": "A games designer creates a face mask that shows animated mouth shapes as you speak.",
+        "positive": 0.091,
+        "neutral": 0.909,
+        "negative": 0.0,
+        "overall": 0.2732
+    },
+    {
+        "description": "Four years after Colin Kaepernick first kneeled during the US national anthem, the NFL says it was \"wrong\" for not allowing players to protest.",
+        "positive": 0.0,
+        "neutral": 0.938,
+        "negative": 0.062,
+        "overall": -0.25
+    },
+    {
+        "description": "The musicians have practising together after moving into a country house before lockdown.",
+        "positive": 0.091,
+        "neutral": 0.909,
+        "negative": 0.0,
+        "overall": 0.2023
+    },
+    {
+        "description": "People of all ages are demonstrating, including kids who say \"you can't judge a book by its colour\".",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Ten of the Chelsea Pensioners have died in the coronavirus pandemic but their comrades soldier on.",
+        "positive": 0.0,
+        "neutral": 0.905,
+        "negative": 0.095,
+        "overall": -0.3182
+    },
+    {
+        "description": "The people can't go to the animals, but some companies are finding ways to bring them into homes.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "As the rest of the world reels from the pandemic, China is pushing ahead with the pursuit of its national interest.",
+        "positive": 0.157,
+        "neutral": 0.843,
+        "negative": 0.0,
+        "overall": 0.6369
+    },
+    {
+        "description": "The ex-Microsoft head is currently the target of all kinds of outlandish theories and false claims.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "The UK's coronavirus death toll has passed more than 40,000, according to the latest figures.",
+        "positive": 0.0,
+        "neutral": 0.83,
+        "negative": 0.17,
+        "overall": -0.5994
+    },
+    {
+        "description": "TV presenter Kate Garraway's partner has been in a coma for nearly 10 weeks, after catching Covid-19.",
+        "positive": 0.0,
+        "neutral": 0.774,
+        "negative": 0.226,
+        "overall": -0.7906
+    },
+    {
+        "description": "When 11-year-old Carl returned to primary school this week almost everything had changed.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Fed up with eco-oblivious influencers, some people have started naming and shaming.",
+        "positive": 0.0,
+        "neutral": 0.909,
+        "negative": 0.091,
+        "overall": -0.296
+    },
+    {
+        "description": "Named as Christian B, 43, the man currently in jail has many previous convictions.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Debunking some of the most widely shared misleading posts and videos about the George Floyd protests.",
+        "positive": 0.082,
+        "neutral": 0.613,
+        "negative": 0.305,
+        "overall": -0.7419
+    },
+    {
+        "description": "Protests following the death of George Floyd have brought some important phrases into the spotlight.",
+        "positive": 0.143,
+        "neutral": 0.664,
+        "negative": 0.193,
+        "overall": -0.3612
+    },
+    {
+        "description": "Alex Wright from Leicester takes us through his weekly spending during the coronavirus pandemic.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "The hills come alive again with the noise of mountain railways and cable cars.",
+        "positive": 0.177,
+        "neutral": 0.823,
+        "negative": 0.0,
+        "overall": 0.4767
+    },
+    {
+        "description": "There were no positive results for coronavirus from 1,195 tests in the latest round of testing in the Premier League.",
+        "positive": 0.208,
+        "neutral": 0.665,
+        "negative": 0.127,
+        "overall": 0.5859
+    },
+    {
+        "description": "Britain's world heavyweight champion Anthony Joshua describes racism as a \"pandemic\" at a Black Lives Matter march.",
+        "positive": 0.183,
+        "neutral": 0.571,
+        "negative": 0.246,
+        "overall": -0.6249
+    },
+    {
+        "description": "World number one Novak Djokovic calls the coronavirus safety protocols, planned in order for the US Open to take place \"extreme\".",
+        "positive": 0.146,
+        "neutral": 0.854,
+        "negative": 0.0,
+        "overall": 0.4767
+    },
+    {
+        "description": "Bayern Munich need a maximum of two wins from their final four games to clinch an eighth straight Bundesliga title after coming from behind to beat Bayer Leverkusen.",
+        "positive": 0.225,
+        "neutral": 0.775,
+        "negative": 0.0,
+        "overall": 0.8519
+    },
+    {
+        "description": "Criticism of Mike and George Ford by ex-England international Sam Burgess is \"strange and confusing\", says Leicester Tigers head coach Geordan Murphy.",
+        "positive": 0.0,
+        "neutral": 0.794,
+        "negative": 0.206,
+        "overall": -0.6705
+    },
+    {
+        "description": "Real Madrid make Havertz bid, Everton lead Rabiot chase, Chelsea set to offload several players, plus more.",
+        "positive": 0.0,
+        "neutral": 0.936,
+        "negative": 0.064,
+        "overall": -0.1779
+    },
+    {
+        "description": "World 400m champion Salwa Eid Naser is given a provisional suspension for failing to make herself available for anti-doping tests.",
+        "positive": 0.198,
+        "neutral": 0.662,
+        "negative": 0.14,
+        "overall": 0.5106
+    },
+    {
+        "description": "Black Lives Matter protests continue in the UK - but are they illegal under restrictions on gatherings?",
+        "positive": 0.087,
+        "neutral": 0.605,
+        "negative": 0.308,
+        "overall": -0.782
+    },
+    {
+        "description": "Our guide to different types of face coverings and step-by-step instructions on how to make them.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Key graphics explaining how coronavirus has spread in the UK and the government's response.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Identifying superspreading events could be crucial in the fight against the virus, scientists say.",
+        "positive": 0.0,
+        "neutral": 0.86,
+        "negative": 0.14,
+        "overall": -0.3818
+    },
+    {
+        "description": "A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.",
+        "positive": 0.0,
+        "neutral": 0.874,
+        "negative": 0.126,
+        "overall": -0.5574
+    },
+    {
+        "description": "Face coverings are to become compulsory for people using public transport in England.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "You can now meet more people and play certain non-contact sports in the UK - but what are they?",
+        "positive": 0.14,
+        "neutral": 0.86,
+        "negative": 0.0,
+        "overall": 0.4102
+    },
+    {
+        "description": "Across the world, people are being asked to wear face coverings to help stop coronavirus from spreading.",
+        "positive": 0.093,
+        "neutral": 0.83,
+        "negative": 0.076,
+        "overall": 0.128
+    },
+    {
+        "description": "Starting a new relationship is difficult during the current crisis, but not impossible.",
+        "positive": 0.0,
+        "neutral": 0.788,
+        "negative": 0.212,
+        "overall": -0.5106
+    },
+    {
+        "description": "People who have been in close contact with someone found to have Covid-19 are now being traced.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Which children are the first to go back to school, and what about the rest?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "The government is under pressure to relax the 2m social distancing rule - but is it safe to do so?",
+        "positive": 0.188,
+        "neutral": 0.763,
+        "negative": 0.049,
+        "overall": 0.6767
+    },
+    {
+        "description": "Loss of taste and smell have been added to the UK's list of coronavirus symptoms.",
+        "positive": 0.102,
+        "neutral": 0.898,
+        "negative": 0.0,
+        "overall": 0.3818
+    },
+    {
+        "description": "What are the tests for coronavirus, who are they for and how do they work?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "What do you need to know if you're planning to fly during the Covid-19 pandemic?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Wales is the latest part of the UK to launch a tracing system, but how do they work?",
+        "positive": 0.0,
+        "neutral": 0.921,
+        "negative": 0.079,
+        "overall": -0.2406
+    },
+    {
+        "description": "Why is lifting restrictions being described as a \"dangerous moment\"?",
+        "positive": 0.0,
+        "neutral": 0.647,
+        "negative": 0.353,
+        "overall": -0.7622
+    },
+    {
+        "description": "The UK Statistics Authority has criticised the government's handling of Covid-19 testing data.",
+        "positive": 0.054,
+        "neutral": 0.83,
+        "negative": 0.116,
+        "overall": -0.3612
+    },
+    {
+        "description": "The Royal College of General Practitioners is warning people not to mix up the symptoms.",
+        "positive": 0.0,
+        "neutral": 0.893,
+        "negative": 0.107,
+        "overall": -0.34
+    },
+    {
+        "description": "Non-essential shops can reopen in England in June, but will I be able to buy a book or have a haircut?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Meeting friends? Here's how to handle the awkward new rules - from sharing food to avoiding hugs.",
+        "positive": 0.283,
+        "neutral": 0.592,
+        "negative": 0.125,
+        "overall": 0.7269
+    },
+    {
+        "description": "The BBC's Education Editor Branwen Jeffreys answers kids' questions about going back to school.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "A head teacher explains how she is piecing school life back together before children return.",
+        "positive": 0.111,
+        "neutral": 0.889,
+        "negative": 0.0,
+        "overall": 0.3612
+    },
+    {
+        "description": "Children seem to be at low risk from the disease, but can they still spread it?",
+        "positive": 0.0,
+        "neutral": 0.791,
+        "negative": 0.209,
+        "overall": -0.4606
+    },
+    {
+        "description": "People most at risk of needing hospital treatment if they get coronavirus are being asked to stay home.",
+        "positive": 0.0,
+        "neutral": 0.898,
+        "negative": 0.102,
+        "overall": -0.3353
+    },
+    {
+        "description": "Ministers have set targets for testing, medical equipment and hospital beds. Have they delivered?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "There is a lot of uncertainty around when and how weddings are allowed to take place. What are your rights?",
+        "positive": 0.0,
+        "neutral": 0.897,
+        "negative": 0.103,
+        "overall": -0.4137
+    },
+    {
+        "description": "How will social and work life be different after the easing of some restrictions around the UK?",
+        "positive": 0.08,
+        "neutral": 0.92,
+        "negative": 0.0,
+        "overall": 0.25
+    },
+    {
+        "description": "Millions unable to do their job due to coronavirus will have their wages paid by a new scheme.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "What is being done for the five million self-employed people in the UK facing a sudden loss of income?",
+        "positive": 0.108,
+        "neutral": 0.811,
+        "negative": 0.081,
+        "overall": 0.1926
+    },
+    {
+        "description": "While waiting for flights to resume, 20 players shared a single room in Auckland for three months.",
+        "positive": 0.085,
+        "neutral": 0.915,
+        "negative": 0.0,
+        "overall": 0.34
+    },
+    {
+        "description": "Our homes, transport and city-centre spaces would change if we worked from home for good.",
+        "positive": 0.104,
+        "neutral": 0.896,
+        "negative": 0.0,
+        "overall": 0.4404
+    },
+    {
+        "description": "Rail workers spotted a pair of feet \"but no signs of life\" within the railway boundary in Essex.",
+        "positive": 0.0,
+        "neutral": 0.769,
+        "negative": 0.231,
+        "overall": -0.7351
+    },
+    {
+        "description": "Many airlines are planning to resume flying, but they first need to reduce the risks of Covid-19.",
+        "positive": 0.071,
+        "neutral": 0.833,
+        "negative": 0.096,
+        "overall": -0.1779
+    },
+    {
+        "description": "Cartoonist Priya Kuriyan documents how masks became prevalent in India - even before its lockdown.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Members of the Association of Photographers select a picture that kick-started their career.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Thousands sign a petition and use the hashtag #WeAreTired to protest against recent rapes and killings.",
+        "positive": 0.0,
+        "neutral": 0.645,
+        "negative": 0.355,
+        "overall": -0.9001
+    },
+    {
+        "description": "The Swedish singer discusses her pop classic, and how she once became 'tired of the broken heart'.",
+        "positive": 0.0,
+        "neutral": 0.725,
+        "negative": 0.275,
+        "overall": -0.8442
+    },
+    {
+        "description": "Stephen Wamukota came up with a hand-washing machine that helps prevent the spread of Covid-19.",
+        "positive": 0.163,
+        "neutral": 0.837,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "description": "Four years before George Floyd's death made global headlines, another man was shot dead in the same part of the US.",
+        "positive": 0.158,
+        "neutral": 0.534,
+        "negative": 0.308,
+        "overall": -0.7906
+    }
+]

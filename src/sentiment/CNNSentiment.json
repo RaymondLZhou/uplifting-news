@@ -1,0 +1,352 @@
+[
+    {
+        "description": "\u2022 Analysis: As Trump gives in to his baser instincts, cities look for policing changes\n\u2022 St. Paul mayor reflects on generations of pain among African Americans",
+        "positive": 0.0,
+        "neutral": 0.904,
+        "negative": 0.096,
+        "overall": -0.5106
+    },
+    {
+        "description": "New York City will move some of its funding from the New York Police Department to youth and social services, Mayor Bill De Blasio said on Sunday.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Several top Trump administration officials claimed Sunday that systemic racism is not an issue in US law enforcement agencies -- even as thousands of Americans continue to take to the streets to protest against racism and police violence following the police killing of a black man in Minneapolis.",
+        "positive": 0.043,
+        "neutral": 0.662,
+        "negative": 0.296,
+        "overall": -0.9732
+    },
+    {
+        "description": "\u2022 Trump's CDC director has a controversial past\n\u2022 Mayor says NYC is within parameters to proceed with reopening\n\u2022 US vaccine program is fueling fears, two experts say\n\u2022 This country decided against a lockdown. See how it's going.",
+        "positive": 0.0,
+        "neutral": 0.897,
+        "negative": 0.103,
+        "overall": -0.5574
+    },
+    {
+        "description": "\u2022 Analysis: Trump's chaos has turned on him\n\u2022 Trump meets with campaign team as poll numbers fall\n\u2022 Analysis: Trump's historically strong with his base -- that's a problem\n\u2022 Colin Powell says he will vote for Biden for president",
+        "positive": 0.064,
+        "neutral": 0.812,
+        "negative": 0.124,
+        "overall": -0.4767
+    },
+    {
+        "description": "The editor of The New York Times' editorial page, James Bennet, has resigned, publisher A.G. Sulzberger announced Sunday. Bennet's resignation comes after the publication of a controversial op-ed from Republican Sen. Tom Cotton earlier in the week drew significant criticism, including from dozens of the newspaper's staffers.",
+        "positive": 0.029,
+        "neutral": 0.794,
+        "negative": 0.178,
+        "overall": -0.8126
+    },
+    {
+        "description": "A police officer in Fairfax County, Virginia, faces up to three years in prison in connection with his arrest and use of a stun gun on a black man who cried out, \"I can't breathe.\"",
+        "positive": 0.0,
+        "neutral": 0.709,
+        "negative": 0.291,
+        "overall": -0.9217
+    },
+    {
+        "description": "Mukhtar Ibrahim didn't imagine the communities he covers would be at the epicenter of protests sweeping the nation when he founded a startup news website in Minnesota last year.",
+        "positive": 0.049,
+        "neutral": 0.899,
+        "negative": 0.052,
+        "overall": -0.0258
+    },
+    {
+        "description": "After a weekend of massive peaceful protests around the country, White House officials are currently deliberating a plan for President Donald Trump to address the nation this week on issues related to race and national unity, as Housing and Urban Development Secretary Ben Carson hinted in an interview with CNN on Sunday and a senior administration official said was under serious consideration.",
+        "positive": 0.043,
+        "neutral": 0.914,
+        "negative": 0.043,
+        "overall": 0.25
+    },
+    {
+        "description": "\u2022 Watch and read: Colin Powell's State of the Union interview\n\u2022 Powell slams GOP lawmakers for having 'nothing to say' about Trump's protest response\n\u2022 'Situation has gotten worse': Powell explains why Trump shouldn't be reelected",
+        "positive": 0.0,
+        "neutral": 0.89,
+        "negative": 0.11,
+        "overall": -0.5859
+    },
+    {
+        "description": "Former Republican Secretary of State Colin Powell on Sunday called out Republican lawmakers for having \"nothing to say\" about President Donald Trump's militarized response to widespread unrest following the death of George Floyd at the hands of police.",
+        "positive": 0.0,
+        "neutral": 0.93,
+        "negative": 0.07,
+        "overall": -0.5994
+    },
+    {
+        "description": "A professor at the University of North Carolina Wilmington has come under fire for tweets he posted which the school has called \"vile and inexcusable,\" according to a statement the school provided to CNN Saturday.",
+        "positive": 0.0,
+        "neutral": 0.791,
+        "negative": 0.209,
+        "overall": -0.891
+    },
+    {
+        "description": "Abraham Lincoln knew the value of a good photo. In February 1860, the former congressman from Illinois posed for Matthew Brady in the pioneering photographer's New York studio. The resulting image concealed some cosmetic flaws, giving Lincoln a determined look. It was widely distributed and credited with helping him win the nomination and the presidency.",
+        "positive": 0.271,
+        "neutral": 0.729,
+        "negative": 0.0,
+        "overall": 0.9485
+    },
+    {
+        "description": "Mixed martial arts fighter Conor McGregor announced his retirement from the sport on social media Sunday.",
+        "positive": 0.234,
+        "neutral": 0.766,
+        "negative": 0.0,
+        "overall": 0.6705
+    },
+    {
+        "description": "A new initiative is aiming to make the shelves of major US retailers a better reflection of the streets of America.",
+        "positive": 0.086,
+        "neutral": 0.914,
+        "negative": 0.0,
+        "overall": 0.4404
+    },
+    {
+        "description": "The US Marine Corps has ordered the removal of all public displays of the Confederate flag from Marine installations.",
+        "positive": 0.0,
+        "neutral": 0.893,
+        "negative": 0.107,
+        "overall": -0.5574
+    },
+    {
+        "description": "Coral reefs are facing their own pandemic. For years, people have compromised the immunity of these ecosystems through pollution and overfishing. Meanwhile, climate change has created a fever in our oceans by raising temperatures and acidifying seas. The resulting outbreak has decimated approximately half of the world's reefs.",
+        "positive": 0.041,
+        "neutral": 0.959,
+        "negative": 0.0,
+        "overall": 0.3612
+    },
+    {
+        "description": "A retired Chinese soccer star has openly called for the downfall of China's ruling Communist Party, in what he says was the \"biggest and most correct decision\" of his life.",
+        "positive": 0.065,
+        "neutral": 0.935,
+        "negative": 0.0,
+        "overall": 0.4019
+    },
+    {
+        "description": "The economy is reopening and life is slowly getting back on track, but it's not back to normal. High unemployment rates and the need to socially distance will have lasting effects on how and where we work.",
+        "positive": 0.0,
+        "neutral": 0.929,
+        "negative": 0.071,
+        "overall": -0.5927
+    },
+    {
+        "description": "Anti-racism protesters in England have pulled down a statue of a 17th-century slave trader while demonstrating in solidarity with the US Black Lives Matter movement.",
+        "positive": 0.103,
+        "neutral": 0.779,
+        "negative": 0.118,
+        "overall": -0.128
+    },
+    {
+        "description": "Banksy, perhaps the most well-known anonymous artist and social critic in the world, is showing his support for the Black Lives Matter movement with a new piece of art and a stark message: \"People of Colour are being failed by the system.\"",
+        "positive": 0.161,
+        "neutral": 0.741,
+        "negative": 0.098,
+        "overall": 0.3612
+    },
+    {
+        "description": "Sixty-three years ago, a pancake house opened in California that spawned a nationwide restaurant chain.",
+        "positive": 0.087,
+        "neutral": 0.913,
+        "negative": 0.0,
+        "overall": 0.2023
+    },
+    {
+        "description": "Remember when \"Black Lives Matter\" was still considered a controversial thing to say?",
+        "positive": 0.049,
+        "neutral": 0.854,
+        "negative": 0.097,
+        "overall": -0.264
+    },
+    {
+        "description": "A 60-year-old surfer died Sunday in Australia after being bitten by a great white shark that was nearly ten feet long, authorities say.",
+        "positive": 0.211,
+        "neutral": 0.696,
+        "negative": 0.093,
+        "overall": 0.6808
+    },
+    {
+        "description": "More than 140 scientists who have received funding and support from Mark Zuckerberg's philanthropic organization wrote to the Facebook CEO Saturday expressing concern about how he handled President Donald Trump's posts on the platform.",
+        "positive": 0.079,
+        "neutral": 0.921,
+        "negative": 0.0,
+        "overall": 0.4215
+    },
+    {
+        "description": "Which came first, the chicken or the egg? If we're talking menus, you might be inclined to say \"egg,\" if only for its ubiquity at breakfast. But the egg is the star of many other meals, too, and it is beloved for its workhorse qualities in recipes the world over.",
+        "positive": 0.126,
+        "neutral": 0.874,
+        "negative": 0.0,
+        "overall": 0.8176
+    },
+    {
+        "description": "Record stimulus efforts are facilitating the global recovery from the steepest economic downturn since the Great Depression. That means it's time to spend even more, investors and economists say.",
+        "positive": 0.09,
+        "neutral": 0.83,
+        "negative": 0.081,
+        "overall": 0.1027
+    },
+    {
+        "description": "Who would want to lose their job in the middle of the worst job market since the Great Depression? Believe or not, thousands of people would.",
+        "positive": 0.12,
+        "neutral": 0.646,
+        "negative": 0.234,
+        "overall": -0.7269
+    },
+    {
+        "description": "It's getting easier to shop for a new car again now that dealerships across the United States are starting to open up following the coronavirus lockdowns. But don't go shopping with your heart set on anything specific. It's going to be harder to find the exact car, truck or SUV of your dreams.",
+        "positive": 0.194,
+        "neutral": 0.806,
+        "negative": 0.0,
+        "overall": 0.9217
+    },
+    {
+        "description": "In Washington, DC, alone, there has been a dizzying array of security personnel deployed in the last few days. From members of the military to DC police to the US Bureau of Prisons, the streets have become an alphabet soup of acronyms when it comes to law enforcement and security personnel, all designated -- by various levels of government -- to seemingly promote safety. But, as Americans countrywide exercise their constitutional right to protest peacefully, unnecessary assaults on democratic freedoms and civil liberties have proliferated.",
+        "positive": 0.184,
+        "neutral": 0.743,
+        "negative": 0.072,
+        "overall": 0.891
+    },
+    {
+        "description": "There has been so much anxiety and anger in the country these past few months \u2014 and certainly over the last week \u2014 that a calm voice and steady hand can be very hard to find.",
+        "positive": 0.171,
+        "neutral": 0.67,
+        "negative": 0.159,
+        "overall": 0.1352
+    },
+    {
+        "description": "The NFL is sorry.",
+        "positive": 0.0,
+        "neutral": 0.885,
+        "negative": 0.115,
+        "overall": -0.0772
+    },
+    {
+        "description": "We can't jog and be black. We can't barbecue and be black. We can't bird watch and be black. We can't sleep in our bed and be black. We can't even sit in our own car and be black.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Of all the institutions the Trump presidency is harming, it's likely no one suspected the Republican National Convention might be one of them. But President Donald Trump's refusal to fully acknowledge the risks associated with the pandemic is creating a new political threat to his own candidacy.",
+        "positive": 0.036,
+        "neutral": 0.703,
+        "negative": 0.261,
+        "overall": -0.9147
+    },
+    {
+        "description": "Fifty-two years ago this weekend, Robert F. Kennedy, then the junior senator from New York and a leading candidate for the Democratic presidential nomination, died in Los Angeles, the victim of a political assassination. I've been looking again at the final months of his life, which were largely shaped by the murder of Martin Luther King, Jr. The words he spoke the night of April 4, 1968, when King was assassinated, and in the days following feel tailor-made for own moment in 2020. And his efforts at guidance as a presidential candidate during those weeks leading up to his own death on June 6, bring into stark relief the stunning dereliction of leadership shown in 2020 by President Donald Trump.",
+        "positive": 0.04,
+        "neutral": 0.83,
+        "negative": 0.129,
+        "overall": -0.926
+    },
+    {
+        "description": "Chiranjeevi Sarja, a famous Indian actor, has passed away at the age of 39.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "An end to \"copycat\" buildings and a ban on skyscrapers taller than 500 meters (1,640 feet) are among the Chinese government's new guidelines for architects, property developers and urban planners.",
+        "positive": 0.0,
+        "neutral": 0.864,
+        "negative": 0.136,
+        "overall": -0.7003
+    },
+    {
+        "description": "DC Mayor Muriel Bowser said Sunday she believes the federal law enforcement response to protests after the police killing of George Floyd encouraged more people to participate and do so peacefully.",
+        "positive": 0.129,
+        "neutral": 0.716,
+        "negative": 0.155,
+        "overall": -0.0859
+    },
+    {
+        "description": "When news broke months ago about the country's first coronavirus outbreak at a nursing home, Linda Mayberry immediately recognized the home's corporate logo as it flashed across her television screen. It was the same one emblazoned throughout the long-term care facility where she lived.",
+        "positive": 0.057,
+        "neutral": 0.893,
+        "negative": 0.05,
+        "overall": 0.1027
+    },
+    {
+        "description": "A Texas Republican county chairman-elect said Saturday he won't assume office amid backlash over posting a controversial image of a Martin Luther King Jr. quote with a banana in the picture.",
+        "positive": 0.0,
+        "neutral": 0.951,
+        "negative": 0.049,
+        "overall": -0.2023
+    },
+    {
+        "description": "A Philadelphia police inspector is facing charges after prosecutors said a video shows him striking a student protester on the head with a metal baton.",
+        "positive": 0.0,
+        "neutral": 0.878,
+        "negative": 0.122,
+        "overall": -0.4404
+    },
+    {
+        "description": "The front door of Arthur Lewis' Los Angeles home opens to a room organized like an exhibition space. The marks of domesticity -- dining room table, mantel, fireplace, throw pillows -- are present, but engulfed by art. Paintings and sculptures grab all the attention, and maybe the intention, of the space.",
+        "positive": 0.088,
+        "neutral": 0.912,
+        "negative": 0.0,
+        "overall": 0.5423
+    },
+    {
+        "description": "American photographer Elsa Dorfman, known for her intimate large-scale portraits of well-known figures including Bob Dylan, Allen Ginsberg and Faye Dunaway, died last Saturday at age 83.",
+        "positive": 0.0,
+        "neutral": 0.821,
+        "negative": 0.179,
+        "overall": -0.802
+    },
+    {
+        "description": "Austria has unveiled plans to transform Adolf Hitler's birthplace into a police station, following years of debate and legal wrangling over the controversial site.",
+        "positive": 0.046,
+        "neutral": 0.898,
+        "negative": 0.056,
+        "overall": -0.0772
+    },
+    {
+        "description": "In a video installation by James Joyce, a yellow circle rotates as two black ovals and a curved line tumble at the bottom, thwarted by gravity. Watching the video, Perseverance in the Face of Absurdity, which was projected at Banksy's pop-up dystopian theme park, Dismaland in 2015, one can mentally reassemble the three shapes into their familiar formation: two eyes and a swooping smile.",
+        "positive": 0.036,
+        "neutral": 0.948,
+        "negative": 0.016,
+        "overall": 0.34
+    },
+    {
+        "description": "In the wake of George Floyd's death at the hands of a Minneapolis police officer, artists have been quick to respond with works that seek to memorialize, to provoke and to heal.",
+        "positive": 0.045,
+        "neutral": 0.82,
+        "negative": 0.135,
+        "overall": -0.6597
+    },
+    {
+        "description": "Bruce Lee isn't an obvious fit for ESPN, beyond the fact lots of people enjoyed his action movies. Yet \"Be Water\" proves an excellent addition to the network's lineup of documentaries to fill the sports void, examining the martial-arts star's legacy and the circuitous, discrimination-marred path he followed to his too-short stardom.",
+        "positive": 0.108,
+        "neutral": 0.86,
+        "negative": 0.032,
+        "overall": 0.7087
+    },
+    {
+        "description": "\"Can I navigate home? This place that I call home? And if I can't, then is it really?\"",
+        "positive": 0.139,
+        "neutral": 0.861,
+        "negative": 0.0,
+        "overall": 0.5007
+    },
+    {
+        "description": "Dwayne \"The Rock\" Johnson posted a video calling out President Donald Trump in the wake of George Floyd's death.",
+        "positive": 0.0,
+        "neutral": 0.843,
+        "negative": 0.157,
+        "overall": -0.5994
+    },
+    {
+        "description": "\"Late Show\" host Stephen Colbert is weighing in on the treatment of peaceful protestors at nationwide demonstrations against police brutality and systematic racism.",
+        "positive": 0.084,
+        "neutral": 0.705,
+        "negative": 0.211,
+        "overall": -0.7096
+    }
+]

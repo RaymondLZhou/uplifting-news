@@ -1,31 +1,22 @@
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 import json
-import pandas as pd
 
-def createCSV(newsList):
+def createJSON(newsList):
     sia = SentimentIntensityAnalyzer()
-    descriptions = []
-    positive = []
-    negative = []
-    neutral = []
-    overall = []
+    sentiments = []
 
     for news in newsList:
         scores = sia.polarity_scores(news["title"] + news["description"])
-        
-        descriptions.append(news["description"])
-        positive.append(scores["pos"])
-        neutral.append(scores["neu"])
-        negative.append(scores["neg"])
-        overall.append(scores["compound"])
 
-    sentiments = pd.DataFrame ({
-        "description": descriptions,
-        "positive": positive,
-        "neutral": neutral,
-        "negative": negative,
-        "overall": overall,
-    })
+        sentiment = {
+            "description": news["description"],
+            "positive": scores["pos"],
+            "neutral": scores["neu"],
+            "negative": scores["neg"],
+            "overall": scores["compound"]
+        }
+
+        sentiments.append(sentiment)
 
     return sentiments
 
@@ -33,11 +24,16 @@ def createCSV(newsList):
 with open("../scraper/bbc/BBCFeed.json") as json_data:
     newsList = json.load(json_data)
 
-sentiments = createCSV(newsList)
-sentiments.to_csv("BBCSentiment.csv")
+sentiments = createJSON(newsList)
+
+with open("BBCSentiment.json", "w") as outfile:
+    json.dump(sentiments, outfile, indent=4)
+
 
 with open("../scraper/cnn/CNNFeed.json") as json_data:
     newsList = json.load(json_data)
 
-sentiments = createCSV(newsList)
-sentiments.to_csv("CNNSentiment.csv")
+sentiments = createJSON(newsList)
+
+with open("CNNSentiment.json", "w") as outfile:
+    json.dump(sentiments, outfile, indent=4)
