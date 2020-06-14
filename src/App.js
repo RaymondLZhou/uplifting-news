@@ -9,12 +9,12 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <header className="App-header">
+        <header className="App-header" id="header">
           <img src={logo} className="App-logo" alt="logo"/>
           <p> Uplifting News </p>
 
           <Link to="/sentiment">
-            <button className="button" id="spaces">
+            <button className="button">
              Link to Second Page
             </button>
           </Link>
