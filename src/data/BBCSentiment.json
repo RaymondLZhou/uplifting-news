@@ -1,8 +1,8 @@
 [
     {
         "title": "Black Lives Matter: 'Much more that we need to do' to tackle racism - PM",
-        "description": "Boris Johnson launches a commission to tackle all \"aspects of inequality\", including health outcomes.",
-        "date": "Sun, 14 Jun 2020 21:23:49 GMT",
+        "description": "Boris Johnson launches a commission to tackle all \"aspects of inequality\" in the UK.",
+        "date": "Sun, 14 Jun 2020 21:47:29 GMT",
         "link": "https://www.bbc.co.uk/news/uk-53045349",
         "positive": 0.038,
         "neutral": 0.822,
@@ -50,6 +50,16 @@
         "overall": -0.8074
     },
     {
+        "title": "Man charged over urinating at PC Keith Palmer memorial",
+        "description": "Andrew Banks, of Stansted, Essex has been charged with outraging public decency.",
+        "date": "Sun, 14 Jun 2020 21:45:20 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-london-53045555",
+        "positive": 0.0,
+        "neutral": 0.72,
+        "negative": 0.28,
+        "overall": -0.6808
+    },
+    {
         "title": "Swiss search for owner of gold haul left on train",
         "description": "The hoard, worth around \u00a3152,000, was found left behind on a train in Switzerland last October.",
         "date": "Sun, 14 Jun 2020 14:44:40 GMT",
@@ -68,16 +78,6 @@
         "neutral": 0.581,
         "negative": 0.336,
         "overall": -0.8074
-    },
-    {
-        "title": "Man arrested over urinating at PC Keith Palmer memorial",
-        "description": "The Met Police said officers had arrested a man on suspicion of outraging public decency.",
-        "date": "Sun, 14 Jun 2020 09:07:38 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-london-53040301",
-        "positive": 0.0,
-        "neutral": 0.604,
-        "negative": 0.396,
-        "overall": -0.8957
     },
     {
         "title": "Coronavirus: 'Scandal' BAME review recommendations 'buried'",

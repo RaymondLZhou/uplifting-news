@@ -14,19 +14,19 @@ def clean(newsList):
 
     return articles
 
-with open("BBCArticlesRaw.json") as json_data:
+with open("../data/BBCArticlesRaw.json") as json_data:
     newsList = json.load(json_data)
 
 articles = clean(newsList)
 
-with open("BBCArticlesCleaned.json", "w") as outfile:
+with open("../data/BBCArticlesCleaned.json", "w") as outfile:
     json.dump(articles, outfile, indent=4)
 
 
-with open("CNNArticlesRaw.json") as json_data:
+with open("../data/CNNArticlesRaw.json") as json_data:
     newsList = json.load(json_data)
 
 articles = clean(newsList)
 
-with open("CNNArticlesCleaned.json", "w") as outfile:
+with open("../data/CNNArticlesCleaned.json", "w") as outfile:
     json.dump(articles, outfile, indent=4)

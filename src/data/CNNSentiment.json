@@ -120,16 +120,6 @@
         "overall": 0.4404
     },
     {
-        "title": "Inside one reporter's experience from Ferguson to Floyd",
-        "description": "When I first saw the video, my head turned away. It was a visceral and uncontrolled physical reaction. I couldn't stomach seeing a man gulping air like a fish \u2014 his face pushed flat on the hot, dirty pavement with a knee bearing down on his neck. It was painful to watch. Though of course nothing like the pain of the man experiencing such an act of sanctioned violence. That man was 46-year-old George Floyd.",
-        "date": "Sun, 14 Jun 2020 16:37:05 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/NBMjgnKJSy0/index.html",
-        "positive": 0.088,
-        "neutral": 0.776,
-        "negative": 0.136,
-        "overall": -0.6367
-    },
-    {
         "title": "Indian actor Sushant Singh Rajput found dead in his Mumbai home",
         "description": "Indian actor Sushant Singh Rajput was found dead in his Mumbai residence on Sunday, according to a statement from Mumbai police. He was 34.",
         "date": "Sun, 14 Jun 2020 20:07:48 GMT",
@@ -458,5 +448,15 @@
         "neutral": 0.878,
         "negative": 0.029,
         "overall": 0.7469
+    },
+    {
+        "title": "How laundry is spilling plastics into the ocean",
+        "description": "Off the coast of Cullercoats, in northeast England, researchers Max Kelly and Priscilla Carrillo-Barragan send a long tubular net into the depths of the North Sea.",
+        "date": "Mon, 08 Jun 2020 08:08:18 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/dYrvj0iJ570/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
     }
 ]

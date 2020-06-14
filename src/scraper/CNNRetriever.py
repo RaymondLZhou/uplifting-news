@@ -3,7 +3,7 @@ import requests
 from bs4 import BeautifulSoup
 from time import sleep
 
-with open("CNNFeed.json") as json_data:
+with open("../data/CNNFeed.json") as json_data:
     newsList = json.load(json_data)
 
 articles = []
@@ -33,5 +33,5 @@ for news in newsList:
 
     sleep(2)
 
-with open("CNNArticlesRaw.json", "w") as outfile:
+with open("../data/CNNArticlesRaw.json", "w") as outfile:
     json.dump(articles, outfile, indent=4)

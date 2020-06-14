@@ -410,6 +410,16 @@
         "overall": 0.0772
     },
     {
+        "title": "How laundry is spilling plastics into the ocean",
+        "description": "Off the coast of Cullercoats, in northeast England, researchers Max Kelly and Priscilla Carrillo-Barragan send a long tubular net into the depths of the North Sea.",
+        "date": "Mon, 08 Jun 2020 08:08:18 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/dYrvj0iJ570/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
         "title": "Philippines casinos catering to illicit Chinese gamblers are causing kidnappings and chaos",
         "description": "Dozens of scantily dressed Filipina croupiers stand in booths shuffling cards in front of a webcam, their faces softly illuminated by professional lighting.",
         "date": "Sun, 14 Jun 2020 00:27:29 GMT",
@@ -941,8 +951,8 @@
     },
     {
         "title": "Black Lives Matter: 'Much more that we need to do' to tackle racism - PM",
-        "description": "Boris Johnson launches a commission to tackle all \"aspects of inequality\", including health outcomes.",
-        "date": "Sun, 14 Jun 2020 21:23:49 GMT",
+        "description": "Boris Johnson launches a commission to tackle all \"aspects of inequality\" in the UK.",
+        "date": "Sun, 14 Jun 2020 21:47:29 GMT",
         "link": "https://www.bbc.co.uk/news/uk-53045349",
         "positive": 0.038,
         "neutral": 0.822,
@@ -968,16 +978,6 @@
         "neutral": 0.793,
         "negative": 0.143,
         "overall": -0.6249
-    },
-    {
-        "title": "Inside one reporter's experience from Ferguson to Floyd",
-        "description": "When I first saw the video, my head turned away. It was a visceral and uncontrolled physical reaction. I couldn't stomach seeing a man gulping air like a fish \u2014 his face pushed flat on the hot, dirty pavement with a knee bearing down on his neck. It was painful to watch. Though of course nothing like the pain of the man experiencing such an act of sanctioned violence. That man was 46-year-old George Floyd.",
-        "date": "Sun, 14 Jun 2020 16:37:05 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/NBMjgnKJSy0/index.html",
-        "positive": 0.088,
-        "neutral": 0.776,
-        "negative": 0.136,
-        "overall": -0.6367
     },
     {
         "title": "Opinion: The myth Trump is modeling",
@@ -1008,6 +1008,16 @@
         "neutral": 0.826,
         "negative": 0.144,
         "overall": -0.651
+    },
+    {
+        "title": "Man charged over urinating at PC Keith Palmer memorial",
+        "description": "Andrew Banks, of Stansted, Essex has been charged with outraging public decency.",
+        "date": "Sun, 14 Jun 2020 21:45:20 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-london-53045555",
+        "positive": 0.0,
+        "neutral": 0.72,
+        "negative": 0.28,
+        "overall": -0.6808
     },
     {
         "title": "Coronavirus: Island isolation over as Greece lets tourists back",
@@ -1218,16 +1228,6 @@
         "neutral": 0.811,
         "negative": 0.151,
         "overall": -0.8934
-    },
-    {
-        "title": "Man arrested over urinating at PC Keith Palmer memorial",
-        "description": "The Met Police said officers had arrested a man on suspicion of outraging public decency.",
-        "date": "Sun, 14 Jun 2020 09:07:38 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-london-53040301",
-        "positive": 0.0,
-        "neutral": 0.604,
-        "negative": 0.396,
-        "overall": -0.8957
     },
     {
         "title": "How a new kind of policing saved America's most dangerous city",
