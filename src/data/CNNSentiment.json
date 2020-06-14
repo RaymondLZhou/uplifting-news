@@ -1,310 +1,462 @@
 [
     {
-        "description": "Mayor to speak Sunday at CNN town hall | Ex-police chief's statement",
+        "title": "Atlanta officer who fatally shot Brooks has been terminated",
+        "description": "The Atlanta police officer who fatally shot Rayshard Brooks has been terminated, Atlanta police spokesman Carlos Campos told CNN Saturday. A second officer involved has been placed on administrative duty, Campos said.",
+        "date": "Sun, 14 Jun 2020 04:20:19 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/NoDiENWpx24/index.html",
         "positive": 0.0,
-        "neutral": 0.899,
-        "negative": 0.101,
-        "overall": -0.5423
+        "neutral": 0.815,
+        "negative": 0.185,
+        "overall": -0.8555
     },
     {
-        "description": "Ten South Florida police officers have resigned from their city's SWAT unit amid concerns about safety, including their feeling that they're \"restrained by the politicalization of our tactics,\" according to documents obtained by CNN.",
-        "positive": 0.092,
-        "neutral": 0.814,
-        "negative": 0.094,
+        "title": "Clyburn says he does not support defunding the police",
+        "description": "Democratic South Carolina Rep. James Clyburn on Sunday said he does not support calls to defund the police, saying instead to restructure law enforcement.",
+        "date": "Sun, 14 Jun 2020 18:16:06 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/3zhjKRiFyRM/index.html",
+        "positive": 0.0,
+        "neutral": 0.869,
+        "negative": 0.131,
+        "overall": -0.5448
+    },
+    {
+        "title": "Military data reveals dangerous reality for black service members and veterans",
+        "description": "Top US military officials are seeking to reassure the nation's roughly two million active duty and reserve personnel that they are committed to addressing issues of racial inequality across the branches following George Floyd's death and protests across the country.",
+        "date": "Sun, 14 Jun 2020 15:52:11 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/v-75QqmICxo/index.html",
+        "positive": 0.12,
+        "neutral": 0.732,
+        "negative": 0.148,
+        "overall": -0.4019
+    },
+    {
+        "title": "Polls show shift toward Democrats amid protests",
+        "description": "\u2022 Analysis: Trump used his platform to hurt a US business. Most people tuned him out\n\u2022 Tapper to Kudlow: This is as swampy as I can imagine\n\u2022 These Republicans may vote for Biden",
+        "date": "Sun, 14 Jun 2020 19:27:55 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aiKtIn8TEzw/index.html",
+        "positive": 0.0,
+        "neutral": 0.914,
+        "negative": 0.086,
+        "overall": -0.5267
+    },
+    {
+        "title": "This could be the next major retailer facing bankruptcy",
+        "description": "With more than 10 million men out of work and millions more working from home, perhaps indefinitely, this is not the best time to be selling men's dress clothes.",
+        "date": "Sun, 14 Jun 2020 17:40:05 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/inQGUqUTWTA/index.html",
+        "positive": 0.0,
+        "neutral": 0.914,
+        "negative": 0.086,
+        "overall": -0.5216
+    },
+    {
+        "title": "How black NASCAR fans feel about the new Confederate flag ban",
+        "description": "Growing up in the middle of nowhere, Marc Wiley said he had two choices for recreation: \"Go fast and shoot stuff.\"",
+        "date": "Sun, 14 Jun 2020 16:22:44 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/vl8HO1QJE8I/index.html",
+        "positive": 0.0,
+        "neutral": 0.926,
+        "negative": 0.074,
+        "overall": -0.34
+    },
+    {
+        "title": "Opinion: The problem Trump's West Point speech can't fix",
+        "description": "On Saturday, President Trump delivered a commencement speech at the US Military Academy at West Point, New York, honoring the graduating cadets for their service while touting the \"colossal rebuilding\" of the armed forces under his presidency.",
+        "date": "Sun, 14 Jun 2020 00:54:29 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/DmAj6qM3ArY/index.html",
+        "positive": 0.068,
+        "neutral": 0.842,
+        "negative": 0.09,
         "overall": -0.0258
     },
     {
+        "title": "Congressman who officiated same-sex wedding loses GOP nomination",
+        "description": "A Republican congressman, whose decision to officiate a same-sex wedding last year angered some local Republicans, lost his party's nomination to a conservative challenger in Saturday's drive-thru convention.",
+        "date": "Sun, 14 Jun 2020 20:12:50 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Mmc6X0b1GMM/index.html",
+        "positive": 0.039,
+        "neutral": 0.755,
+        "negative": 0.206,
+        "overall": -0.7506
+    },
+    {
+        "title": "Fox News publishes digitally altered and misleading images of Seattle demonstrations",
         "description": "Fox News published digitally altered and misleading images on its website's homepage Friday that made a demonstration in Seattle, in which a group of largely peaceful Black Lives Matter protesters have occupied six city blocks, appear violent and dangerous.",
+        "date": "Sun, 14 Jun 2020 17:18:07 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/DPS2EUXEc6w/index.html",
         "positive": 0.095,
         "neutral": 0.634,
         "negative": 0.27,
         "overall": -0.8885
     },
     {
-        "description": "\u2022 Opinion: The problem Trump's West Point speech can't fix\n\u2022 Analysis: Trump retreats after weeks of failing to rise to a moment of profound cultural change",
-        "positive": 0.0,
+        "title": "Opinion: The myth Trump is modeling",
+        "description": "King Canute got a bad rap. The Viking chief who ruled England, Denmark and Norway in the 11th Century became infamous for a stunt that historians believe was misunderstood, if it even happened: sitting grandly in a throne at the seashore and ordering the ocean to stop the incoming waves. But the myth of the leader who tried to hold back the tide seemed to apply this week to the President of the United States.",
+        "date": "Sun, 14 Jun 2020 15:45:25 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/8ieeJ7tCMZc/index.html",
+        "positive": 0.033,
+        "neutral": 0.87,
+        "negative": 0.097,
+        "overall": -0.6486
+    },
+    {
+        "title": "Doug Jones says it's tough for Jeff Sessions to be on 'right side of history'",
+        "description": "Alabama Democratic Sen. Doug Jones and former Attorney General Jeff Sessions tussled on Twitter over a congressional proposal to strip Confederate leaders' names from military assets, with the Democratic senator defending his vote and the man vying to unseat him arguing such a move \"betrays the character and decency of every soldier who fought for the South.\"",
+        "date": "Sun, 14 Jun 2020 16:27:19 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/mGjwrQaOHDQ/index.html",
+        "positive": 0.022,
         "neutral": 0.842,
-        "negative": 0.158,
-        "overall": -0.7184
+        "negative": 0.136,
+        "overall": -0.8225
     },
     {
-        "description": "\u2022 Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states\n\u2022 New Jersey reports more than 500 new Covid-19 cases",
+        "title": "Local artists collaborate to paint a giant Black Lives Matter mural on the street",
+        "description": "A group of local artists took to the street in Seattle to show their support for Black Lives Matter.",
+        "date": "Sun, 14 Jun 2020 20:57:54 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/O6UNrvQH9l8/index.html",
+        "positive": 0.149,
+        "neutral": 0.851,
+        "negative": 0.0,
+        "overall": 0.4404
+    },
+    {
+        "title": "Inside one reporter's experience from Ferguson to Floyd",
+        "description": "When I first saw the video, my head turned away. It was a visceral and uncontrolled physical reaction. I couldn't stomach seeing a man gulping air like a fish \u2014 his face pushed flat on the hot, dirty pavement with a knee bearing down on his neck. It was painful to watch. Though of course nothing like the pain of the man experiencing such an act of sanctioned violence. That man was 46-year-old George Floyd.",
+        "date": "Sun, 14 Jun 2020 16:37:05 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/NBMjgnKJSy0/index.html",
+        "positive": 0.088,
+        "neutral": 0.776,
+        "negative": 0.136,
+        "overall": -0.6367
+    },
+    {
+        "title": "Indian actor Sushant Singh Rajput found dead in his Mumbai home",
+        "description": "Indian actor Sushant Singh Rajput was found dead in his Mumbai residence on Sunday, according to a statement from Mumbai police. He was 34.",
+        "date": "Sun, 14 Jun 2020 20:07:48 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/rCTn8W3R1l4/index.html",
         "positive": 0.0,
-        "neutral": 0.934,
-        "negative": 0.066,
-        "overall": -0.296
+        "neutral": 0.783,
+        "negative": 0.217,
+        "overall": -0.8625
     },
     {
-        "description": "The US Secret Service issued a statement Saturday saying an agency employee used pepper spray on June 1 during efforts to secure Lafayette Square and clear protesters from the area just prior to President Donald Trump's controversial photo-op at a local church.",
-        "positive": 0.129,
-        "neutral": 0.805,
-        "negative": 0.066,
-        "overall": 0.5423
+        "title": "A Kentucky tattoo shop is offering to cover up hate and gang symbols for free",
+        "description": "A tattoo parlor in Kentucky is using ink to unite communities across the country by offering free appointments to anyone who wants to cover up their hate or gang symbol tattoos.",
+        "date": "Sun, 14 Jun 2020 20:55:18 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/MMgQGa7vtjs/index.html",
+        "positive": 0.064,
+        "neutral": 0.793,
+        "negative": 0.143,
+        "overall": -0.6249
     },
     {
-        "description": "Facebook fired an employee who publicly criticized a coworker on Twitter for not adding a statement of support for Black Lives Matter to documentation on an open-source project they were working on.",
-        "positive": 0.074,
-        "neutral": 0.699,
-        "negative": 0.227,
-        "overall": -0.836
-    },
-    {
-        "description": "In this bedroom community north of Phoenix, two gray-haired white residents stand silently at a dusty intersection, holding up homemade signs in the blistering 100-plus-degree heat.",
+        "title": "NASA spacecraft sends back images of stars from 4.3 billion miles away",
+        "description": "From its unique vantage point 4.3 billion miles from Earth, NASA's New Horizons spacecraft has captured images of nearby stars \u2014 and the stars appear to be in different positions than where we see them from Earth.",
+        "date": "Sun, 14 Jun 2020 06:31:05 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/t_cvqD2itZA/index.html",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "description": "Former Vice President Joe Biden leads President Donald Trump in the polls for a lot of different reasons. One large one is his support from female voters.",
-        "positive": 0.156,
-        "neutral": 0.844,
-        "negative": 0.0,
-        "overall": 0.7269
-    },
-    {
-        "description": "White House trade adviser Peter Navarro said Saturday that the White House is targeting a phase four stimulus package focusing on American manufacturing that will be \"at least $2 trillion dollars.\"",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "description": "A community is demanding answers after a 24-year-old black man was found hanging from a tree this week in northern Los Angeles County.",
-        "positive": 0.0,
-        "neutral": 0.942,
-        "negative": 0.058,
-        "overall": -0.2263
-    },
-    {
-        "description": "Police are searching for a shooter who opened fire after he was denied entry into a bar in San Antonio, wounding eight people, authorities said.",
-        "positive": 0.0,
-        "neutral": 0.81,
-        "negative": 0.19,
-        "overall": -0.802
-    },
-    {
+        "title": "How Melania Trump is avoiding the traditional first lady role in a time of national crisis",
         "description": "When a country is hurting at its core, or missteps made or when messages have fallen through, that's traditionally when the first lady steps in.",
+        "date": "Sat, 13 Jun 2020 22:36:22 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/agSRtBcK0Zo/index.html",
         "positive": 0.0,
         "neutral": 0.822,
         "negative": 0.178,
         "overall": -0.765
     },
     {
+        "title": "A community wants answers after a young black man is found hanging from a tree",
+        "description": "A community is demanding answers after a 24-year-old black man was found hanging from a tree this week in northern Los Angeles County.",
+        "date": "Sun, 14 Jun 2020 19:05:23 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/mF_DdbuJdYk/index.html",
+        "positive": 0.0,
+        "neutral": 0.942,
+        "negative": 0.058,
+        "overall": -0.2263
+    },
+    {
+        "title": "Some states are seeing record coronavirus hospitalizations",
+        "description": "\u2022 Mutation could make coronavirus more infectious, study suggests\n\u2022 What to know about coronavirus today \n\u2022 Nurse accuses Brazil of sacrificing medics to coronavirus",
+        "date": "Sun, 14 Jun 2020 20:27:39 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/FShUsJRzc1s/index.html",
+        "positive": 0.0,
+        "neutral": 0.921,
+        "negative": 0.079,
+        "overall": -0.34
+    },
+    {
+        "title": "Is it safer to fly or drive during the pandemic?",
+        "description": "People are undoubtedly moving around more as vacation season heats up and patience for sheltering at home wears thin.",
+        "date": "Sun, 14 Jun 2020 00:55:27 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/-1C7AyiU3gc/index.html",
+        "positive": 0.094,
+        "neutral": 0.906,
+        "negative": 0.0,
+        "overall": 0.4215
+    },
+    {
+        "title": "Opinion: I'm over 60. Stop talking about coronavirus 'culling' me",
+        "description": "\u2022 Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states\n\u2022 New Jersey reports more than 500 new Covid-19 cases",
+        "date": "Sun, 14 Jun 2020 00:56:34 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/P5yKn00HQ4E/index.html",
+        "positive": 0.0,
+        "neutral": 0.936,
+        "negative": 0.064,
+        "overall": -0.296
+    },
+    {
+        "title": "Seventeen-foot python put up a fierce fight before being captured in Florida",
+        "description": "Mike Kimmel's no rookie to the python-hunting game. He's captured hundreds of the snakes, which usually measure up to 10 feet long.",
+        "date": "Sun, 14 Jun 2020 20:02:24 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/znvnYvYgtw4/index.html",
+        "positive": 0.0,
+        "neutral": 0.862,
+        "negative": 0.138,
+        "overall": -0.5859
+    },
+    {
+        "title": "Must-watch videos of the week",
+        "description": "A close call on a boat, an unrecognizable celebrity, and a star singer crashes a commencement. Here are the must-see videos of the week.",
+        "date": "Fri, 12 Jun 2020 16:15:29 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/YLXzJzHEA_0/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Woman hatches ducklings from supermarket eggs",
+        "description": "A British woman has hatched three ducklings she named Beep, Peep and Meep from eggs she bought at supermarket chain Waitrose.",
+        "date": "Sun, 14 Jun 2020 16:15:30 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/smn4rtalTyU/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Young Americans are having less sex than ever",
         "description": "Young Americans are having less sex -- and they can't even blame the coronavirus pandemic for this one.",
+        "date": "Sat, 13 Jun 2020 08:45:49 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aEMX47JvX7U/index.html",
         "positive": 0.078,
         "neutral": 0.922,
         "negative": 0.0,
         "overall": 0.2584
     },
     {
-        "description": "A woman was caught on video harassing a Filipino American woman as she exercised this week at a Southern California park, the latest in a string of racist incidents captured on video and widely shared on social media.",
-        "positive": 0.043,
-        "neutral": 0.758,
-        "negative": 0.199,
-        "overall": -0.8625
-    },
-    {
-        "description": "The Polish military has admitted it accidentally invaded the Czech Republic last month, but it insists its brief occupation of a small part of the country was simply a \"misunderstanding.\"",
-        "positive": 0.073,
-        "neutral": 0.838,
-        "negative": 0.089,
-        "overall": -0.1531
-    },
-    {
-        "description": "Teyana Taylor released a new song and music video on Friday, but that wasn't the only surprise she had in store for her fans.",
-        "positive": 0.0,
-        "neutral": 0.929,
-        "negative": 0.071,
-        "overall": -0.3007
-    },
-    {
-        "description": "Four poachers have been arrested in Uganda following the death of a rare silverback gorilla.",
-        "positive": 0.0,
-        "neutral": 0.646,
-        "negative": 0.354,
-        "overall": -0.91
-    },
-    {
-        "description": "People are undoubtedly moving around more as vacation season heats up and patience for sheltering at home wears thin.",
-        "positive": 0.08,
-        "neutral": 0.92,
-        "negative": 0.0,
-        "overall": 0.4215
-    },
-    {
-        "description": "Here's one more story about what's happening during this pandemic.",
-        "positive": 0.0,
-        "neutral": 0.924,
-        "negative": 0.076,
-        "overall": -0.2263
-    },
-    {
-        "description": "As the summer sun rises high in the sky, kids who have been out of school and stuck at home are itching for an escape from the pandemic-induced isolation.",
-        "positive": 0.037,
-        "neutral": 0.859,
-        "negative": 0.104,
-        "overall": -0.4588
-    },
-    {
-        "description": "Parents know the drill: Put on your own oxygen mask before helping your children put on theirs.",
-        "positive": 0.078,
-        "neutral": 0.922,
-        "negative": 0.0,
-        "overall": 0.296
-    },
-    {
-        "description": "Two-time CrossFit Games champion Katrin Davidsdottir says she won't compete in the 2020 contests after the recent controversy involving how the organization's former CEO and founder Greg Glassman responded to the police killing of George Floyd.",
-        "positive": 0.147,
-        "neutral": 0.771,
-        "negative": 0.083,
-        "overall": 0.5267
-    },
-    {
-        "description": "Following the wave of demonstrations sparked by the killing of George Floyd, many of us have been thinking about the history of race in America, and the ongoing narrative of police violence. We are all looking for resources to help better understand the moment.",
-        "positive": 0.09,
-        "neutral": 0.773,
-        "negative": 0.137,
-        "overall": -0.5994
-    },
-    {
-        "description": "Increasingly, wealthy bidders are going online to buy collector cars worth six-figures or more at auctions without seeing them in person first.",
-        "positive": 0.121,
-        "neutral": 0.879,
-        "negative": 0.0,
-        "overall": 0.5267
-    },
-    {
-        "description": "The summer travel season, which was all but written off just weeks ago, might be making a comeback of sorts have some peeks of sunshine after all.",
-        "positive": 0.133,
-        "neutral": 0.867,
-        "negative": 0.0,
-        "overall": 0.6486
-    },
-    {
-        "description": "Crisis Text Line, a high-profile crisis hotline backed by millions of dollars from some of tech's biggest names, said Friday that the nonprofit's board of directors \"voted to terminate\" its CEO and founder effective immediately following accusations of inappropriate conduct, according to a letter from the board sent to staffers and leadership and shared with CNN Business.",
-        "positive": 0.087,
-        "neutral": 0.727,
-        "negative": 0.186,
-        "overall": -0.8591
-    },
-    {
+        "title": "Tucker Carlson ad boycott causes headaches for Fox News",
         "description": "\"Bye-bye Tucker Carlson!\" T-Mobile CEO Mike Sievert tweeted earlier this week in response to consumers who criticized the advertisers on Carlson's show.",
+        "date": "Fri, 12 Jun 2020 18:46:38 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/rjC_Dq8pna4/index.html",
         "positive": 0.0,
         "neutral": 0.846,
         "negative": 0.154,
         "overall": -0.6239
     },
     {
+        "title": "Summer travel is rebounding",
+        "description": "The summer travel season, which was all but written off just weeks ago, might be making a comeback of sorts have some peeks of sunshine after all.",
+        "date": "Sat, 13 Jun 2020 14:04:37 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/CMJBkvoJKJo/index.html",
+        "positive": 0.133,
+        "neutral": 0.867,
+        "negative": 0.0,
+        "overall": 0.6486
+    },
+    {
+        "title": "Crisis Text Line CEO fired amid staff revolt",
+        "description": "Crisis Text Line, a high-profile crisis hotline backed by millions of dollars from some of tech's biggest names, said Friday that the nonprofit's board of directors \"voted to terminate\" its CEO and founder effective immediately following accusations of inappropriate conduct, according to a letter from the board sent to staffers and leadership and shared with CNN Business.",
+        "date": "Sat, 13 Jun 2020 01:30:33 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/3yioVRT7mL0/index.html",
+        "positive": 0.087,
+        "neutral": 0.727,
+        "negative": 0.186,
+        "overall": -0.8591
+    },
+    {
+        "title": "Refinery29 is reeling from claims of racism and toxic work culture. Employees say it's even worse behind the scenes",
         "description": "Amid the protests over the death of George Floyd and larger racial inequalities in the US last week, Refinery29 swapped the colors of its website, going from its usual jewel-tone to the Black Lives Matter movement's signature black. It was supposed to be a show of solidarity and of unity between a progressive website aimed at women and the movement.",
+        "date": "Thu, 11 Jun 2020 23:07:14 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/-Oy9tHI2zL8/index.html",
         "positive": 0.038,
         "neutral": 0.811,
         "negative": 0.151,
         "overall": -0.8934
     },
     {
+        "title": "How a new kind of policing saved America's most dangerous city",
         "description": "In the wake of the tragic murder of George Floyd, the City Council in Minneapolis announced that it will disband its police department. The decision aims to reverse the unacceptable status quo, and face the reality of decades of failed attempts to advance police reform.",
+        "date": "Sat, 13 Jun 2020 22:12:38 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/_Q93VJwgVls/index.html",
         "positive": 0.041,
         "neutral": 0.704,
         "negative": 0.255,
         "overall": -0.9392
     },
     {
+        "title": "Trump kicks LGBTQ community while we're down",
         "description": "The Trump administration yanked the rug out from under more than a million Americans on Friday by removing protections that prohibit discrimination in health care against transgender patients. This move -- announced on the four-year anniversary of a shooting at a gay nightclub in Orland, Florida, in which 49 people died -- is cruel and unusual punishment from an administration that chooses to represent a small and extreme fringe pushing to further marginalize the already disadvantaged.",
+        "date": "Sat, 13 Jun 2020 20:24:18 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fqSeSFPwuJc/index.html",
         "positive": 0.036,
         "neutral": 0.816,
         "negative": 0.149,
         "overall": -0.8779
     },
     {
+        "title": "Welcome to the 'Great Awakening'",
         "description": "In the wake of George Floyd's killing, the Movement for Black Lives -- already a massive global force -- has succeeded in birthing a phenomenon infinitely larger than itself. It can only be called a \"Great Awakening\" of empathy and solidarity, one without historical precedent.",
+        "date": "Sat, 13 Jun 2020 03:31:18 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/z1A32deCszo/index.html",
         "positive": 0.267,
         "neutral": 0.66,
         "negative": 0.073,
         "overall": 0.8957
     },
     {
+        "title": "A mutation shows why the coronavirus is such a formidable foe",
         "description": "All living organisms mutate and adapt to maximize survival in their ecologic niche. For months, scientists have been looking into whether the novel coronavirus -- known as SARS-CoV-2 -- is mutating and becoming more transmissible or more lethal. Recent evidence points to a preliminary answer to half the question: yes, a study has found that the virus has mutated and the dominant strain today is now capable of infecting more human cells. But the scientists say more research is needed to show whether this changed the course of the pandemic, and it remains unclear whether this mutation is more lethal.",
+        "date": "Sat, 13 Jun 2020 03:48:02 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Azb3ZQJCH-I/index.html",
         "positive": 0.068,
         "neutral": 0.903,
         "negative": 0.029,
         "overall": 0.6597
     },
     {
+        "title": "Why we can't turn away from 'Gone with the Wind'",
         "description": "Just before the Covid-19 quarantine, I joined my fellow hosts on Turner Classic Movies for an \"Old Hollywood\" fashion photo shoot for Emmy Magazine. But when the spread came out, I could not bring myself to post the photos to my social media. As an African American cinema and media studies professor, how could I promote the glamour of classic Hollywood when our current media landscape was exploding with scenes of racial crisis?",
+        "date": "Sat, 13 Jun 2020 04:14:59 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/vS6LKQZ68GQ/index.html",
         "positive": 0.069,
         "neutral": 0.857,
         "negative": 0.074,
         "overall": -0.128
     },
     {
+        "title": "Time for Pence to jump ship?",
         "description": "The leaking ship that is the Trump presidency has a hole in its hull the size of the 38% job-approval rating reported by CNN. Add a gash as big as the 16.4% (including misclassified workers) unemployment rate and it's easy to see why some prominent Republicans are stepping away from a leader who has suddenly been transformed from a fearsome Twitter monster into the man mocked as \"Bunker Boy.\"",
+        "date": "Thu, 11 Jun 2020 17:40:57 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/pl4GX8R7uHI/index.html",
         "positive": 0.067,
         "neutral": 0.832,
         "negative": 0.101,
         "overall": -0.4019
     },
     {
+        "title": "Philippines casinos catering to illicit Chinese gamblers are causing kidnappings and chaos",
+        "description": "Dozens of scantily dressed Filipina croupiers stand in booths shuffling cards in front of a webcam, their faces softly illuminated by professional lighting.",
+        "date": "Sun, 14 Jun 2020 00:27:29 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/i9i_A--rrmo/index.html",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Lesotho former PM and wife paid gang to execute his estranged wife, court papers say",
+        "description": "Lesotho's ex-prime minister Thomas Thabane and his wife paid a local criminal gang to kill his estranged wife three years ago, according to recently released court documents.",
+        "date": "Sat, 13 Jun 2020 15:31:23 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/_Ffc48QSIOE/index.html",
+        "positive": 0.0,
+        "neutral": 0.824,
+        "negative": 0.176,
+        "overall": -0.8442
+    },
+    {
+        "title": "Far-right groups target anti-racism protests in London and Paris",
+        "description": "Far-right groups bombarded police with bottles and occasionally scuffled violently with officers as they staged a counter-protest to anti-racism Black Lives Matter (BLM) demonstrations in central London.",
+        "date": "Sun, 14 Jun 2020 09:11:52 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/U9Wba5scFRM/index.html",
+        "positive": 0.029,
+        "neutral": 0.826,
+        "negative": 0.144,
+        "overall": -0.651
+    },
+    {
+        "title": "Rio cartels go from running drugs to pushing medication",
         "description": "Coronavirus rages on the edges of Rio de Janeiro -- in the hills and slums run by drug gangs, where police dare not go unless on an armed raid.",
+        "date": "Sat, 13 Jun 2020 17:41:40 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/MdBYdKx0fZM/index.html",
         "positive": 0.0,
         "neutral": 0.921,
         "negative": 0.079,
         "overall": -0.4767
     },
     {
-        "description": "The death of a single mother in the Philippines who died after trying to get a bus home during the country's coronavirus lockdown has led to widespread anger online, and prompted the government to look into how it treats stranded workers during the pandemic.",
+        "title": "Journalist partially blinded while covering protests: There's no way they could have mistaken me for anything but press",
+        "description": "The final photos journalist Linda Tirado took around midnight on May 30, while covering the protests in Minneapolis, show what appears to be a police officer aiming a foam bullet gun right at her.",
+        "date": "Sun, 14 Jun 2020 21:19:21 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Yojrn6y-hcA/index.html",
         "positive": 0.0,
-        "neutral": 0.714,
-        "negative": 0.286,
-        "overall": -0.9607
+        "neutral": 0.811,
+        "negative": 0.189,
+        "overall": -0.8047
     },
     {
-        "description": "At least 81 people were killed in an attack on a village by suspected Boko Haram militants in northeast Nigeria, the Borno state government said in a statement released to CNN Wednesday.",
+        "title": "Human remains found in Idaho identified as Lori Vallow's children",
+        "description": "Idaho police confirmed the two sets of human remains found at Chad Daybell's home were those of two missing children who had not been seen since September, according to a news release issued Saturday.",
+        "date": "Sat, 13 Jun 2020 20:14:40 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XKUg2kwV5pk/index.html",
         "positive": 0.0,
-        "neutral": 0.623,
-        "negative": 0.377,
-        "overall": -0.9638
+        "neutral": 0.949,
+        "negative": 0.051,
+        "overall": -0.296
     },
     {
-        "description": "A 14-year-old boy who went missing in freezing conditions in Victoria, Australia, has been found.",
-        "positive": 0.0,
-        "neutral": 0.812,
-        "negative": 0.188,
-        "overall": -0.5859
+        "title": "He proposed to his girlfriend at a Black Lives Matter protest to celebrate black love",
+        "description": "When Marjorie Alston attended a Black Lives Matter protest in North Carolina with her boyfriend, she went carrying a sign but left wearing a ring on her finger.",
+        "date": "Sun, 14 Jun 2020 21:15:25 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/d3koiHLWhc0/index.html",
+        "positive": 0.11,
+        "neutral": 0.816,
+        "negative": 0.074,
+        "overall": 0.1154
     },
     {
-        "description": "A fire in the Tucson area has grown to thousands of acres and is threatening hundreds of homes.",
-        "positive": 0.0,
-        "neutral": 0.704,
-        "negative": 0.296,
-        "overall": -0.8126
+        "title": "Tapper: US needs to let go of celebrating 'dead, racist losers'",
+        "description": "To end Sunday's \"State of the Union\" on CNN, anchor Jake Tapper took a few moments to address President Donald Trump's opposition to removing Confederate commanders' names from military bases. Below is a full transcript of Tapper's remarks:",
+        "date": "Sun, 14 Jun 2020 19:47:40 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/xG8SCLUG6aQ/index.html",
+        "positive": 0.072,
+        "neutral": 0.851,
+        "negative": 0.077,
+        "overall": -0.0772
     },
     {
-        "description": "Track is the reason Eric Ingram is a student at an Ivy League school like Brown University.",
-        "positive": 0.078,
-        "neutral": 0.839,
-        "negative": 0.084,
-        "overall": -0.0516
+        "title": "10 SWAT members in South Florida resign from unit, saying they feel unsafely restrained by politics",
+        "description": "Ten South Florida police officers have resigned from their city's SWAT unit amid concerns about safety, including their feeling that they're \"restrained by the politicalization of our tactics,\" according to CNN affiliate WSVN.",
+        "date": "Sat, 13 Jun 2020 23:06:00 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/CaLCxfIAlpo/index.html",
+        "positive": 0.082,
+        "neutral": 0.835,
+        "negative": 0.083,
+        "overall": -0.0258
     },
     {
-        "description": "As Confederate statues are coming down across the nation, protesters in downtown Raleigh took it upon themselves to put a new plaque on a monument at the North Carolina capitol building.",
-        "positive": 0.0,
-        "neutral": 0.913,
-        "negative": 0.087,
-        "overall": -0.4215
-    },
-    {
-        "description": "Seattle police want to resume operations at a downtown precinct they left empty as protesters began occupying the area around it.",
-        "positive": 0.07,
-        "neutral": 0.78,
-        "negative": 0.151,
-        "overall": -0.4588
-    },
-    {
+        "title": "The striking portraits that speak to humanity now",
         "description": "Whether we are taking the picture, being photographed or looking at an image, photography invites us to pause and think about what makes us human, to celebrate our differences and to remember that we are not that different after all. Looking through the images in the new book \"Portrait of Humanity Vol. 2,\" it's heartening to see so many examples of the best of humanity captured through photography's ever-shifting lens.",
+        "date": "Fri, 05 Jun 2020 06:39:04 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fV65iSFJIzM/index.html",
         "positive": 0.095,
         "neutral": 0.905,
         "negative": 0.0,
         "overall": 0.836
+    },
+    {
+        "title": "She wrote a fantasy novel about a dystopian New York City. Then it came true",
+        "description": "Sometimes, books come at exactly the right time, and that is certainly the case with \"The City We Became,\" the first book in N.K. Jemisin's \"Great Cities\" trilogy. The fantasy novel is based on the idea that the essence of New York City is transferred to six humans -- each an avatar for the five boroughs and one for the city as a whole -- who must protect the city, and its people, from an intergalactic multi-dimensional threat that manifests as a gentrifying Woman in White. No one knows how the pandemic-battered New York will fare in the coming months or years, but Jemisin points to the solidarity and resiliency of the city.",
+        "date": "Fri, 05 Jun 2020 16:37:45 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/gfHviXFZUZM/index.html",
+        "positive": 0.093,
+        "neutral": 0.878,
+        "negative": 0.029,
+        "overall": 0.7469
     }
 ]

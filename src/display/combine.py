@@ -1,9 +1,9 @@
 import json
 
-with open("../data/BBCDisplayFeed.json") as json_data:
+with open("../data/BBCSentiment.json") as json_data:
     BBCFeed = json.load(json_data)
 
-with open("../data/CNNDisplayFeed.json") as json_data:
+with open("../data/CNNSentiment.json") as json_data:
     CNNFeed = json.load(json_data)
 
 displayFeed = BBCFeed + CNNFeed

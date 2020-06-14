@@ -9,7 +9,10 @@ def createJSON(newsList):
         scores = sia.polarity_scores(news["title"] + news["description"])
 
         sentiment = {
+            "title": news["title"],
             "description": news["description"],
+            "date": news["date"],
+            "link": news["link"],
             "positive": scores["pos"],
             "neutral": scores["neu"],
             "negative": scores["neg"],
