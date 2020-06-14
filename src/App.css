@@ -84,11 +84,17 @@ html {
 }
 
 .cardTitle {
-  border-bottom: 1px solid #61dafb;
-  height: 110px;
+  height: 95px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
 }
 
 .cardDescription {
+  border-top: 1px solid #61dafb;
+  padding-top: 10px;
   height: 156px;
   overflow: hidden;
   text-overflow: ellipsis;
