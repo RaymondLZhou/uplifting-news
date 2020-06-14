@@ -3,31 +3,31 @@ import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
 import CardColumns from 'react-bootstrap/CardColumns'
-import CNNFeed from './CNNFeed.js'
+import Feed from './Feed.js'
 
-class CNNNews extends React.Component {
-  render () {
+class Sentiment extends React.Component {
+  render() {
     return (
       <div className="App">
         <header className="App-header" id="header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p> CNN News </p>
+          <p> Uplifting News </p>
           
           <Link to="/">
-            <button className="button" id="spaces">
+            <button className="button">
              Link to First Page
             </button>
           </Link>
 
-          <a className="App-link" href="#body"> See News </a>
+          <a className="App-link" href="#body" id="spaces"> See News </a>
         </header>
 
         <body className="App-body" id="body">
-          <CardColumns className="cardColumns"> <CNNFeed/> </CardColumns>
+          <CardColumns className="cardColumns"> <Feed/> </CardColumns>
         </body>
       </div>
     );
   }
 }
 
-export default CNNNews
+export default Sentiment

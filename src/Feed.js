@@ -1,8 +1,8 @@
 import React from 'react'
-import feed from './scraper/cnn/CNNFeed.json'
+import feed from './data/displayFeed.json'
 import Card from 'react-bootstrap/Card'
 
-class CNNFeed extends React.Component {
+class Feed extends React.Component {
   render() {
     return (
       feed.map((feed) => (
@@ -39,4 +39,4 @@ class CNNFeed extends React.Component {
   }
 }
 
-export default CNNFeed
+export default Feed

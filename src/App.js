@@ -2,6 +2,8 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
+import CardColumns from 'react-bootstrap/CardColumns'
+import Feed from './Feed.js'
 
 class App extends React.Component {
   render() {
@@ -11,31 +13,18 @@ class App extends React.Component {
           <img src={logo} className="App-logo" alt="logo"/>
           <p> Uplifting News </p>
 
-          <div className="links">
-            <Link to="/bbc-news" className="link">
-              <button className="button" id="spaces">
-              Link to BBC News
-              </button>
-            </Link>
+          <Link to="/sentiment">
+            <button className="button" id="spaces">
+             Link to Second Page
+            </button>
+          </Link>
 
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-            <Link to="/cnn-news">
-              <button className="button" id="spaces">
-              Link to CNN News
-              </button>
-            </Link>
-          </div>
-
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
+          <a className="App-link" href="#body" id="spaces"> See News </a>
         </header>
+
+        <body className="App-body" id="body">
+          <CardColumns className="cardColumns"> <Feed/> </CardColumns>
+        </body>
       </div>
     )
   }
