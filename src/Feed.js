@@ -12,7 +12,9 @@ class Feed extends React.Component {
 
             <Card.Text className="cardDescription"> {feed.description} </Card.Text>  
 
-            <Card.Text> {feed.date} </Card.Text>    
+            <Card.Text> Positivity Score: {feed.overall} </Card.Text> 
+
+            <Card.Text> {feed.date} </Card.Text>      
 
             <Card.Text>
               <a 
