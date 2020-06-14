@@ -55,6 +55,7 @@ html {
   transition-duration: 0.3s;
   cursor: pointer;
   font-size: calc(5px + 2vmin);
+  width: 190px;
 }
 
 .button:hover {
