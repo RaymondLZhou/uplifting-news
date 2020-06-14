@@ -21,19 +21,19 @@ def createJSON(newsList):
     return sentiments
 
 
-with open("../scraper/bbc/BBCFeed.json") as json_data:
+with open("../data/BBCFeed.json") as json_data:
     newsList = json.load(json_data)
 
 sentiments = createJSON(newsList)
 
-with open("BBCSentiment.json", "w") as outfile:
+with open("../data/BBCSentiment.json", "w") as outfile:
     json.dump(sentiments, outfile, indent=4)
 
 
-with open("../scraper/cnn/CNNFeed.json") as json_data:
+with open("../data/CNNFeed.json") as json_data:
     newsList = json.load(json_data)
 
 sentiments = createJSON(newsList)
 
-with open("CNNSentiment.json", "w") as outfile:
+with open("../data/CNNSentiment.json", "w") as outfile:
     json.dump(sentiments, outfile, indent=4)

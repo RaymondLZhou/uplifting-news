@@ -21,18 +21,18 @@
         "overall": -0.8885
     },
     {
-        "description": "\u2022 Opinion: The problem Trump's West Point speech can't fix\n\u2022 Military data reveals dangerous reality for black service members and veterans",
+        "description": "\u2022 Opinion: The problem Trump's West Point speech can't fix\n\u2022 Analysis: Trump retreats after weeks of failing to rise to a moment of profound cultural change",
         "positive": 0.0,
-        "neutral": 0.773,
-        "negative": 0.227,
-        "overall": -0.8442
+        "neutral": 0.842,
+        "negative": 0.158,
+        "overall": -0.7184
     },
     {
-        "description": "\u2022 New Jersey reports more than 500 new Covid-19 cases\n\u2022 Opinion: Federal government has abdicated its duty to inform public on coronavirus",
+        "description": "\u2022 Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states\n\u2022 New Jersey reports more than 500 new Covid-19 cases",
         "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
+        "neutral": 0.934,
+        "negative": 0.066,
+        "overall": -0.296
     },
     {
         "description": "The US Secret Service issued a statement Saturday saying an agency employee used pepper spray on June 1 during efforts to secure Lafayette Square and clear protesters from the area just prior to President Donald Trump's controversial photo-op at a local church.",
@@ -40,13 +40,6 @@
         "neutral": 0.805,
         "negative": 0.066,
         "overall": 0.5423
-    },
-    {
-        "description": "I was talking to a friend the other day about the pandemic, and we were musing about when we could end our isolation. Now that the world is beginning to reopen prematurely amid rising infection numbers,  I have been thinking especially of those of us in our 60s and older. While the Covid-19 virus attacks all ages, we are among those at greatest risk.",
-        "positive": 0.09,
-        "neutral": 0.79,
-        "negative": 0.12,
-        "overall": -0.128
     },
     {
         "description": "Facebook fired an employee who publicly criticized a coworker on Twitter for not adding a statement of support for Black Lives Matter to documentation on an open-source project they were working on.",
@@ -98,13 +91,6 @@
         "overall": -0.765
     },
     {
-        "description": "Two-time CrossFit Games champion Katrin Davidsdottir says she won't compete in the 2020 contests after the recent controversy involving how the organization's former CEO and founder Greg Glassman responded to the police killing of George Floyd.",
-        "positive": 0.141,
-        "neutral": 0.779,
-        "negative": 0.08,
-        "overall": 0.5267
-    },
-    {
         "description": "Young Americans are having less sex -- and they can't even blame the coronavirus pandemic for this one.",
         "positive": 0.078,
         "neutral": 0.922,
@@ -131,6 +117,13 @@
         "neutral": 0.929,
         "negative": 0.071,
         "overall": -0.3007
+    },
+    {
+        "description": "Four poachers have been arrested in Uganda following the death of a rare silverback gorilla.",
+        "positive": 0.0,
+        "neutral": 0.646,
+        "negative": 0.354,
+        "overall": -0.91
     },
     {
         "description": "People are undoubtedly moving around more as vacation season heats up and patience for sheltering at home wears thin.",
@@ -161,11 +154,11 @@
         "overall": 0.296
     },
     {
-        "description": "A woman has made history by becoming the first observant Sikh to graduate from the US Military Academy at West Point.",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
+        "description": "Two-time CrossFit Games champion Katrin Davidsdottir says she won't compete in the 2020 contests after the recent controversy involving how the organization's former CEO and founder Greg Glassman responded to the police killing of George Floyd.",
+        "positive": 0.147,
+        "neutral": 0.771,
+        "negative": 0.083,
+        "overall": 0.5267
     },
     {
         "description": "Following the wave of demonstrations sparked by the killing of George Floyd, many of us have been thinking about the history of race in America, and the ongoing narrative of police violence. We are all looking for resources to help better understand the moment.",
@@ -306,5 +299,12 @@
         "neutral": 0.78,
         "negative": 0.151,
         "overall": -0.4588
+    },
+    {
+        "description": "Whether we are taking the picture, being photographed or looking at an image, photography invites us to pause and think about what makes us human, to celebrate our differences and to remember that we are not that different after all. Looking through the images in the new book \"Portrait of Humanity Vol. 2,\" it's heartening to see so many examples of the best of humanity captured through photography's ever-shifting lens.",
+        "positive": 0.095,
+        "neutral": 0.905,
+        "negative": 0.0,
+        "overall": 0.836
     }
 ]

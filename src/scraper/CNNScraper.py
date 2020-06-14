@@ -28,5 +28,5 @@ for elem in feed.entries:
         
     newsList.append(newsObject)
 
-with open("CNNFeed.json", "w") as outfile:
+with open("../data/CNNFeed.json", "w") as outfile:
     json.dump(newsList, outfile, indent=4)

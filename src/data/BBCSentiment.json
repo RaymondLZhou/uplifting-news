@@ -7,13 +7,6 @@
         "overall": -0.7964
     },
     {
-        "description": "The leaked report by Public Health England says factors such as racism may contribute to increased risks.",
-        "positive": 0.125,
-        "neutral": 0.526,
-        "negative": 0.349,
-        "overall": -0.8442
-    },
-    {
         "description": "Parts of China's capital are locked down after its first new coronavirus cases in nearly two months.",
         "positive": 0.0,
         "neutral": 0.887,
@@ -21,18 +14,18 @@
         "overall": -0.4939
     },
     {
-        "description": "The war-time leader's granddaughter says the statue may be safer in a museum if protests continue.",
-        "positive": 0.101,
-        "neutral": 0.83,
-        "negative": 0.069,
-        "overall": 0.2263
-    },
-    {
         "description": "Atlanta Police Chief Erika Shield resigns, after Rayshard Brooks was fatally shot by police on Friday.",
         "positive": 0.0,
         "neutral": 0.705,
         "negative": 0.295,
         "overall": -0.8316
+    },
+    {
+        "description": "From Monday all non-essential shops are allowed to reopen in England.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
     },
     {
         "description": "The moment Rita Kenyon sees her three grandchildren for the first time in weeks is caught on camera.",
@@ -47,6 +40,13 @@
         "neutral": 0.664,
         "negative": 0.297,
         "overall": -0.8126
+    },
+    {
+        "description": "The leaked report by Public Health England says factors such as racism may contribute to increased risks.",
+        "positive": 0.125,
+        "neutral": 0.526,
+        "negative": 0.349,
+        "overall": -0.8442
     },
     {
         "description": "The date of his first rally in months would have fallen on a holiday marking the end of US slavery.",
@@ -84,13 +84,6 @@
         "overall": 0.3818
     },
     {
-        "description": "The episode will now carry a warning about \"potentially offensive content and language\".",
-        "positive": 0.0,
-        "neutral": 0.779,
-        "negative": 0.221,
-        "overall": -0.6597
-    },
-    {
         "description": "Photos of protesters clashing with police in London feature on several of Sunday's front pages.",
         "positive": 0.102,
         "neutral": 0.755,
@@ -103,6 +96,20 @@
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
+    },
+    {
+        "description": "The Charitable Brothers of Saint-Eloi were founded in the 12th century, during the Black Death.",
+        "positive": 0.105,
+        "neutral": 0.742,
+        "negative": 0.152,
+        "overall": -0.296
+    },
+    {
+        "description": "Geoff Collard, a model maker, spent 500 hours building the bridge of the starship Enterprise.",
+        "positive": 0.103,
+        "neutral": 0.897,
+        "negative": 0.0,
+        "overall": 0.3182
     },
     {
         "description": "A family business dating back eight generations has lost more than \u00a3100,000 during the lockdown.",
@@ -126,27 +133,6 @@
         "overall": 0.4019
     },
     {
-        "description": "A selection of news photographs taken around the world this week.",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "description": "Young people in NI describe grief, fear and opportunity during the coronavirus lockdown.",
-        "positive": 0.096,
-        "neutral": 0.685,
-        "negative": 0.219,
-        "overall": -0.5574
-    },
-    {
-        "description": "Matt James will be the first African American male lead on ABC's The Bachelor in 24 seasons.",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
         "description": "A BBC mini-series about the 2018 Novichok attack is not your average spy thriller, its makers say.",
         "positive": 0.044,
         "neutral": 0.656,
@@ -161,39 +147,46 @@
         "overall": 0.0
     },
     {
+        "description": "Does a study suggesting the coronavirus was present in Wuhan months before the first reported cases stand up to scrutiny?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "\"The N-word was shouted at me from passing cars\" - life growing up as a black child in Cornwall.",
+        "positive": 0.129,
+        "neutral": 0.871,
+        "negative": 0.0,
+        "overall": 0.34
+    },
+    {
+        "description": "The idyllic islands of Mykonos and Santorini reopen for tourists, but not everyone is happy.",
+        "positive": 0.0,
+        "neutral": 0.782,
+        "negative": 0.218,
+        "overall": -0.7047
+    },
+    {
+        "description": "The Australian soap is back filming and has tips for UK shows on how to film safely.",
+        "positive": 0.231,
+        "neutral": 0.769,
+        "negative": 0.0,
+        "overall": 0.7845
+    },
+    {
+        "description": "Laura Tarver from Oxford takes us through her weekly spending during the coronavirus pandemic.",
+        "positive": 0.0,
+        "neutral": 0.876,
+        "negative": 0.124,
+        "overall": -0.4767
+    },
+    {
         "description": "New guidelines allow single-person households to create an exclusive \"bubble\" - but how do you choose?",
         "positive": 0.287,
         "neutral": 0.713,
         "negative": 0.0,
         "overall": 0.5927
-    },
-    {
-        "description": "From violence caught on video to coronavirus inequalities, what is making protesters react so strongly?",
-        "positive": 0.115,
-        "neutral": 0.689,
-        "negative": 0.197,
-        "overall": -0.5434
-    },
-    {
-        "description": "We've been fact-checking misleading posts on social media about technology used to fight coronavirus.",
-        "positive": 0.0,
-        "neutral": 0.739,
-        "negative": 0.261,
-        "overall": -0.6486
-    },
-    {
-        "description": "Mayor Sadiq Khan has promised to look at new ways to commemorate London's diversity.",
-        "positive": 0.102,
-        "neutral": 0.898,
-        "negative": 0.0,
-        "overall": 0.3612
-    },
-    {
-        "description": "Author and parenting blogger Candice Brathwaite talks about the impact racism has had on her.",
-        "positive": 0.0,
-        "neutral": 0.859,
-        "negative": 0.141,
-        "overall": -0.6249
     },
     {
         "description": "Barcelona score after 66 seconds of their return to action as Lionel Messi completes a comfortable 4-0 win at Mallorca.",
@@ -203,7 +196,7 @@
         "overall": 0.8979
     },
     {
-        "description": "American Xander Schauffele leads five players by one shot, with Justin Rose and Rory McIlroy three back at the first tournament back after lockdown.",
+        "description": "American Xander Schauffele leads five players by one shot, with Justin Rose and Rory McIlroy three back at the first PGA Tour tournament back after lockdown.",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
@@ -245,11 +238,46 @@
         "overall": 0.7178
     },
     {
+        "description": "Face coverings are becoming compulsory for people using public transport in England.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Lockdown rules are changing in England aimed at helping single people cut off from family and friends.",
+        "positive": 0.187,
+        "neutral": 0.739,
+        "negative": 0.074,
+        "overall": 0.4939
+    },
+    {
+        "description": "Nine million people have accessed the scheme, which will move to its next phase in July.",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "description": "Non-essential shops can reopen in England from Monday, but will I be able to buy a book or have a haircut?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
         "description": "Questions about support bubbles, and other coronavirus topics",
         "positive": 0.153,
         "neutral": 0.847,
         "negative": 0.0,
         "overall": 0.4019
+    },
+    {
+        "description": "What do you need to know if you're planning to fly during the Covid-19 pandemic?",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
     },
     {
         "description": "Shops in England are preparing to welcome customers back but what will the \"new normal\" look like?",
@@ -266,13 +294,6 @@
         "overall": 0.4019
     },
     {
-        "description": "What do you need to know if you're planning to fly during the Covid-19 pandemic?",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
         "description": "Loss of taste and smell have been added to the UK's list of coronavirus symptoms.",
         "positive": 0.102,
         "neutral": 0.898,
@@ -287,25 +308,11 @@
         "overall": -0.8053
     },
     {
-        "description": "Nine million people have accessed the scheme, which will move to its next phase in July.",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
         "description": "The government is under pressure to relax the 2m social distancing rule - but is it safe to do so?",
         "positive": 0.188,
         "neutral": 0.763,
         "negative": 0.049,
         "overall": 0.6767
-    },
-    {
-        "description": "Lockdown rules are changing in England aimed at helping single people cut off from family and friends.",
-        "positive": 0.187,
-        "neutral": 0.739,
-        "negative": 0.074,
-        "overall": 0.4939
     },
     {
         "description": "Which children are going back to school, and what about the rest?",
@@ -378,13 +385,6 @@
         "overall": 0.0
     },
     {
-        "description": "Will students have online or face-to-face learning this autumn, and will they still have to pay full fees?",
-        "positive": 0.0,
-        "neutral": 0.929,
-        "negative": 0.071,
-        "overall": -0.1926
-    },
-    {
         "description": "The devices allow a person's temperature to be checked from a distance, but are not always reliable.",
         "positive": 0.155,
         "neutral": 0.845,
@@ -397,13 +397,6 @@
         "neutral": 0.83,
         "negative": 0.076,
         "overall": 0.128
-    },
-    {
-        "description": "Non-essential shops can reopen in England from Monday, but will I be able to buy a book or have a haircut?",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
     },
     {
         "description": "Is it now possible to go on holiday, either in the UK or abroad?",
@@ -462,13 +455,6 @@
         "overall": -0.5574
     },
     {
-        "description": "Face coverings are becoming compulsory for people using public transport in England.",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
         "description": "Wales is the latest part of the UK to launch a tracing system, but how do they work?",
         "positive": 0.0,
         "neutral": 0.921,
@@ -511,39 +497,39 @@
         "overall": 0.0
     },
     {
-        "description": "Sarah and Tom began a relationship in lockdown - they're now sharing bottles of sanitizer instead of wine.",
-        "positive": 0.101,
-        "neutral": 0.899,
-        "negative": 0.0,
-        "overall": 0.4215
+        "description": "Four black men speak to the BBC's Ashley John-Baptiste about their experiences of racism in daily life.",
+        "positive": 0.076,
+        "neutral": 0.673,
+        "negative": 0.251,
+        "overall": -0.7717
     },
     {
-        "description": "Peter admits his walks through Harlow with \"the big boy\" take a long time and do not get very far.",
-        "positive": 0.192,
-        "neutral": 0.808,
-        "negative": 0.0,
-        "overall": 0.6908
-    },
-    {
-        "description": "Gaurav Agrawal said the \"magical evening\" he captured last summer was never intended to cause harm.",
+        "description": "Five young, skilled surfers were overcome by freak foam conditions in Scheveningen.",
         "positive": 0.0,
-        "neutral": 0.863,
-        "negative": 0.137,
-        "overall": -0.5423
+        "neutral": 0.633,
+        "negative": 0.367,
+        "overall": -0.8271
     },
     {
-        "description": "An army of staff moved into Britain's hotels during lockdown, but what comes next is anyone's guess.",
-        "positive": 0.0,
-        "neutral": 0.943,
-        "negative": 0.057,
-        "overall": -0.1027
-    },
-    {
-        "description": "Watching films from the front seat of the car has never really taken off in the UK - could lockdown change that?",
-        "positive": 0.0,
-        "neutral": 1.0,
+        "description": "How will housemates choose who gets to have sex under the new rules?",
+        "positive": 0.186,
+        "neutral": 0.814,
         "negative": 0.0,
-        "overall": 0.0
+        "overall": 0.6249
+    },
+    {
+        "description": "The pandemic has seen CO2 emissions fall - but will these changes be permanent?",
+        "positive": 0.079,
+        "neutral": 0.921,
+        "negative": 0.0,
+        "overall": 0.1406
+    },
+    {
+        "description": "Will students have online or face-to-face learning this autumn, and will they still have to pay full fees?",
+        "positive": 0.0,
+        "neutral": 0.929,
+        "negative": 0.071,
+        "overall": -0.1926
     },
     {
         "description": "Have the long hours of isolation during coronavirus lockdown led people to reflect on failed relationships?",

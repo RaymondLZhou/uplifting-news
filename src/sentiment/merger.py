@@ -19,25 +19,25 @@ def mergeFeed(information, sentiments):
     
     return displayFeed
 
-with open("../scraper/bbc/BBCFeed.json") as json_data:
+with open("../data/BBCFeed.json") as json_data:
     BBCFeed = json.load(json_data)
 
-with open("BBCSentiment.json") as json_data:
+with open("../data/BBCSentiment.json") as json_data:
     BBCSentiment = json.load(json_data)
 
 displayFeed = mergeFeed(BBCFeed, BBCSentiment)
 
-with open("BBCDisplayFeed.json", "w") as outfile:
+with open("../data/BBCDisplayFeed.json", "w") as outfile:
     json.dump(displayFeed, outfile, indent=4)
 
 
-with open("../scraper/cnn/CNNFeed.json") as json_data:
+with open("../data/CNNFeed.json") as json_data:
     CNNFeed = json.load(json_data)
 
-with open("CNNSentiment.json") as json_data:
+with open("../data/CNNSentiment.json") as json_data:
     CNNSentiment = json.load(json_data)
 
 displayFeed = mergeFeed(CNNFeed, CNNSentiment)
 
-with open("CNNDisplayFeed.json", "w") as outfile:
+with open("../data/CNNDisplayFeed.json", "w") as outfile:
     json.dump(displayFeed, outfile, indent=4)
