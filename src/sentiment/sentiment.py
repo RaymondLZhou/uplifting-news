@@ -48,7 +48,7 @@ articles = [news["text"] for news in newsList]
 tf_vectorizer = LemmaCountVectorizer(max_df=0.95, min_df=2, stop_words='english', decode_error='ignore')
 tf = tf_vectorizer.fit_transform(articles)
 
-lda = LatentDirichletAllocation(n_components=11, max_iter=5, learning_method = 'online', learning_offset = 50., random_state = 0)
+lda = LatentDirichletAllocation(n_components=110, max_iter=5, learning_method = 'online', learning_offset = 50., random_state = 0)
 lda.fit(tf)
 
 n_top_words = 40
