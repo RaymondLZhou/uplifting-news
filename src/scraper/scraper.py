@@ -1,6 +1,6 @@
 import feedparser as fp
-import json
 import requests
+import pandas as pd
 from bs4 import BeautifulSoup
 from time import sleep
 
@@ -98,5 +98,5 @@ for elem in feed.entries:
 
     sleep(1)
 
-with open("../data/Feed.json", "w") as outfile:
-    json.dump(newsList, outfile, indent=4)
+df = pd.DataFrame(newsList)
+df.to_csv("../data/feed.csv", encoding='utf-8-sig')
