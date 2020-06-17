@@ -1,43 +1,33 @@
 [
     {
-        "title": "Welcome to the 'Great Awakening'",
-        "description": "In the wake of George Floyd's killing, the Movement for Black Lives -- already a massive global force -- has succeeded in birthing a phenomenon infinitely larger than itself. It can only be called a \"Great Awakening\" of empathy and solidarity, one without historical precedent.",
-        "date": "Sat, 13 Jun 2020 03:31:18 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/z1A32deCszo/index.html",
-        "positive": 0.267,
-        "neutral": 0.66,
-        "negative": 0.073,
-        "overall": 0.8957
+        "title": "Marcus Rashford: Food voucher U-turn after footballer's campaign",
+        "description": "The Manchester United star praises the government for agreeing to fund free school meals in England this summer.",
+        "date": "Tue, 16 Jun 2020 21:05:37 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-53065806",
+        "positive": 0.362,
+        "neutral": 0.638,
+        "negative": 0.0,
+        "overall": 0.8979
     },
     {
-        "title": "The striking portraits that speak to humanity now",
-        "description": "Whether we are taking the picture, being photographed or looking at an image, photography invites us to pause and think about what makes us human, to celebrate our differences and to remember that we are not that different after all. Looking through the images in the new book \"Portrait of Humanity Vol. 2,\" it's heartening to see so many examples of the best of humanity captured through photography's ever-shifting lens.",
-        "date": "Fri, 05 Jun 2020 06:39:04 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fV65iSFJIzM/index.html",
-        "positive": 0.095,
-        "neutral": 0.905,
+        "title": "Coronavirus: What's happening to free school meals this summer?",
+        "description": "The government in England will now provide free school meals vouchers over the summer holidays.",
+        "date": "Tue, 16 Jun 2020 12:26:09 GMT",
+        "link": "https://www.bbc.co.uk/news/explainers-53053337",
+        "positive": 0.315,
+        "neutral": 0.685,
         "negative": 0.0,
-        "overall": 0.836
+        "overall": 0.8481
     },
     {
-        "title": "Real win at temporary home to mark Zidane's 200th game as boss",
-        "description": "Real Madrid mark manager Zinedine Zidane's 200th game in charge with a 3-1 'home' win over Eibar in unfamiliar surroundings.",
-        "date": "Sun, 14 Jun 2020 19:36:16 GMT",
-        "link": "https://www.bbc.co.uk/sport/football/53036095",
-        "positive": 0.213,
-        "neutral": 0.787,
+        "title": "SCOTUS made a monumental ruling",
+        "description": "Monday's Supreme Court ruling that federal law prohibits discrimination against gay and transgender people in the workplace is a monumental step forward toward justice and equality -- and is potentially a watershed moment for the court itself.",
+        "date": "Mon, 15 Jun 2020 21:43:50 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/v_AF63gLNZM/index.html",
+        "positive": 0.163,
+        "neutral": 0.837,
         "negative": 0.0,
-        "overall": 0.8225
-    },
-    {
-        "title": "Home and Away: How we film kissing at distance",
-        "description": "The Australian soap is back filming and has tips for UK shows on how to film safely.",
-        "date": "Sat, 13 Jun 2020 23:35:17 GMT",
-        "link": "https://www.bbc.co.uk/news/newsbeat-53021935",
-        "positive": 0.231,
-        "neutral": 0.769,
-        "negative": 0.0,
-        "overall": 0.7845
+        "overall": 0.7906
     },
     {
         "title": "She wrote a fantasy novel about a dystopian New York City. Then it came true",
@@ -50,6 +40,26 @@
         "overall": 0.7469
     },
     {
+        "title": "University of California votes to restore affirmative action nearly 24 years after it was outlawed",
+        "description": "The University of California has voted to restore affirmative action in hopes of diversifying its student body.",
+        "date": "Tue, 16 Jun 2020 23:04:15 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/x7JIQ8owHGc/index.html",
+        "positive": 0.205,
+        "neutral": 0.795,
+        "negative": 0.0,
+        "overall": 0.7351
+    },
+    {
+        "title": "There could be 36 communicating intelligent civilizations in our galaxy, study says",
+        "description": "Earth has proven unique in its ability to host life in the universe so far, leading us to question if we're truly alone.",
+        "date": "Tue, 16 Jun 2020 02:05:38 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/dsoX3_XGUeI/index.html",
+        "positive": 0.204,
+        "neutral": 0.746,
+        "negative": 0.05,
+        "overall": 0.7351
+    },
+    {
         "title": "Social distancing: A practical guide to how to socialise now",
         "description": "Meeting friends? Here's how to handle the awkward new rules - from sharing food to avoiding hugs.",
         "date": "Sat, 30 May 2020 08:43:46 GMT",
@@ -60,24 +70,44 @@
         "overall": 0.7269
     },
     {
-        "title": "Euros On This Day - 14 June: Ruthless Spain punish Republic of Ireland, Nedved sparkles and Larsson scores a stunner",
-        "description": "BBC Sport rounds up the best archive action from 14 June in European Championship history.",
-        "date": "Sun, 14 Jun 2020 07:04:48 GMT",
-        "link": "https://www.bbc.co.uk/sport/av/football/53030768",
-        "positive": 0.23,
-        "neutral": 0.686,
-        "negative": 0.083,
+        "title": "How lavender became a symbol of LGBTQ resistance",
+        "description": "Every year, as summer beckons, Pride month arrives in a burst of color. Around the world, rainbow flags fly high and revelers turn their faces proudly towards the sky.",
+        "date": "Thu, 04 Jun 2020 14:33:35 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/iZ6heqZx8Q8/index.html",
+        "positive": 0.158,
+        "neutral": 0.842,
+        "negative": 0.0,
         "overall": 0.7184
     },
     {
-        "title": "Coronavirus: Hampshire school ready to welcome students",
-        "description": "Some teachers and students across England are heading back to school this week, so how are they feeling?",
-        "date": "Sun, 14 Jun 2020 11:01:20 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-hampshire-53021922",
-        "positive": 0.25,
-        "neutral": 0.75,
+        "title": "Boston Dynamics' robot dog is now on sale for $74,500",
+        "description": "Want a dog without the pain of house training it? Or feeding or walking it? Well, you still can't have one, but Boston Dynamics has begun selling Spot, its robotic dog, to businesses. Spot is up for any task without the need for treats.",
+        "date": "Tue, 16 Jun 2020 17:23:40 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XtjRcJ_NXmA/index.html",
+        "positive": 0.142,
+        "neutral": 0.858,
         "negative": 0.0,
-        "overall": 0.7184
+        "overall": 0.715
+    },
+    {
+        "title": "The Gatlinburg SkyBridge was shut down after a tourist cracked the glass doing a baseball slide",
+        "description": "A tourist managed to crack the clear glass floor of the largest pedestrian suspension bridge in the United States, forcing the Gatlinburg, Tennessee, landmark to close Monday night for repairs.",
+        "date": "Tue, 16 Jun 2020 15:52:23 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/ijsf4HrCAeg/index.html",
+        "positive": 0.143,
+        "neutral": 0.857,
+        "negative": 0.0,
+        "overall": 0.6908
+    },
+    {
+        "title": "Royal Ascot: Day one's virtual racegoers",
+        "description": "Fans of horse racing are being encouraged to dress up at home for front-line charities.",
+        "date": "Tue, 16 Jun 2020 17:00:19 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-berkshire-53061896",
+        "positive": 0.241,
+        "neutral": 0.759,
+        "negative": 0.0,
+        "overall": 0.6908
     },
     {
         "title": "Coronavirus: When will pubs, bars, cafes and restaurants reopen?",
@@ -100,34 +130,14 @@
         "overall": 0.6767
     },
     {
-        "title": "Secondary schools get ready to welcome back pupils",
-        "description": "A secondary head describes her plans to bring pupils back to school and keep the virus at bay.",
-        "date": "Sun, 14 Jun 2020 04:02:43 GMT",
-        "link": "https://www.bbc.co.uk/news/education-52978492",
-        "positive": 0.193,
-        "neutral": 0.807,
-        "negative": 0.0,
+        "title": "Turns out your favorite movie is racist. What now?",
+        "description": "Last week, novelist, director and television writer John Ridley -- an Academy Award winner for his screenplay for the movie \"12 Years a Slave\" --  wrote a brief but compelling op-ed in the Los Angeles Times, asking HBO (a sister company of CNN under the ownership of WarnerMedia) to take the movie \"Gone With the Wind\" off of its much-hyped new streaming platform HBO Max.",
+        "date": "Tue, 16 Jun 2020 20:20:52 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/oPLvGaK9Qdg/index.html",
+        "positive": 0.116,
+        "neutral": 0.852,
+        "negative": 0.032,
         "overall": 0.6705
-    },
-    {
-        "title": "A mutation shows why the coronavirus is such a formidable foe",
-        "description": "All living organisms mutate and adapt to maximize survival in their ecologic niche. For months, scientists have been looking into whether the novel coronavirus -- known as SARS-CoV-2 -- is mutating and becoming more transmissible or more lethal. Recent evidence points to a preliminary answer to half the question: yes, a study has found that the virus has mutated and the dominant strain today is now capable of infecting more human cells. But the scientists say more research is needed to show whether this changed the course of the pandemic, and it remains unclear whether this mutation is more lethal.",
-        "date": "Sat, 13 Jun 2020 03:48:02 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Azb3ZQJCH-I/index.html",
-        "positive": 0.068,
-        "neutral": 0.903,
-        "negative": 0.029,
-        "overall": 0.6597
-    },
-    {
-        "title": "Summer travel is rebounding",
-        "description": "The summer travel season, which was all but written off just weeks ago, might be making a comeback of sorts have some peeks of sunshine after all.",
-        "date": "Sat, 13 Jun 2020 14:04:37 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/CMJBkvoJKJo/index.html",
-        "positive": 0.133,
-        "neutral": 0.867,
-        "negative": 0.0,
-        "overall": 0.6486
     },
     {
         "title": "Coronavirus: Five ways shopping will be different from now on",
@@ -140,19 +150,9 @@
         "overall": 0.6428
     },
     {
-        "title": "Coronavirus bubbles: The great housemate sex dilemma",
-        "description": "How will housemates choose who gets to have sex under the new rules?",
-        "date": "Fri, 12 Jun 2020 11:03:11 GMT",
-        "link": "https://www.bbc.co.uk/news/newsbeat-53019460",
-        "positive": 0.186,
-        "neutral": 0.814,
-        "negative": 0.0,
-        "overall": 0.6249
-    },
-    {
         "title": "Coronavirus: What's the chance of going on holiday?",
         "description": "Is it now possible to go on holiday, either in the UK or abroad?",
-        "date": "Mon, 08 Jun 2020 12:09:44 GMT",
+        "date": "Tue, 16 Jun 2020 15:10:34 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52646738",
         "positive": 0.21,
         "neutral": 0.79,
@@ -160,34 +160,44 @@
         "overall": 0.6199
     },
     {
-        "title": "Gatwick drone arrests: Sussex Police pays out \u00a3200,000",
-        "description": "Paul and Elaine Gait say they are \"delighted to be vindicated\" after a long fight for justice.",
-        "date": "Sun, 14 Jun 2020 16:03:21 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-sussex-53041256",
-        "positive": 0.288,
-        "neutral": 0.545,
-        "negative": 0.167,
-        "overall": 0.6124
+        "title": "CDC report offers detailed demographic breakdown of who is getting coronavirus",
+        "description": "New numbers released by the US Centers for Disease Control and Prevention offer a comprehensive picture of who in the United States has been diagnosed with Covid-19 and how they fared.",
+        "date": "Tue, 16 Jun 2020 16:13:33 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/vFipcW3iFbI/index.html",
+        "positive": 0.112,
+        "neutral": 0.888,
+        "negative": 0.0,
+        "overall": 0.5859
     },
     {
-        "title": "Coronavirus: Single person seeks best bubble options",
-        "description": "New guidelines allow single-person households to create an exclusive \"bubble\" - but how do you choose?",
-        "date": "Fri, 12 Jun 2020 23:21:59 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-53007814",
-        "positive": 0.287,
-        "neutral": 0.713,
+        "title": "Marcus Rashford: Man Utd star a 'hero' in Wythenshawe",
+        "description": "People in Wythenshawe praise Marcus Rashford for forcing a government U-turn on school meal vouchers.",
+        "date": "Tue, 16 Jun 2020 19:09:17 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-manchester-53065947",
+        "positive": 0.153,
+        "neutral": 0.847,
         "negative": 0.0,
-        "overall": 0.5927
+        "overall": 0.5574
     },
     {
-        "title": "Coronavirus: 'It's very exciting to be returning to work'",
-        "description": "Non-essential shops in England can reopen on Monday and many staff can't wait to get back to business.",
-        "date": "Sun, 14 Jun 2020 11:28:08 GMT",
-        "link": "https://www.bbc.co.uk/news/business-53007169",
-        "positive": 0.123,
-        "neutral": 0.877,
+        "title": "How the rise of supermarkets left out black America",
+        "description": "If you're like most Americans, you probably think of going to the supermarket and stocking up on groceries as a normal thing, and you take it for granted.",
+        "date": "Tue, 16 Jun 2020 19:15:45 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Chd09Xbx-YQ/index.html",
+        "positive": 0.12,
+        "neutral": 0.88,
         "negative": 0.0,
-        "overall": 0.5413
+        "overall": 0.5423
+    },
+    {
+        "title": "Coronavirus: NHS staff need tests 'twice a week'",
+        "description": "Two leading doctors said regular testing is needed to give patients confidence as the NHS reopens.",
+        "date": "Wed, 17 Jun 2020 00:26:07 GMT",
+        "link": "https://www.bbc.co.uk/news/health-53066177",
+        "positive": 0.136,
+        "neutral": 0.864,
+        "negative": 0.0,
+        "overall": 0.5106
     },
     {
         "title": "Coronavirus: What are social distancing and self-isolation rules?",
@@ -200,24 +210,34 @@
         "overall": 0.4939
     },
     {
-        "title": "Local artists collaborate to paint a giant Black Lives Matter mural on the street",
-        "description": "A group of local artists took to the street in Seattle to show their support for Black Lives Matter.",
-        "date": "Sun, 14 Jun 2020 20:57:54 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/O6UNrvQH9l8/index.html",
+        "title": "The lengths countries go to for a seat at UN top table",
+        "description": "Canada, Norway and Ireland are in a tight race for two non-permanent seats on the security council.",
+        "date": "Mon, 15 Jun 2020 20:23:21 GMT",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-52973244",
         "positive": 0.149,
         "neutral": 0.851,
         "negative": 0.0,
-        "overall": 0.4404
+        "overall": 0.4939
     },
     {
-        "title": "Is it safer to fly or drive during the pandemic?",
-        "description": "People are undoubtedly moving around more as vacation season heats up and patience for sheltering at home wears thin.",
-        "date": "Sun, 14 Jun 2020 00:55:27 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/-1C7AyiU3gc/index.html",
-        "positive": 0.094,
-        "neutral": 0.906,
+        "title": "Some think looser restrictions could make second wave worse",
+        "description": "The United States could see more than 200,000 deaths from Covid-19 by October 1, a closely watched model predicted Monday as states continue to reopen.",
+        "date": "Tue, 16 Jun 2020 16:29:48 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/r66HpejiT2I/index.html",
+        "positive": 0.083,
+        "neutral": 0.917,
         "negative": 0.0,
         "overall": 0.4215
+    },
+    {
+        "title": "Vintage photos show British vacationers gone wild",
+        "description": "Butlin's vacation resorts were an institution in post-war Britain. The self-contained camps -- where guests were housed in wooden chalets, fed and entertained on-site -- provided a new kind of inexpensive luxury for working families.",
+        "date": "Fri, 22 May 2020 09:48:51 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/rrKm6J-JWZo/index.html",
+        "positive": 0.065,
+        "neutral": 0.935,
+        "negative": 0.0,
+        "overall": 0.4019
     },
     {
         "title": "Coronavirus bubbles: How do they work and who is in yours?",
@@ -250,34 +270,14 @@
         "overall": 0.3818
     },
     {
-        "title": "Coronavirus: 'Scandal' BAME review recommendations 'buried'",
-        "description": "Labour's David Lammy urged the government to \"do something\" to protect ethnic minorities from Covid-19.",
-        "date": "Sun, 14 Jun 2020 10:49:19 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-53039816",
-        "positive": 0.12,
-        "neutral": 0.88,
+        "title": "'People queued for an hour to enter' the shop",
+        "description": "As the High Street opens for business, workers tell the BBC what it was like after weeks of lockdown.",
+        "date": "Mon, 15 Jun 2020 23:01:43 GMT",
+        "link": "https://www.bbc.co.uk/news/business-53056414",
+        "positive": 0.088,
+        "neutral": 0.912,
         "negative": 0.0,
-        "overall": 0.3818
-    },
-    {
-        "title": "Growing up black in one of England's whitest counties",
-        "description": "\"The N-word was shouted at me from passing cars\" - life growing up as a black child in Cornwall.",
-        "date": "Sat, 13 Jun 2020 23:22:48 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-cornwall-52981934",
-        "positive": 0.129,
-        "neutral": 0.871,
-        "negative": 0.0,
-        "overall": 0.34
-    },
-    {
-        "title": "Coronavirus R0: What is the R number and why does it matter?",
-        "description": "Experts keep discussing the value of R, but what is it and why does it matter?",
-        "date": "Fri, 01 May 2020 23:03:10 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52494495",
-        "positive": 0.159,
-        "neutral": 0.841,
-        "negative": 0.0,
-        "overall": 0.3313
+        "overall": 0.3612
     },
     {
         "title": "Can thermal cameras help spot coronavirus?",
@@ -290,34 +290,24 @@
         "overall": 0.3182
     },
     {
-        "title": "Star Trek: Next Generation fan rebuilds bridge set",
-        "description": "Geoff Collard, a model maker, spent 500 hours building the bridge of the starship Enterprise.",
-        "date": "Sat, 13 Jun 2020 23:40:33 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-somerset-53027882",
-        "positive": 0.103,
-        "neutral": 0.897,
-        "negative": 0.0,
-        "overall": 0.3182
+        "title": "A Street Cat Named Bob: Stray who inspired series of books dies",
+        "description": "James Bowen wrote six books about his pet Bob who he chanced upon while battling drug addiction.",
+        "date": "Tue, 16 Jun 2020 20:46:22 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-london-53072938",
+        "positive": 0.106,
+        "neutral": 0.825,
+        "negative": 0.069,
+        "overall": 0.2732
     },
     {
-        "title": "Monday's football gossip: Man Utd to step up \u00a375m push for Grealish",
-        "description": "Manchester United will step up efforts for Jack Grealish with Jadon Sancho out of reach, Pierre-Emerick Aubameyang speaks on big Arsenal decision, plus more.",
-        "date": "Sun, 14 Jun 2020 19:15:36 GMT",
-        "link": "https://www.bbc.co.uk/sport/53043636",
-        "positive": 0.104,
-        "neutral": 0.851,
-        "negative": 0.045,
-        "overall": 0.296
-    },
-    {
-        "title": "Young Americans are having less sex than ever",
-        "description": "Young Americans are having less sex -- and they can't even blame the coronavirus pandemic for this one.",
-        "date": "Sat, 13 Jun 2020 08:45:49 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aEMX47JvX7U/index.html",
-        "positive": 0.078,
-        "neutral": 0.922,
+        "title": "Flushing 'can propel viral infection 3ft into air'",
+        "description": "Flushing the toilet with the lid up creates a cloud of spray that may spread infection, study finds.",
+        "date": "Tue, 16 Jun 2020 15:05:03 GMT",
+        "link": "https://www.bbc.co.uk/news/health-53047819",
+        "positive": 0.084,
+        "neutral": 0.916,
         "negative": 0.0,
-        "overall": 0.2584
+        "overall": 0.2732
     },
     {
         "title": "All you need to know about new measures",
@@ -330,23 +320,43 @@
         "overall": 0.25
     },
     {
-        "title": "Swiss search for owner of gold haul left on train",
-        "description": "The hoard, worth around \u00a3152,000, was found left behind on a train in Switzerland last October.",
-        "date": "Sun, 14 Jun 2020 14:44:40 GMT",
-        "link": "https://www.bbc.co.uk/news/world-europe-53041884",
-        "positive": 0.076,
-        "neutral": 0.924,
+        "title": "Coronavirus: Dexamethasone proves first life-saving drug",
+        "description": "Patients should be given the cheap drug without delay, after \"fantastic\" trial results, experts say.",
+        "date": "Tue, 16 Jun 2020 16:44:39 GMT",
+        "link": "https://www.bbc.co.uk/news/health-53061281",
+        "positive": 0.094,
+        "neutral": 0.906,
         "negative": 0.0,
-        "overall": 0.2263
+        "overall": 0.2411
     },
     {
-        "title": "'No friendships' with Archer during Test series, says Roach",
-        "description": "There will be \"no friendships\" between West Indies players and England's Jofra Archer during the forthcoming Test series, says Kemar Roach.",
-        "date": "Sun, 14 Jun 2020 15:12:06 GMT",
-        "link": "https://www.bbc.co.uk/sport/cricket/53041689",
-        "positive": 0.15,
-        "neutral": 0.723,
-        "negative": 0.127,
+        "title": "Rents are dropping across the US",
+        "description": "At the end of May, Ilana Freund landed a deal on an apartment in New York City where she will be attending graduate school. She and her roommate signed a lease on a two-bedroom apartment in the West Village for $4,995 a month. It was a significant discount: Similar apartments in the building were going for around $5,300 before the pandemic took hold, according to the listing agent.",
+        "date": "Tue, 16 Jun 2020 19:19:53 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/GzNemmCQ8OQ/index.html",
+        "positive": 0.026,
+        "neutral": 0.974,
+        "negative": 0.0,
+        "overall": 0.2023
+    },
+    {
+        "title": "Trump administration sues Bolton over book dispute",
+        "description": "\u2022 Read: Trump administration's lawsuit against Bolton over book\n\u2022 Stelter explains why Trump and White House are 'clearly rattled' by Bolton's new book",
+        "date": "Wed, 17 Jun 2020 00:08:41 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/purQa_YD0Es/index.html",
+        "positive": 0.085,
+        "neutral": 0.854,
+        "negative": 0.06,
+        "overall": 0.2023
+    },
+    {
+        "title": "Reni Eddo-Lodge: Author makes book chart history",
+        "description": "The author becomes the first black British writer to top the overall UK book chart.",
+        "date": "Tue, 16 Jun 2020 17:11:09 GMT",
+        "link": "https://www.bbc.co.uk/news/entertainment-arts-52993678",
+        "positive": 0.083,
+        "neutral": 0.917,
+        "negative": 0.0,
         "overall": 0.2023
     },
     {
@@ -360,54 +370,84 @@
         "overall": 0.1531
     },
     {
-        "title": "Five key questions about energy after Covid-19",
-        "description": "The pandemic has seen CO2 emissions fall - but will these changes be permanent?",
-        "date": "Tue, 09 Jun 2020 00:52:33 GMT",
-        "link": "https://www.bbc.co.uk/news/science-environment-52943037",
-        "positive": 0.079,
-        "neutral": 0.921,
+        "title": "Coronavirus: Prince Charles's sense of smell and taste still not back",
+        "description": "The prince discusses his experience with Covid-19 as the royals return to public engagements.",
+        "date": "Tue, 16 Jun 2020 19:22:29 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-53026903",
+        "positive": 0.065,
+        "neutral": 0.935,
         "negative": 0.0,
-        "overall": 0.1406
+        "overall": 0.1531
     },
     {
-        "title": "Coronavirus and face coverings: the correct way to wear them",
-        "description": "Across the world, people are being asked to wear face coverings to help stop coronavirus from spreading.",
-        "date": "Thu, 04 Jun 2020 16:43:52 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52606128",
-        "positive": 0.093,
-        "neutral": 0.83,
-        "negative": 0.076,
+        "title": "Black Lives Matter: Have racial inequality reviews led to action?",
+        "description": "A number of reviews have looked at race and equality over the years, but has the government taken action?",
+        "date": "Mon, 15 Jun 2020 17:47:36 GMT",
+        "link": "https://www.bbc.co.uk/news/53053661",
+        "positive": 0.09,
+        "neutral": 0.91,
+        "negative": 0.0,
+        "overall": 0.1431
+    },
+    {
+        "title": "Mexico temporarily forbids workers from going to Canada due to coronavirus",
+        "description": "Mexico will conduct a safety review of Canadian health policies and procedures before allowing any more temporary workers to travel to Canada to work in the agricultural sector.",
+        "date": "Tue, 16 Jun 2020 16:09:45 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/RwF1wr8JhiI/index.html",
+        "positive": 0.07,
+        "neutral": 0.873,
+        "negative": 0.057,
         "overall": 0.128
     },
     {
-        "title": "He proposed to his girlfriend at a Black Lives Matter protest to celebrate black love",
-        "description": "When Marjorie Alston attended a Black Lives Matter protest in North Carolina with her boyfriend, she went carrying a sign but left wearing a ring on her finger.",
-        "date": "Sun, 14 Jun 2020 21:15:25 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/d3koiHLWhc0/index.html",
-        "positive": 0.11,
-        "neutral": 0.816,
-        "negative": 0.074,
-        "overall": 0.1154
-    },
-    {
-        "title": "Coronavirus: France's ancient burial brotherhood defies Covid-19",
-        "description": "The Charitable Brothers of Saint-Eloi were founded in the 12th Century to bury plague victims.",
-        "date": "Sat, 13 Jun 2020 23:09:44 GMT",
-        "link": "https://www.bbc.co.uk/news/world-europe-53029599",
-        "positive": 0.113,
-        "neutral": 0.792,
-        "negative": 0.096,
+        "title": "Remarkable idiocy of Trump rally in Tulsa",
+        "description": "Like many others, I was startled to learn that President Donald Trump was resuming his campaign barnstorming in Tulsa, Oklahoma. Startled that he was hitting the road again in the middle of a pandemic, startled that he had picked the place where a massacre of African Americans occurred (and was covered up) 99 years ago, startled that he initially decided to do this on Juneteenth -- June 19, the holiday celebrating the end of slavery.",
+        "date": "Tue, 16 Jun 2020 00:10:39 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/wqB7kc920_M/index.html",
+        "positive": 0.109,
+        "neutral": 0.764,
+        "negative": 0.127,
         "overall": 0.1027
     },
     {
-        "title": "Coronavirus: How sex workers are surviving in Uganda and Nigeria",
-        "description": "While African governments give aid to their citizens during the Covid-19 pandemic, sex workers have seemingly been forgotten.",
-        "date": "Sat, 13 Jun 2020 23:12:14 GMT",
-        "link": "https://www.bbc.co.uk/news/world-africa-53013047",
-        "positive": 0.076,
-        "neutral": 0.859,
-        "negative": 0.065,
+        "title": "The first photos of Tom Brady in his Buccaneers uniform are here",
+        "description": "Patriot fans, you may want to look away.",
+        "date": "Tue, 16 Jun 2020 23:30:42 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/zhsU5VJLQ-4/index.html",
+        "positive": 0.067,
+        "neutral": 0.933,
+        "negative": 0.0,
         "overall": 0.0772
+    },
+    {
+        "title": "Pence falsely claims Covid-19 cases in Oklahoma are falling",
+        "description": "During a White House roundtable Monday, Vice President Mike Pence claimed that Oklahoma - where President Donald Trump is scheduled to hold a campaign rally Saturday -  has seen a decline in the number of coronavirus cases.",
+        "date": "Tue, 16 Jun 2020 19:31:34 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/-pFP3PyMhT8/index.html",
+        "positive": 0.032,
+        "neutral": 0.968,
+        "negative": 0.0,
+        "overall": 0.0772
+    },
+    {
+        "title": "Brazil swipes at FDA, pushes hydroxychloroquine for pregnant women and children",
+        "description": "Brazilian health authorities said on Monday they will now recommend hydroxychloroquine  to treat children and pregnant women for early treatment of Covid-19, and criticized the US Food and Drug Administration's (FDA) recent decision to revoke the emergency use of the drug.",
+        "date": "Tue, 16 Jun 2020 21:47:36 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/DR98AXSfma8/index.html",
+        "positive": 0.091,
+        "neutral": 0.82,
+        "negative": 0.089,
+        "overall": 0.0258
+    },
+    {
+        "title": "GOP senator: Proposal to remove Confederate names picks on the South",
+        "description": "A Senate amendment to remove the names of Confederate leaders on military property \"picks on the South unfairly,\" a GOP senator said Tuesday, the latest sign that President Donald Trump's opposition to the plan has opened up an uncomfortable election-year debate within the party.",
+        "date": "Tue, 16 Jun 2020 21:34:58 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/kRijm_3qISo/index.html",
+        "positive": 0.048,
+        "neutral": 0.906,
+        "negative": 0.046,
+        "overall": 0.0258
     },
     {
         "title": "How laundry is spilling plastics into the ocean",
@@ -420,50 +460,20 @@
         "overall": 0.0
     },
     {
-        "title": "Philippines casinos catering to illicit Chinese gamblers are causing kidnappings and chaos",
-        "description": "Dozens of scantily dressed Filipina croupiers stand in booths shuffling cards in front of a webcam, their faces softly illuminated by professional lighting.",
-        "date": "Sun, 14 Jun 2020 00:27:29 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/i9i_A--rrmo/index.html",
+        "title": "75-year-old Buffalo protester has a fractured skull and cannot walk",
+        "description": "Martin Gugino, the 75-year-old protester who was pushed by two Buffalo, New York, police officers earlier this month, has a fractured skull and is not able to walk, his lawyer said in a statement provided to CNN on Monday.",
+        "date": "Tue, 16 Jun 2020 20:05:45 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/PX7XI7uSNJI/index.html",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "title": "Woman hatches ducklings from supermarket eggs",
-        "description": "A British woman has hatched three ducklings she named Beep, Peep and Meep from eggs she bought at supermarket chain Waitrose.",
-        "date": "Sun, 14 Jun 2020 16:15:30 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/smn4rtalTyU/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Must-watch videos of the week",
-        "description": "A close call on a boat, an unrecognizable celebrity, and a star singer crashes a commencement. Here are the must-see videos of the week.",
-        "date": "Fri, 12 Jun 2020 16:15:29 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/YLXzJzHEA_0/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "NASA spacecraft sends back images of stars from 4.3 billion miles away",
-        "description": "From its unique vantage point 4.3 billion miles from Earth, NASA's New Horizons spacecraft has captured images of nearby stars \u2014 and the stars appear to be in different positions than where we see them from Earth.",
-        "date": "Sun, 14 Jun 2020 06:31:05 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/t_cvqD2itZA/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus: We answer kids' questions about going back to school",
-        "description": "The BBC's Education Editor Branwen Jeffreys answers kids' questions about going back to school.",
-        "date": "Thu, 28 May 2020 23:00:48 GMT",
-        "link": "https://www.bbc.co.uk/news/education-52842040",
+        "title": "A key model used by the White House is now projecting more than 200,000 deaths by October as 18 states show a spike in coronavirus cases",
+        "description": "Vice President Mike Pence, the leader of the administration's coronavirus task force, is publicly painting a rosy picture of the pandemic through his words and actions amid President Donald Trump's push to reopen the country and resume campaigning.",
+        "date": "Tue, 16 Jun 2020 23:54:43 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/s8gfGtAUEdk/index.html",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
@@ -490,30 +500,10 @@
         "overall": 0.0
     },
     {
-        "title": "Coronavirus: Saffron Walden dentist shows new appointment routine",
-        "description": "Join us on a walk through a dental surgery to show what you might face at your next appointment.",
-        "date": "Mon, 08 Jun 2020 14:13:05 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-essex-52962708",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
         "title": "Coronavirus: What tests are being done in the UK?",
         "description": "What are the tests for coronavirus, who are they for and how do they work?",
         "date": "Fri, 12 Jun 2020 16:20:56 GMT",
         "link": "https://www.bbc.co.uk/news/health-51943612",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
-        "title": "Coronavirus UK map: How many confirmed cases are there in your area?",
-        "description": "Key graphics explaining how coronavirus has spread in the UK and the government's response.",
-        "date": "Sun, 14 Jun 2020 15:07:44 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-51768274",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
@@ -532,7 +522,7 @@
     {
         "title": "Coronavirus pandemic: Tracking the global outbreak",
         "description": "Key maps and charts explaining how the respiratory virus has spread around the world and how it is being dealt with.",
-        "date": "Sun, 14 Jun 2020 10:59:00 GMT",
+        "date": "Tue, 16 Jun 2020 13:11:20 GMT",
         "link": "https://www.bbc.co.uk/news/world-51235105",
         "positive": 0.0,
         "neutral": 1.0,
@@ -550,16 +540,6 @@
         "overall": 0.0
     },
     {
-        "title": "Coronavirus: Which schools are reopening for pupils?",
-        "description": "Which children are going back to school, and what about the rest?",
-        "date": "Sun, 14 Jun 2020 13:45:41 GMT",
-        "link": "https://www.bbc.co.uk/news/education-51643556",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
-        "overall": 0.0
-    },
-    {
         "title": "Coronavirus: What are the UK travel quarantine rules?",
         "description": "What do you need to know if you're planning to fly during the Covid-19 pandemic?",
         "date": "Fri, 12 Jun 2020 11:22:00 GMT",
@@ -570,10 +550,10 @@
         "overall": 0.0
     },
     {
-        "title": "Coronavirus: What shops will open next?",
-        "description": "Non-essential shops can reopen in England from Monday, but will I be able to buy a book or have a haircut?",
-        "date": "Sun, 14 Jun 2020 11:21:08 GMT",
-        "link": "https://www.bbc.co.uk/news/business-52808931",
+        "title": "Coronavirus: Which schools are reopening for pupils?",
+        "description": "Which children are going back to school, and what about the rest?",
+        "date": "Sun, 14 Jun 2020 13:45:41 GMT",
+        "link": "https://www.bbc.co.uk/news/education-51643556",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
@@ -590,6 +570,26 @@
         "overall": 0.0
     },
     {
+        "title": "What shops are open?",
+        "description": "Non-essential shops have reopened in England, but will I be able to buy a book or have a haircut?",
+        "date": "Mon, 15 Jun 2020 12:24:19 GMT",
+        "link": "https://www.bbc.co.uk/news/business-52808931",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
+        "title": "Coronavirus UK map: How many confirmed cases are there in your area?",
+        "description": "Key graphics explaining how coronavirus has spread in the UK and the government's response.",
+        "date": "Tue, 16 Jun 2020 17:20:03 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-51768274",
+        "positive": 0.0,
+        "neutral": 1.0,
+        "negative": 0.0,
+        "overall": 0.0
+    },
+    {
         "title": "Coronavirus: Who should wear a face mask or face covering?",
         "description": "Face coverings are becoming compulsory for people using public transport in England.",
         "date": "Sun, 14 Jun 2020 16:12:16 GMT",
@@ -600,204 +600,144 @@
         "overall": 0.0
     },
     {
-        "title": "Kathy Sullivan: The woman who's made history in sea and space",
-        "description": "Kathy Sullivan is the first person to ever travel to both space and the bottom of the ocean.",
-        "date": "Sat, 13 Jun 2020 23:20:44 GMT",
-        "link": "https://www.bbc.co.uk/news/world-us-canada-53008948",
+        "title": "Instagram 'will overtake Twitter as a news source'",
+        "description": "A report finds Instagram doubled its news audience last year - and could overtake Twitter by 2021.",
+        "date": "Mon, 15 Jun 2020 23:02:19 GMT",
+        "link": "https://www.bbc.co.uk/news/technology-53050959",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "title": "Fact-checking claims coronavirus might have started in August 2019",
-        "description": "Does a study suggesting possibility of coronavirus cases in Wuhan much earlier than reported stand up to scrutiny?",
-        "date": "Sat, 13 Jun 2020 23:28:25 GMT",
-        "link": "https://www.bbc.co.uk/news/world-asia-china-53005768",
+        "title": "Diego, the Gal\u00e1pagos tortoise with a species-saving sex drive, retires",
+        "description": "Diego, aged 100, returns to his native Gal\u00e1pagos island after decades of breeding in captivity.",
+        "date": "Tue, 16 Jun 2020 09:42:15 GMT",
+        "link": "https://www.bbc.co.uk/news/world-latin-america-53062480",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "title": "Woman hatches ducks from Waitrose eggs",
-        "description": "Beep, Peep and Meep started life on a supermarket shelf but will now live with Charli Lello's chickens.",
-        "date": "Sat, 13 Jun 2020 23:22:24 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-beds-bucks-herts-52838747",
+        "title": "Coronavirus: Greggs to reopen 800 shops for takeaway",
+        "description": "Greggs edges towards full reopening while Cineworld cinemas plan to restart screenings in July.",
+        "date": "Tue, 16 Jun 2020 11:51:00 GMT",
+        "link": "https://www.bbc.co.uk/news/business-53053685",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "title": "Coronavirus: What will clothes shopping look like?",
-        "description": "From Monday all non-essential shops are allowed to reopen in England.",
-        "date": "Sat, 13 Jun 2020 23:11:17 GMT",
-        "link": "https://www.bbc.co.uk/news/business-53028892",
+        "title": "Coronavirus: Twelve weeks on I can't kick Covid exhaustion",
+        "description": "More and more survivors of coronavirus are discovering its impact on their health is long-term.",
+        "date": "Mon, 15 Jun 2020 23:08:27 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-53056785",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "title": "Coronavirus: Your pictures on the theme of 'self-portrait'",
-        "description": "Our readers reveal portraits of themselves they have made while at home during the pandemic.",
-        "date": "Sat, 13 Jun 2020 23:06:46 GMT",
-        "link": "https://www.bbc.co.uk/news/in-pictures-53013390",
+        "title": "Swindon shooting: Man shot in leg by police after lorry stolen",
+        "description": "Officers followed the vehicle through Swindon and the man was shot as they intercepted it.",
+        "date": "Tue, 16 Jun 2020 20:51:18 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-england-wiltshire-53026139",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "title": "Consumers 'should shop with confidence'",
-        "description": "Boris Johnson urges people to maintain social distancing when non-essential shops reopen in England.",
-        "date": "Sun, 14 Jun 2020 16:07:20 GMT",
-        "link": "https://www.bbc.co.uk/news/business-53041178",
+        "title": "Tornadoes caught on camera across two counties in Wales",
+        "description": "Eyewitnesses filmed a twister near Brecon and then another 40 miles away in Ceredigion.",
+        "date": "Tue, 16 Jun 2020 19:45:59 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-wales-53069614",
         "positive": 0.0,
         "neutral": 1.0,
         "negative": 0.0,
         "overall": 0.0
     },
     {
-        "title": "10 SWAT members in South Florida resign from unit, saying they feel unsafely restrained by politics",
-        "description": "Ten South Florida police officers have resigned from their city's SWAT unit amid concerns about safety, including their feeling that they're \"restrained by the politicalization of our tactics,\" according to CNN affiliate WSVN.",
-        "date": "Sat, 13 Jun 2020 23:06:00 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/CaLCxfIAlpo/index.html",
-        "positive": 0.082,
-        "neutral": 0.835,
-        "negative": 0.083,
-        "overall": -0.0258
-    },
-    {
-        "title": "Opinion: The problem Trump's West Point speech can't fix",
-        "description": "On Saturday, President Trump delivered a commencement speech at the US Military Academy at West Point, New York, honoring the graduating cadets for their service while touting the \"colossal rebuilding\" of the armed forces under his presidency.",
-        "date": "Sun, 14 Jun 2020 00:54:29 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/DmAj6qM3ArY/index.html",
-        "positive": 0.068,
-        "neutral": 0.842,
-        "negative": 0.09,
-        "overall": -0.0258
-    },
-    {
-        "title": "Tapper: US needs to let go of celebrating 'dead, racist losers'",
-        "description": "To end Sunday's \"State of the Union\" on CNN, anchor Jake Tapper took a few moments to address President Donald Trump's opposition to removing Confederate commanders' names from military bases. Below is a full transcript of Tapper's remarks:",
-        "date": "Sun, 14 Jun 2020 19:47:40 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/xG8SCLUG6aQ/index.html",
-        "positive": 0.072,
-        "neutral": 0.851,
-        "negative": 0.077,
-        "overall": -0.0772
-    },
-    {
-        "title": "Why we can't turn away from 'Gone with the Wind'",
-        "description": "Just before the Covid-19 quarantine, I joined my fellow hosts on Turner Classic Movies for an \"Old Hollywood\" fashion photo shoot for Emmy Magazine. But when the spread came out, I could not bring myself to post the photos to my social media. As an African American cinema and media studies professor, how could I promote the glamour of classic Hollywood when our current media landscape was exploding with scenes of racial crisis?",
-        "date": "Sat, 13 Jun 2020 04:14:59 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/vS6LKQZ68GQ/index.html",
+        "title": "Defense secretary says official who questioned the legality of withholding Ukraine aid to resign",
+        "description": "The Pentagon official who raised concerns about the Ukraine aid being held in 2019 has submitted her resignation to Secretary of Defense Mark Esper, the Pentagon announced Tuesday.",
+        "date": "Tue, 16 Jun 2020 23:28:35 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/hYlnqkuE7eM/index.html",
         "positive": 0.069,
-        "neutral": 0.857,
-        "negative": 0.074,
-        "overall": -0.128
+        "neutral": 0.849,
+        "negative": 0.083,
+        "overall": -0.1531
     },
     {
-        "title": "Coronavirus: Should I go to university this year?",
-        "description": "Will students have online or face-to-face learning this autumn, and will they still have to pay full fees?",
-        "date": "Tue, 09 Jun 2020 00:48:58 GMT",
-        "link": "https://www.bbc.co.uk/news/explainers-52753913",
-        "positive": 0.0,
-        "neutral": 0.929,
-        "negative": 0.071,
-        "overall": -0.1926
+        "title": "Analysis: Something shocking happened to Republicans in West Virginia last week",
+        "description": "Last Tuesday in West Virginia, something remarkable happened: 10(!) sitting Republican state legislators -- including the state Senate president and a former House majority leader -- lost in primaries.",
+        "date": "Tue, 16 Jun 2020 17:31:46 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/8wl_vqQb-Hg/index.html",
+        "positive": 0.082,
+        "neutral": 0.797,
+        "negative": 0.121,
+        "overall": -0.1759
     },
     {
-        "title": "A community wants answers after a young black man is found hanging from a tree",
-        "description": "A community is demanding answers after a 24-year-old black man was found hanging from a tree this week in northern Los Angeles County.",
-        "date": "Sun, 14 Jun 2020 19:05:23 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/mF_DdbuJdYk/index.html",
+        "title": "Trump isn't aging well",
+        "description": "Donald Trump is not coping well.",
+        "date": "Tue, 16 Jun 2020 17:59:58 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/nHphi1_V9c4/index.html",
         "positive": 0.0,
-        "neutral": 0.942,
-        "negative": 0.058,
+        "neutral": 0.815,
+        "negative": 0.185,
+        "overall": -0.2057
+    },
+    {
+        "title": "Coronavirus: Job cuts warning as 600,000 roles go in lockdown",
+        "description": "Economists say the full impact on employment will not be felt until wage support schemes end in October.",
+        "date": "Tue, 16 Jun 2020 12:18:23 GMT",
+        "link": "https://www.bbc.co.uk/news/business-53060529",
+        "positive": 0.086,
+        "neutral": 0.767,
+        "negative": 0.147,
         "overall": -0.2263
     },
     {
-        "title": "NHS test & trace: Does contact tracing stop coronavirus?",
-        "description": "Wales is the latest part of the UK to launch a tracing system, but how do they work?",
-        "date": "Mon, 01 Jun 2020 23:03:28 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52852689",
+        "title": "An entire high school baseball team knelt during the National Anthem to protest police brutality",
+        "description": "As Iowa became the first state to resume high school sports this week, one baseball team took a stand by kneeling.",
+        "date": "Tue, 16 Jun 2020 19:26:43 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/PCE8cExIjHo/index.html",
         "positive": 0.0,
-        "neutral": 0.921,
-        "negative": 0.079,
-        "overall": -0.2406
+        "neutral": 0.943,
+        "negative": 0.057,
+        "overall": -0.25
     },
     {
-        "title": "Human remains found in Idaho identified as Lori Vallow's children",
-        "description": "Idaho police confirmed the two sets of human remains found at Chad Daybell's home were those of two missing children who had not been seen since September, according to a news release issued Saturday.",
-        "date": "Sat, 13 Jun 2020 20:14:40 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XKUg2kwV5pk/index.html",
-        "positive": 0.0,
-        "neutral": 0.949,
-        "negative": 0.051,
-        "overall": -0.296
+        "title": "Inside 'American Horror Story' creator's LA and NYC homes",
+        "description": "Writer and director Ryan Murphy was 8 years old when his parents first let him decorate his room. \"I decided to buck the bland and go bold: olive-green walls, chocolate-brown shag carpeting -- and a gold disco ball,\" he recalled in the latest issue of Architectural Digest, as he opened the doors to his quietly luxurious LA and New York homes.",
+        "date": "Tue, 09 Jun 2020 12:25:47 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/eNYzJl_yOLs/index.html",
+        "positive": 0.036,
+        "neutral": 0.912,
+        "negative": 0.052,
+        "overall": -0.2732
     },
     {
-        "title": "Opinion: I'm over 60. Stop talking about coronavirus 'culling' me",
-        "description": "\u2022 Fauci says second wave is 'not inevitable' as coronavirus cases climb in some states\n\u2022 New Jersey reports more than 500 new Covid-19 cases",
-        "date": "Sun, 14 Jun 2020 00:56:34 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/P5yKn00HQ4E/index.html",
+        "title": "Brett Favre is charging $5,000 for a 10-minute Zoom call",
+        "description": "Some bored and cooped-up celebrities (we're using that term lightly) have apparently hit \"Peak Quarantine\" are now offering Zoom calls with fans for hundreds -- and even thousands -- of dollars.",
+        "date": "Tue, 16 Jun 2020 15:21:37 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/QWb3Kxg-b5k/index.html",
         "positive": 0.0,
-        "neutral": 0.936,
-        "negative": 0.064,
-        "overall": -0.296
+        "neutral": 0.948,
+        "negative": 0.052,
+        "overall": -0.2732
     },
     {
-        "title": "Coronavirus: 200-year-old family shoe shop to reopen",
-        "description": "A family business dating back eight generations has lost more than \u00a3100,000 during the lockdown.",
-        "date": "Fri, 12 Jun 2020 23:19:36 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-hampshire-53007218",
-        "positive": 0.0,
-        "neutral": 0.897,
-        "negative": 0.103,
-        "overall": -0.3182
-    },
-    {
-        "title": "Coronavirus: Boris Johnson launches review into 2m social distancing rule",
-        "description": "There have been concerns the hospitality sector will struggle to be viable with the rule in place.",
-        "date": "Sun, 14 Jun 2020 13:43:39 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-53038255",
+        "title": "What's behind the PM's aid department decision?",
+        "description": "There is a tension at the heart of the plan to merge the Foreign Office and the department handling overseas aid.",
+        "date": "Tue, 16 Jun 2020 19:57:50 GMT",
+        "link": "https://www.bbc.co.uk/news/uk-politics-53072856",
         "positive": 0.0,
         "neutral": 0.916,
         "negative": 0.084,
         "overall": -0.3182
-    },
-    {
-        "title": "Some states are seeing record coronavirus hospitalizations",
-        "description": "\u2022 Mutation could make coronavirus more infectious, study suggests\n\u2022 What to know about coronavirus today \n\u2022 Nurse accuses Brazil of sacrificing medics to coronavirus",
-        "date": "Sun, 14 Jun 2020 20:27:39 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/FShUsJRzc1s/index.html",
-        "positive": 0.0,
-        "neutral": 0.921,
-        "negative": 0.079,
-        "overall": -0.34
-    },
-    {
-        "title": "How black NASCAR fans feel about the new Confederate flag ban",
-        "description": "Growing up in the middle of nowhere, Marc Wiley said he had two choices for recreation: \"Go fast and shoot stuff.\"",
-        "date": "Sun, 14 Jun 2020 16:22:44 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/vl8HO1QJE8I/index.html",
-        "positive": 0.0,
-        "neutral": 0.926,
-        "negative": 0.074,
-        "overall": -0.34
-    },
-    {
-        "title": "Hay fever v coronavirus: what are the symptoms?",
-        "description": "The Royal College of General Practitioners is warning people not to mix up the symptoms.",
-        "date": "Sun, 19 Apr 2020 23:14:43 GMT",
-        "link": "https://www.bbc.co.uk/news/health-52319536",
-        "positive": 0.0,
-        "neutral": 0.893,
-        "negative": 0.107,
-        "overall": -0.34
     },
     {
         "title": "Coronavirus: Why we don't know how many are being tested",
@@ -820,23 +760,13 @@
         "overall": -0.3818
     },
     {
-        "title": "Time for Pence to jump ship?",
-        "description": "The leaking ship that is the Trump presidency has a hole in its hull the size of the 38% job-approval rating reported by CNN. Add a gash as big as the 16.4% (including misclassified workers) unemployment rate and it's easy to see why some prominent Republicans are stepping away from a leader who has suddenly been transformed from a fearsome Twitter monster into the man mocked as \"Bunker Boy.\"",
-        "date": "Thu, 11 Jun 2020 17:40:57 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/pl4GX8R7uHI/index.html",
-        "positive": 0.067,
-        "neutral": 0.832,
-        "negative": 0.101,
-        "overall": -0.4019
-    },
-    {
-        "title": "Military data reveals dangerous reality for black service members and veterans",
-        "description": "Top US military officials are seeking to reassure the nation's roughly two million active duty and reserve personnel that they are committed to addressing issues of racial inequality across the branches following George Floyd's death and protests across the country.",
-        "date": "Sun, 14 Jun 2020 15:52:11 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/v-75QqmICxo/index.html",
-        "positive": 0.12,
-        "neutral": 0.732,
-        "negative": 0.148,
+        "title": "Beijing extends residential lockdowns as coronavirus infections spread",
+        "description": "Authorities in Beijing locked down more residential compounds, had more than 30,000 restaurants disinfected and tightened outbound travel as the Chinese capital's latest coronavirus outbreak continued to spread Tuesday, with more than 100 people now infected.",
+        "date": "Tue, 16 Jun 2020 18:49:53 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/kQFaoMe4uq0/index.html",
+        "positive": 0.033,
+        "neutral": 0.897,
+        "negative": 0.07,
         "overall": -0.4019
     },
     {
@@ -850,74 +780,54 @@
         "overall": -0.4137
     },
     {
-        "title": "Coronavirus: London bus driver on working during pandemic",
-        "description": "British Iraqi bus driver Susan on overcoming her fears to work while coronavirus was surging across the UK.",
-        "date": "Fri, 12 Jun 2020 23:19:34 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-53011832",
-        "positive": 0.0,
-        "neutral": 0.896,
-        "negative": 0.104,
+        "title": "Lawyers sue to stop Trump's Tulsa campaign rally over virus fears",
+        "description": "A group of Tulsa lawyers have filed a lawsuit to stop President Donald Trump from hosting a campaign rally in the Oklahoma city on Saturday unless the organizers agree to take steps to adhere to his administration's own social distancing recommendations to limit the spread of coronavirus.",
+        "date": "Tue, 16 Jun 2020 23:33:42 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Ll4xqPWt5Ao/index.html",
+        "positive": 0.042,
+        "neutral": 0.853,
+        "negative": 0.105,
         "overall": -0.4215
     },
     {
-        "title": "Rio cartels go from running drugs to pushing medication",
-        "description": "Coronavirus rages on the edges of Rio de Janeiro -- in the hills and slums run by drug gangs, where police dare not go unless on an armed raid.",
-        "date": "Sat, 13 Jun 2020 17:41:40 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/MdBYdKx0fZM/index.html",
-        "positive": 0.0,
-        "neutral": 0.921,
-        "negative": 0.079,
+        "title": "What the pandemic means for our summers",
+        "description": "Every day we are bombarded with new numbers -- 20,000 new infections and 800-1,000 new deaths every day; projections such as the total US death toll reaching 130,000 by July 4.",
+        "date": "Tue, 16 Jun 2020 10:25:00 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/KouEVhllYFw/index.html",
+        "positive": 0.044,
+        "neutral": 0.86,
+        "negative": 0.096,
         "overall": -0.4767
     },
     {
-        "title": "My Money: 'We are \u00a3200 to \u00a3300 a month worse off'",
-        "description": "Laura Tarver from Oxford takes us through her weekly spending during the coronavirus pandemic.",
-        "date": "Sat, 13 Jun 2020 23:25:58 GMT",
-        "link": "https://www.bbc.co.uk/news/business-52972771",
+        "title": "Analysis: Why will no one in the White House wear a mask?",
+        "description": "In the Rose Garden on Tuesday afternoon, President Donald Trump announced an executive order designed to make police more accountable to the communities they serve. He did so without a mask on. And by the look of a video the White House sent out on Twitter shortly afterward, almost no one in attendance wore a mask either.",
+        "date": "Tue, 16 Jun 2020 22:26:05 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Xu8WOXYtejQ/index.html",
         "positive": 0.0,
-        "neutral": 0.876,
-        "negative": 0.124,
-        "overall": -0.4767
-    },
-    {
-        "title": "Djokovic cries in front of home fans after victory",
-        "description": "World number one Novak Djokovic is brought to tears after bowing out of his Adria Tour with victory over German Alexander Zverev in front of home fans.",
-        "date": "Sun, 14 Jun 2020 20:52:57 GMT",
-        "link": "https://www.bbc.co.uk/sport/tennis/53043628",
-        "positive": 0.034,
-        "neutral": 0.844,
-        "negative": 0.121,
-        "overall": -0.5106
-    },
-    {
-        "title": "This could be the next major retailer facing bankruptcy",
-        "description": "With more than 10 million men out of work and millions more working from home, perhaps indefinitely, this is not the best time to be selling men's dress clothes.",
-        "date": "Sun, 14 Jun 2020 17:40:05 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/inQGUqUTWTA/index.html",
-        "positive": 0.0,
-        "neutral": 0.914,
-        "negative": 0.086,
-        "overall": -0.5216
-    },
-    {
-        "title": "Polls show shift toward Democrats amid protests",
-        "description": "\u2022 Analysis: Trump used his platform to hurt a US business. Most people tuned him out\n\u2022 Tapper to Kudlow: This is as swampy as I can imagine\n\u2022 These Republicans may vote for Biden",
-        "date": "Sun, 14 Jun 2020 19:27:55 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/aiKtIn8TEzw/index.html",
-        "positive": 0.0,
-        "neutral": 0.914,
-        "negative": 0.086,
+        "neutral": 0.934,
+        "negative": 0.066,
         "overall": -0.5267
     },
     {
-        "title": "Clyburn says he does not support defunding the police",
-        "description": "Democratic South Carolina Rep. James Clyburn on Sunday said he does not support calls to defund the police, saying instead to restructure law enforcement.",
-        "date": "Sun, 14 Jun 2020 18:16:06 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/3zhjKRiFyRM/index.html",
-        "positive": 0.0,
-        "neutral": 0.869,
-        "negative": 0.131,
-        "overall": -0.5448
+        "title": "A Bee C: Scientists translate honeybee queen duets",
+        "description": "Queens \"quack\" when ready to hatch - but if two are free at the same time, they fight to the death.",
+        "date": "Tue, 16 Jun 2020 05:08:49 GMT",
+        "link": "https://www.bbc.co.uk/news/science-environment-53029218",
+        "positive": 0.168,
+        "neutral": 0.595,
+        "negative": 0.237,
+        "overall": -0.5499
+    },
+    {
+        "title": "Atatiana Jefferson: 'Why I will no longer call the police'",
+        "description": "When James Smith called police to check his neighbour was OK, she ended up dead. Never again, he says.",
+        "date": "Mon, 15 Jun 2020 23:29:12 GMT",
+        "link": "https://www.bbc.co.uk/news/stories-53052917",
+        "positive": 0.088,
+        "neutral": 0.718,
+        "negative": 0.194,
+        "overall": -0.5525
     },
     {
         "title": "Your tributes to those who have died",
@@ -930,114 +840,104 @@
         "overall": -0.5574
     },
     {
-        "title": "A surprise lockdown apology from my ex",
-        "description": "Have the long hours of isolation during coronavirus lockdown led people to reflect on failed relationships?",
-        "date": "Sun, 07 Jun 2020 23:25:52 GMT",
-        "link": "https://www.bbc.co.uk/news/stories-52872380",
-        "positive": 0.125,
-        "neutral": 0.646,
-        "negative": 0.228,
-        "overall": -0.5719
+        "title": "These films explore black lives impacted by white authority",
+        "description": "Following the wave of demonstrations sparked by the killing of George Floyd, many of us have been thinking about the history of race in America, and the ongoing narrative of police violence. We are all looking for resources to help better understand the moment.",
+        "date": "Mon, 15 Jun 2020 07:19:31 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Vq-kx2TlJbA/index.html",
+        "positive": 0.09,
+        "neutral": 0.773,
+        "negative": 0.137,
+        "overall": -0.5994
     },
     {
-        "title": "Seventeen-foot python put up a fierce fight before being captured in Florida",
-        "description": "Mike Kimmel's no rookie to the python-hunting game. He's captured hundreds of the snakes, which usually measure up to 10 feet long.",
-        "date": "Sun, 14 Jun 2020 20:02:24 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/znvnYvYgtw4/index.html",
+        "title": "Police officers across the US are quitting",
+        "description": "Since George Floyd's death three weeks ago, the role of America's criminal justice system has been catapulted to the forefront of national conversation with thousands calling for sweeping changes within the country's policing system.",
+        "date": "Tue, 16 Jun 2020 14:29:16 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/k4q-Pi3aSJg/index.html",
+        "positive": 0.071,
+        "neutral": 0.776,
+        "negative": 0.153,
+        "overall": -0.5994
+    },
+    {
+        "title": "Airlines ban alcohol in response to Covid-19",
+        "description": "Alcohol sales may have boomed during lockdown, but our return to air travel will be an altogether more sobering experience.",
+        "date": "Tue, 16 Jun 2020 18:21:50 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/-pnG3BZXF9Y/index.html",
         "positive": 0.0,
-        "neutral": 0.862,
-        "negative": 0.138,
-        "overall": -0.5859
+        "neutral": 0.829,
+        "negative": 0.171,
+        "overall": -0.6046
     },
     {
-        "title": "Black Lives Matter: 'Much more that we need to do' to tackle racism - PM",
-        "description": "Boris Johnson launches a commission to tackle all \"aspects of inequality\" in the UK.",
-        "date": "Sun, 14 Jun 2020 21:47:29 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-53045349",
-        "positive": 0.038,
-        "neutral": 0.822,
-        "negative": 0.14,
-        "overall": -0.6124
-    },
-    {
-        "title": "Tucker Carlson ad boycott causes headaches for Fox News",
-        "description": "\"Bye-bye Tucker Carlson!\" T-Mobile CEO Mike Sievert tweeted earlier this week in response to consumers who criticized the advertisers on Carlson's show.",
-        "date": "Fri, 12 Jun 2020 18:46:38 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/rjC_Dq8pna4/index.html",
-        "positive": 0.0,
-        "neutral": 0.846,
-        "negative": 0.154,
-        "overall": -0.6239
-    },
-    {
-        "title": "A Kentucky tattoo shop is offering to cover up hate and gang symbols for free",
-        "description": "A tattoo parlor in Kentucky is using ink to unite communities across the country by offering free appointments to anyone who wants to cover up their hate or gang symbol tattoos.",
-        "date": "Sun, 14 Jun 2020 20:55:18 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/MMgQGa7vtjs/index.html",
-        "positive": 0.064,
-        "neutral": 0.793,
-        "negative": 0.143,
+        "title": "It's time to get back to non-Covid health care",
+        "description": "Near the outset of the grueling war against Covid-19,  President Donald Trump directed my agency, the Centers for Medicare & Medicaid Services (CMS), to recommend the postponement of non-emergency elective surgeries and procedures. The looming threat of a shortage of personal protective equipment and other supplies for health care workers in the face of a surge in cases made this the right call under the circumstances.",
+        "date": "Tue, 16 Jun 2020 15:26:58 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/XglSzecVA84/index.html",
+        "positive": 0.07,
+        "neutral": 0.798,
+        "negative": 0.133,
         "overall": -0.6249
     },
     {
-        "title": "Opinion: The myth Trump is modeling",
-        "description": "King Canute got a bad rap. The Viking chief who ruled England, Denmark and Norway in the 11th Century became infamous for a stunt that historians believe was misunderstood, if it even happened: sitting grandly in a throne at the seashore and ordering the ocean to stop the incoming waves. But the myth of the leader who tried to hold back the tide seemed to apply this week to the President of the United States.",
-        "date": "Sun, 14 Jun 2020 15:45:25 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/8ieeJ7tCMZc/index.html",
-        "positive": 0.033,
-        "neutral": 0.87,
-        "negative": 0.097,
-        "overall": -0.6486
-    },
-    {
-        "title": "Sushant Singh Rajput: Bollywood actor dies at 34",
-        "description": "The film and television actor was found dead in his apartment in the city of Mumbai, police said.",
-        "date": "Sun, 14 Jun 2020 12:52:19 GMT",
-        "link": "https://www.bbc.co.uk/news/world-asia-india-53041878",
+        "title": "Coronavirus: \u2018I\u2019ve applied for more than 100 jobs\u2019",
+        "description": "Kayleigh Rennix is among thousands of people looking for work during the coronavirus crisis.",
+        "date": "Mon, 15 Jun 2020 23:01:03 GMT",
+        "link": "https://www.bbc.co.uk/news/business-53026175",
         "positive": 0.0,
-        "neutral": 0.848,
-        "negative": 0.152,
-        "overall": -0.6486
+        "neutral": 0.83,
+        "negative": 0.17,
+        "overall": -0.6249
     },
     {
-        "title": "Far-right groups target anti-racism protests in London and Paris",
-        "description": "Far-right groups bombarded police with bottles and occasionally scuffled violently with officers as they staged a counter-protest to anti-racism Black Lives Matter (BLM) demonstrations in central London.",
-        "date": "Sun, 14 Jun 2020 09:11:52 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/U9Wba5scFRM/index.html",
-        "positive": 0.029,
-        "neutral": 0.826,
-        "negative": 0.144,
-        "overall": -0.651
-    },
-    {
-        "title": "Man charged over urinating at PC Keith Palmer memorial",
-        "description": "Andrew Banks, of Stansted, Essex has been charged with outraging public decency.",
-        "date": "Sun, 14 Jun 2020 21:45:20 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-london-53045555",
+        "title": "India-China dispute: The border row explained in 400 words",
+        "description": "Here's what you need to know about a border dispute that has turned deadly high in the Himalayas.",
+        "date": "Tue, 16 Jun 2020 21:29:08 GMT",
+        "link": "https://www.bbc.co.uk/news/world-asia-53062484",
         "positive": 0.0,
-        "neutral": 0.72,
-        "negative": 0.28,
-        "overall": -0.6808
+        "neutral": 0.81,
+        "negative": 0.19,
+        "overall": -0.6597
     },
     {
-        "title": "Coronavirus: Island isolation over as Greece lets tourists back",
-        "description": "The idyllic islands of Mykonos and Santorini reopen for tourists, but not everyone is happy.",
-        "date": "Sat, 13 Jun 2020 23:04:09 GMT",
-        "link": "https://www.bbc.co.uk/news/world-europe-53006794",
+        "title": "A black officer intervened when a white cop had a suspect in a chokehold. She was fired.",
+        "description": "Officials in Buffalo, New York, want an investigation into the firing of a black police officer who intervened when a white colleague had a suspect in a chokehold.",
+        "date": "Tue, 16 Jun 2020 21:41:43 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/R1H37DTCvtI/index.html",
+        "positive": 0.032,
+        "neutral": 0.798,
+        "negative": 0.17,
+        "overall": -0.6705
+    },
+    {
+        "title": "George Floyd death: 'The same happened to my son'",
+        "description": "An immigrant community divided by the anti-racist protests rocking the US.",
+        "date": "Sun, 14 Jun 2020 23:33:12 GMT",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-53023703",
         "positive": 0.0,
-        "neutral": 0.782,
-        "negative": 0.218,
-        "overall": -0.7047
+        "neutral": 0.746,
+        "negative": 0.254,
+        "overall": -0.7003
     },
     {
-        "title": "Congressman who officiated same-sex wedding loses GOP nomination",
-        "description": "A Republican congressman, whose decision to officiate a same-sex wedding last year angered some local Republicans, lost his party's nomination to a conservative challenger in Saturday's drive-thru convention.",
-        "date": "Sun, 14 Jun 2020 20:12:50 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Mmc6X0b1GMM/index.html",
-        "positive": 0.039,
-        "neutral": 0.755,
-        "negative": 0.206,
-        "overall": -0.7506
+        "title": "Hank Williams Jr.'s daughter dies in crash",
+        "description": "The daughter of country music star Hank Williams Jr. has died in a car crash. Katherine Williams-Dunning was 27.",
+        "date": "Tue, 16 Jun 2020 15:32:22 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/3azsBr5YBno/index.html",
+        "positive": 0.0,
+        "neutral": 0.777,
+        "negative": 0.223,
+        "overall": -0.743
+    },
+    {
+        "title": "Opinion: Reimagining policing will make us safer",
+        "description": "The brutal death of George Floyd has rightly trained our eyes on systemic racism and bias in our criminal justice system and the long history of law enforcement's excessive use of force, which is most often aimed at black Americans. It is clear that nothing short of a complete transformation of policing is necessary to ensure safety for the people of our country.",
+        "date": "Tue, 16 Jun 2020 17:01:43 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/zbYpP2x5dK8/index.html",
+        "positive": 0.131,
+        "neutral": 0.676,
+        "negative": 0.194,
+        "overall": -0.7579
     },
     {
         "title": "Coronavirus: How dangerous is lifting lockdown?",
@@ -1050,24 +950,14 @@
         "overall": -0.7622
     },
     {
-        "title": "How Melania Trump is avoiding the traditional first lady role in a time of national crisis",
-        "description": "When a country is hurting at its core, or missteps made or when messages have fallen through, that's traditionally when the first lady steps in.",
-        "date": "Sat, 13 Jun 2020 22:36:22 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/agSRtBcK0Zo/index.html",
-        "positive": 0.0,
-        "neutral": 0.822,
-        "negative": 0.178,
-        "overall": -0.765
-    },
-    {
-        "title": "Racism in the UK: 'I feel like an alien'",
-        "description": "Four black men speak to the BBC's Ashley John-Baptiste about their experiences of racism in daily life.",
-        "date": "Fri, 12 Jun 2020 00:54:01 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-53002818",
-        "positive": 0.076,
-        "neutral": 0.673,
-        "negative": 0.251,
-        "overall": -0.7717
+        "title": "CIA cyber weapons stolen in historic breach due to 'woefully lax security'",
+        "description": "The largest theft of data in CIA history happened because a specialized unit within the agency was so focused on building cyber weapons that an employee took advantage of \"woefully lax\" security and gave secret hacking tools to WikiLeaks, according to an internal report released on Tuesday.",
+        "date": "Tue, 16 Jun 2020 22:01:39 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/kzBgDt4d1kA/index.html",
+        "positive": 0.109,
+        "neutral": 0.689,
+        "negative": 0.202,
+        "overall": -0.7673
     },
     {
         "title": "Coronavirus: Are protests legal amid lockdown?",
@@ -1080,14 +970,54 @@
         "overall": -0.782
     },
     {
-        "title": "Journalist partially blinded while covering protests: There's no way they could have mistaken me for anything but press",
-        "description": "The final photos journalist Linda Tirado took around midnight on May 30, while covering the protests in Minneapolis, show what appears to be a police officer aiming a foam bullet gun right at her.",
-        "date": "Sun, 14 Jun 2020 21:19:21 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Yojrn6y-hcA/index.html",
+        "title": "India-China clash: 20 Indian troops killed in Ladakh fighting",
+        "description": "It is the first deadly skirmish in decades between the two regional powers at their disputed border.",
+        "date": "Tue, 16 Jun 2020 20:20:53 GMT",
+        "link": "https://www.bbc.co.uk/news/world-asia-53061476",
         "positive": 0.0,
-        "neutral": 0.811,
-        "negative": 0.189,
-        "overall": -0.8047
+        "neutral": 0.769,
+        "negative": 0.231,
+        "overall": -0.7845
+    },
+    {
+        "title": "PG&E pleads guilty to 85 counts in 2018 Camp Fire",
+        "description": "California utility Pacific Gas and Electric Company pleaded guilty Tuesday to 84 counts of involuntary manslaughter and one count of unlawfully starting the Camp Fire.",
+        "date": "Tue, 16 Jun 2020 22:32:43 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/0PsNl2XvKPg/index.html",
+        "positive": 0.0,
+        "neutral": 0.795,
+        "negative": 0.205,
+        "overall": -0.7906
+    },
+    {
+        "title": "New York City crime stats show spike in burglaries and murders so far this year",
+        "description": "Murder, burglary and grand larceny auto crimes have spiked in New York City this past month compared to the same period last year, while rape, robbery and grand larceny crimes have declined, according to New York Police Department statistics.",
+        "date": "Tue, 16 Jun 2020 21:49:32 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/SZ3onHbXQts/index.html",
+        "positive": 0.091,
+        "neutral": 0.725,
+        "negative": 0.184,
+        "overall": -0.802
+    },
+    {
+        "title": "Pentagon warns China is exploiting Covid-19 to wage 'economic warfare' on the US",
+        "description": "Defense officials are increasingly concerned China is using the coronavirus crisis to gain stakes in strategically important businesses as the pandemic leaves struggling companies urgently in need of capital.",
+        "date": "Tue, 16 Jun 2020 23:10:40 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/A-UKo4PkjWw/index.html",
+        "positive": 0.099,
+        "neutral": 0.646,
+        "negative": 0.255,
+        "overall": -0.802
+    },
+    {
+        "title": "These are the ordinary things they were doing when they were killed by police",
+        "description": "\u2022 Live updates: Lawyer for Floyd family explains why clients didn't meet with Trump\n\u2022 Analysis: Trump isn't interested in police reform\n\u2022 Black sheriff says Brooks shooting was justified\n\u2022 Opinion: Trump's speech followed US policing's logic of fear",
+        "date": "Wed, 17 Jun 2020 00:18:50 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/sIJ5_Mfzve8/index.html",
+        "positive": 0.046,
+        "neutral": 0.784,
+        "negative": 0.17,
+        "overall": -0.8052
     },
     {
         "title": "Coronavirus: What is a recession?",
@@ -1100,143 +1030,53 @@
         "overall": -0.8053
     },
     {
-        "title": "Harlow 'drive-by' shooting: Man in 50s dies",
-        "description": "The victim, in his 50s, one of three hurt in the gun attack after a party in Harlow, Essex.",
-        "date": "Sun, 14 Jun 2020 16:40:12 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-essex-53043067",
-        "positive": 0.083,
-        "neutral": 0.581,
-        "negative": 0.336,
-        "overall": -0.8074
-    },
-    {
-        "title": "Madeleine McCann: New evidence 'significant' - Portuguese police",
-        "description": "A Portuguese police source rejects criticism over their investigation into the missing three-year-old.",
-        "date": "Sun, 14 Jun 2020 17:11:09 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-53043818",
-        "positive": 0.0,
-        "neutral": 0.658,
-        "negative": 0.342,
-        "overall": -0.8074
-    },
-    {
-        "title": "Doug Jones says it's tough for Jeff Sessions to be on 'right side of history'",
-        "description": "Alabama Democratic Sen. Doug Jones and former Attorney General Jeff Sessions tussled on Twitter over a congressional proposal to strip Confederate leaders' names from military assets, with the Democratic senator defending his vote and the man vying to unseat him arguing such a move \"betrays the character and decency of every soldier who fought for the South.\"",
-        "date": "Sun, 14 Jun 2020 16:27:19 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/mGjwrQaOHDQ/index.html",
-        "positive": 0.022,
-        "neutral": 0.842,
-        "negative": 0.136,
-        "overall": -0.8225
-    },
-    {
-        "title": "Surfing tragedy that stunned a Dutch beach community",
-        "description": "Five young, skilled surfers were overcome by freak foam conditions in Scheveningen.",
-        "date": "Thu, 11 Jun 2020 00:45:33 GMT",
-        "link": "https://www.bbc.co.uk/news/world-europe-52920048",
-        "positive": 0.0,
-        "neutral": 0.633,
-        "negative": 0.367,
-        "overall": -0.8271
-    },
-    {
-        "title": "Lesotho former PM and wife paid gang to execute his estranged wife, court papers say",
-        "description": "Lesotho's ex-prime minister Thomas Thabane and his wife paid a local criminal gang to kill his estranged wife three years ago, according to recently released court documents.",
-        "date": "Sat, 13 Jun 2020 15:31:23 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/_Ffc48QSIOE/index.html",
-        "positive": 0.0,
-        "neutral": 0.824,
-        "negative": 0.176,
-        "overall": -0.8442
-    },
-    {
-        "title": "The Salisbury Poisonings: TV drama revisits Novichok attack 'horror'",
-        "description": "A BBC mini-series about the 2018 Novichok attack is not your average spy thriller, its makers say.",
-        "date": "Sat, 13 Jun 2020 23:24:21 GMT",
-        "link": "https://www.bbc.co.uk/news/entertainment-arts-52962640",
+        "title": "Navajo Nation: The people battling America's worst coronavirus outbreak",
+        "description": "The challenges of life in the Navajo Nation have made containing Covid-19 even more difficult.",
+        "date": "Mon, 15 Jun 2020 23:07:13 GMT",
+        "link": "https://www.bbc.co.uk/news/world-us-canada-52941984",
         "positive": 0.044,
-        "neutral": 0.656,
-        "negative": 0.3,
-        "overall": -0.8481
+        "neutral": 0.649,
+        "negative": 0.307,
+        "overall": -0.8268
     },
     {
-        "title": "Atlanta officer who fatally shot Brooks has been terminated",
-        "description": "The Atlanta police officer who fatally shot Rayshard Brooks has been terminated, Atlanta police spokesman Carlos Campos told CNN Saturday. A second officer involved has been placed on administrative duty, Campos said.",
-        "date": "Sun, 14 Jun 2020 04:20:19 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/NoDiENWpx24/index.html",
+        "title": "'I'm sorry for being racist when I was younger'",
+        "description": "Two young people who were racist when they were younger explain why they have changed.",
+        "date": "Tue, 16 Jun 2020 01:26:10 GMT",
+        "link": "https://www.bbc.co.uk/news/newsbeat-52992534",
         "positive": 0.0,
-        "neutral": 0.815,
-        "negative": 0.185,
-        "overall": -0.8555
+        "neutral": 0.671,
+        "negative": 0.329,
+        "overall": -0.8519
     },
     {
-        "title": "Crisis Text Line CEO fired amid staff revolt",
-        "description": "Crisis Text Line, a high-profile crisis hotline backed by millions of dollars from some of tech's biggest names, said Friday that the nonprofit's board of directors \"voted to terminate\" its CEO and founder effective immediately following accusations of inappropriate conduct, according to a letter from the board sent to staffers and leadership and shared with CNN Business.",
-        "date": "Sat, 13 Jun 2020 01:30:33 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/3yioVRT7mL0/index.html",
-        "positive": 0.087,
-        "neutral": 0.727,
-        "negative": 0.186,
-        "overall": -0.8591
-    },
-    {
-        "title": "Indian actor Sushant Singh Rajput found dead in his Mumbai home",
-        "description": "Indian actor Sushant Singh Rajput was found dead in his Mumbai residence on Sunday, according to a statement from Mumbai police. He was 34.",
-        "date": "Sun, 14 Jun 2020 20:07:48 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/rCTn8W3R1l4/index.html",
+        "title": "Google kicked ZeroHedge off its ad platform and warned the Federalist",
+        "description": "Google has taken action against two news websites over what it says are offensive remarks in their comment sections, banning one site from making money off its advertising platforms and threatening to ban the other.",
+        "date": "Tue, 16 Jun 2020 22:52:21 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/iHymcsAdSkg/index.html",
         "positive": 0.0,
-        "neutral": 0.783,
-        "negative": 0.217,
-        "overall": -0.8625
+        "neutral": 0.772,
+        "negative": 0.228,
+        "overall": -0.9022
     },
     {
-        "title": "Trump kicks LGBTQ community while we're down",
-        "description": "The Trump administration yanked the rug out from under more than a million Americans on Friday by removing protections that prohibit discrimination in health care against transgender patients. This move -- announced on the four-year anniversary of a shooting at a gay nightclub in Orland, Florida, in which 49 people died -- is cruel and unusual punishment from an administration that chooses to represent a small and extreme fringe pushing to further marginalize the already disadvantaged.",
-        "date": "Sat, 13 Jun 2020 20:24:18 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/fqSeSFPwuJc/index.html",
-        "positive": 0.036,
-        "neutral": 0.816,
-        "negative": 0.149,
-        "overall": -0.8779
+        "title": "As protesters decry Brooks' death, a police union official says due process must be served",
+        "description": "Newly released records show the officer who shot and killed Rayshard Brooks in Atlanta last week had several citizen complaints against him prior to the incident.",
+        "date": "Tue, 16 Jun 2020 23:33:58 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/gXHj2n7tWpI/index.html",
+        "positive": 0.0,
+        "neutral": 0.729,
+        "negative": 0.271,
+        "overall": -0.9186
     },
     {
-        "title": "Fox News publishes digitally altered and misleading images of Seattle demonstrations",
-        "description": "Fox News published digitally altered and misleading images on its website's homepage Friday that made a demonstration in Seattle, in which a group of largely peaceful Black Lives Matter protesters have occupied six city blocks, appear violent and dangerous.",
-        "date": "Sun, 14 Jun 2020 17:18:07 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/DPS2EUXEc6w/index.html",
-        "positive": 0.095,
-        "neutral": 0.634,
-        "negative": 0.27,
-        "overall": -0.8885
-    },
-    {
-        "title": "Greater Manchester illegal raves: Man dies, woman raped and three stabbed",
-        "description": "Two illegal raves attracted about 6,000 people and led to \"tragic consequences\".",
-        "date": "Sun, 14 Jun 2020 14:47:46 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-manchester-53040827",
-        "positive": 0.147,
-        "neutral": 0.443,
-        "negative": 0.41,
-        "overall": -0.8885
-    },
-    {
-        "title": "Refinery29 is reeling from claims of racism and toxic work culture. Employees say it's even worse behind the scenes",
-        "description": "Amid the protests over the death of George Floyd and larger racial inequalities in the US last week, Refinery29 swapped the colors of its website, going from its usual jewel-tone to the Black Lives Matter movement's signature black. It was supposed to be a show of solidarity and of unity between a progressive website aimed at women and the movement.",
-        "date": "Thu, 11 Jun 2020 23:07:14 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/-Oy9tHI2zL8/index.html",
-        "positive": 0.038,
-        "neutral": 0.811,
-        "negative": 0.151,
-        "overall": -0.8934
-    },
-    {
-        "title": "How a new kind of policing saved America's most dangerous city",
-        "description": "In the wake of the tragic murder of George Floyd, the City Council in Minneapolis announced that it will disband its police department. The decision aims to reverse the unacceptable status quo, and face the reality of decades of failed attempts to advance police reform.",
-        "date": "Sat, 13 Jun 2020 22:12:38 GMT",
-        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/_Q93VJwgVls/index.html",
-        "positive": 0.041,
-        "neutral": 0.704,
-        "negative": 0.255,
-        "overall": -0.9392
+        "title": "Twenty Indian soldiers dead after clash with China along disputed border",
+        "description": "Three Indian soldiers were killed during a \"violent face-off\" with Chinese troops along the countries' de facto border in the Himalayas late Monday, the Indian army said in a statement.",
+        "date": "Tue, 16 Jun 2020 21:30:50 GMT",
+        "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/S9y1eR-jOvo/index.html",
+        "positive": 0.0,
+        "neutral": 0.692,
+        "negative": 0.308,
+        "overall": -0.9442
     }
 ]
