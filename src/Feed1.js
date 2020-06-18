@@ -2,18 +2,17 @@ import React from 'react'
 import feed from './data/displayFeed.json'
 import Card from 'react-bootstrap/Card'
 
-class Feed extends React.Component {
+class Feed1 extends React.Component {
   render() {
     return (
       feed.map((feed) => (
         <Card style={{ width: '23rem' }} className="card">
           <Card.Body>
-            <Card.Title className="cardTitle"> {feed.title} </Card.Title>      
+            <Card.Title className="cardTitle"> {feed.title} </Card.Title>     
 
-            <Card.Text> Overall Score: {feed.overall} </Card.Text> 
-            <Card.Text> Positive Score: {feed.positive} </Card.Text> 
-            <Card.Text> Neutral Score: {feed.neutral} </Card.Text> 
-            <Card.Text> Negative Score: {feed.negative} </Card.Text> 
+            <Card.Text className="cardDescription"> {feed.description} </Card.Text>  
+
+            <Card.Text> Key words: {feed.keywords} </Card.Text> 
 
             <Card.Text> {feed.date} </Card.Text>      
 
@@ -42,4 +41,4 @@ class Feed extends React.Component {
   }
 }
 
-export default Feed
+export default Feed1

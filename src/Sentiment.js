@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 import logo from './logo.svg'
 import './App.css'
 import CardColumns from 'react-bootstrap/CardColumns'
-import Feed from './Feed.js'
+import Feed1 from './Feed1.js'
 
 class Sentiment extends React.Component {
   render() {
@@ -23,7 +23,7 @@ class Sentiment extends React.Component {
         </header>
 
         <body className="App-body" id="body">
-          <CardColumns className="cardColumns"> <Feed/> </CardColumns>
+          <CardColumns className="cardColumns"> <Feed1/> </CardColumns>
         </body>
       </div>
     );
