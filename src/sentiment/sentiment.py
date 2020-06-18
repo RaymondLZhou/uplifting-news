@@ -7,19 +7,12 @@ from sklearn.decomposition import LatentDirichletAllocation
 
 lemmatizer = WordNetLemmatizer()
 
-def print_top_words(model, feature_names, n_top_words):
-    for index, topic in enumerate(model.components_):
-        message = "\nTopic #{}: ".format(index)
-        message += " ".join([feature_names[i] for i in topic.argsort()[:-n_top_words - 1 :-1]])
-        print(message)
-        print("="*70)
-
 class LemmaCountVectorizer(CountVectorizer):
     def build_analyzer(self):
         analyzer = super(LemmaCountVectorizer, self).build_analyzer()
         return lambda doc: (lemmatizer.lemmatize(w) for w in analyzer(doc))
 
-def createJSON(newsList):
+def positivityScores(newsList):
     sia = SentimentIntensityAnalyzer()
     sentiments = []
 
@@ -41,47 +34,64 @@ def createJSON(newsList):
 
     return sentiments
 
+def train(newsList):
+    articles = [news["text"] for news in newsList]
+    tf_vectorizer = LemmaCountVectorizer(max_df=0.95, min_df=2, stop_words='english', decode_error='ignore')
+    tf = tf_vectorizer.fit_transform(articles)
+
+    lda = LatentDirichletAllocation(n_components=len(newsList), max_iter=5, learning_method = 'online', learning_offset = 50., random_state = 0)
+    lda.fit(tf)
+
+    tf_feature_names = tf_vectorizer.get_feature_names()
+
+    return lda, tf_feature_names
+
+def keywords(lda):
+    messages = []
+    n_top_words = 6
+
+    for index, topic in enumerate(lda.components_):
+        foo = index
+        message = ""
+        message += " ".join([tf_feature_names[i] for i in topic.argsort()[:-n_top_words - 1 :-1]])
+        messages.append(message)
+    
+    return messages
+
+def consolidate(scores, messages):
+    sentiments = []
+
+    for score, message in zip(scores, messages):
+        sentiment = {
+            "title": score["title"],
+            "description": score["description"],
+            "date": score["date"],
+            "link": score["link"],
+            "positive": score["positive"],
+            "neutral": score["neutral"],
+            "negative": score["negative"],
+            "overall": score["overall"],
+            "keywords": message,
+        }
+
+        sentiments.append(sentiment)
+    
+    return sentiments
+
+def process(sentiments):
+    sentiments.sort(key=lambda x: x['overall'])
+    sentiments.reverse()
+
 df = pd.read_csv("../data/feed.csv")
 newsList = df.to_dict('records')
 
-articles = [news["text"] for news in newsList]
-tf_vectorizer = LemmaCountVectorizer(max_df=0.95, min_df=2, stop_words='english', decode_error='ignore')
-tf = tf_vectorizer.fit_transform(articles)
+scores = positivityScores(newsList)
+lda, tf_feature_names = train(newsList)
 
-lda = LatentDirichletAllocation(n_components=110, max_iter=5, learning_method = 'online', learning_offset = 50., random_state = 0)
-lda.fit(tf)
+messages = keywords(lda)
 
-n_top_words = 40
-tf_feature_names = tf_vectorizer.get_feature_names()
-# print_top_words(lda, tf_feature_names, n_top_words)
-
-vader = createJSON(newsList)
-messages = []
-
-for index, topic in enumerate(lda.components_):
-    message = ""
-    message += " ".join([tf_feature_names[i] for i in topic.argsort()[:-n_top_words - 1 :-1]])
-    messages.append(message)
-
-sentiments = []
-
-for v, message in zip(vader, messages):
-    sentiment = {
-        "title": v["title"],
-        "description": v["description"],
-        "date": v["date"],
-        "link": v["link"],
-        "positive": v["positive"],
-        "neutral": v["neutral"],
-        "negative": v["negative"],
-        "overall": v["overall"],
-        "keywords": message,
-    }
-
-    sentiments.append(sentiment)
-
-sentiments.sort(key=lambda x: x['overall'])
-sentiments.reverse()
+sentiments = consolidate(scores, messages)
+process(sentiments)
 
 with open("../data/displayFeed.json", "w") as outfile:
     json.dump(sentiments, outfile, indent=4)
