@@ -95,10 +95,19 @@ html {
 .cardDescription {
   border-top: 1px solid #61dafb;
   padding-top: 10px;
-  height: 156px;
+  height: 150px;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
   -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
+}
+
+.cardOverallScore {
+  border-top: 1px solid #61dafb;
+  padding-top: 10px;
+}
+
+.cardBody {
+  height: 250px;
 }

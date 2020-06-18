@@ -9,10 +9,12 @@ class Feed1 extends React.Component {
         <Card style={{ width: '23rem' }} className="card">
           <Card.Body>
             <Card.Title className="cardTitle"> {feed.title} </Card.Title>     
-
+            
+            <div className="cardBody">
             <Card.Text className="cardDescription"> {feed.description} </Card.Text>  
 
-            <Card.Text> Key words: {feed.keywords} </Card.Text> 
+            <Card.Text> Key words: {feed.keywords} </Card.Text>
+            </div>
 
             <Card.Text> {feed.date} </Card.Text>      
 

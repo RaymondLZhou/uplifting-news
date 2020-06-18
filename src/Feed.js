@@ -10,10 +10,12 @@ class Feed extends React.Component {
           <Card.Body>
             <Card.Title className="cardTitle"> {feed.title} </Card.Title>      
 
-            <Card.Text> Overall Score: {feed.overall} </Card.Text> 
+            <div className="cardBody">
+            <Card.Text className="cardOverallScore"> Overall Score: {feed.overall} </Card.Text> 
             <Card.Text> Positive Score: {feed.positive} </Card.Text> 
             <Card.Text> Neutral Score: {feed.neutral} </Card.Text> 
-            <Card.Text> Negative Score: {feed.negative} </Card.Text> 
+            <Card.Text className="cardNegativeScore"> Negative Score: {feed.negative} </Card.Text> 
+            </div>
 
             <Card.Text> {feed.date} </Card.Text>      
 
