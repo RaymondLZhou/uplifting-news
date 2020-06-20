@@ -14,7 +14,7 @@ lda, tf_feature_names = learn.train(newsList)
 messages = extract.keywords(lda, tf_feature_names)
 
 sentiments = combine.consolidate(scores, messages)
-combine.process(sentiments)
+sentiments = combine.process(sentiments)
 
 with open("../data/displayFeed.json", "w") as outfile:
     json.dump(sentiments, outfile, indent=4)

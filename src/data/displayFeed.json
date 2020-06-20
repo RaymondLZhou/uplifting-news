@@ -1120,27 +1120,5 @@
         "negative": 0.268,
         "overall": -0.9246,
         "keywords": "people, seat, person, airline, number"
-    },
-    {
-        "title": "Boy, 14, charged with terror attack plot",
-        "description": "The boy, who cannot be named, is accused of involvement in the preparation of a terrorist act.",
-        "date": "Wed, 17 Jun 2020 19:58:30 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-england-hampshire-53086243",
-        "positive": 0.0,
-        "neutral": 0.528,
-        "negative": 0.472,
-        "overall": -0.9349,
-        "keywords": "mountain, railway, misdemeanor, store, terror"
-    },
-    {
-        "title": "Sturgeon condemns 'racist thugs' after Glasgow protests",
-        "description": "The first minister criticises disorder in Glasgow's George Square as six men are arrested.",
-        "date": "Wed, 17 Jun 2020 20:32:32 GMT",
-        "link": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-53086488",
-        "positive": 0.0,
-        "neutral": 0.493,
-        "negative": 0.507,
-        "overall": -0.9371,
-        "keywords": "enable, hanging, happy, hole, pension"
     }
 ]
