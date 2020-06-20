@@ -75,7 +75,7 @@ html {
   border: 2px solid #61dafb;
   padding: 15px;
   float: left;
-  height: 480px;
+  height: 520px;
   font-size: calc(10px + 2vmin);
 }
 
@@ -95,11 +95,11 @@ html {
 .cardDescription {
   border-top: 1px solid #61dafb;
   padding-top: 10px;
-  height: 160px;
+  height: 125px;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;
-  -webkit-line-clamp: 5;
+  -webkit-line-clamp: 4;
   -webkit-box-orient: vertical;
 }
 
@@ -109,5 +109,5 @@ html {
 }
 
 .cardBody {
-  height: 250px;
+  height: 225px;
 }
