@@ -15,7 +15,7 @@ class Sentiment extends React.Component {
           
           <Link to="/">
             <button className="button">
-             Link to First Page
+             See sentiment
             </button>
           </Link>
 

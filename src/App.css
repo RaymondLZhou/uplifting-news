@@ -55,7 +55,7 @@ html {
   transition-duration: 0.3s;
   cursor: pointer;
   font-size: calc(5px + 2vmin);
-  width: 190px;
+  width: 150px;
 }
 
 .button:hover {
@@ -95,7 +95,7 @@ html {
 .cardDescription {
   border-top: 1px solid #61dafb;
   padding-top: 10px;
-  height: 150px;
+  height: 160px;
   overflow: hidden;
   text-overflow: ellipsis;
   display: -webkit-box;

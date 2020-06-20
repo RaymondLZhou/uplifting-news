@@ -15,7 +15,7 @@ class App extends React.Component {
 
           <Link to="/sentiment">
             <button className="button">
-             Link to Second Page
+             See keywords
             </button>
           </Link>
 
