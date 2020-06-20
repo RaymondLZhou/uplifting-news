@@ -2,6 +2,11 @@ html {
   scroll-behavior: smooth;
 }
 
+p.title {
+  font-size: calc(25px + 2vmin);
+  margin-bottom: 5px;
+}
+
 .App {
   font-size: calc(15px + 2vmin);
   color: white;

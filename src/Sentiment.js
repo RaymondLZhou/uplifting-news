@@ -9,9 +9,10 @@ class Sentiment extends React.Component {
     return (
       <div className="App">
         <header className="App-header" id="header">
-          <img src={logo} className="App-logo" alt="logo" />
+          <img src={logo} className="App-logo" alt="logo"/>
 
-          <p> Uplifting News </p>
+          <p className="title"> Uplifting News </p>
+          <p> See the most positive news first </p>
 
           <a className="App-link" href="#body" id="spaces"> See News </a>
         </header>
