@@ -2,6 +2,8 @@
 
 React application which uses Python to scrape news articles, performing sentiment analysis to measure positivity and topic modelling to extract keywords.
 
+The application is hosted at [https://uplifting-news.web.app/](https://uplifting-news.web.app/) by Firebase.
+
 ## Features
 
 Scrapes the contents of RSS feeds of various news sources. Sorts articles by positivity for display.
@@ -10,9 +12,9 @@ Measures the positivity of news articles based on VADER's sentiment analysis sco
 
 Extracts keywords of each article using latent Dirichlet Allocation to perform topic modelling. 
 
-The Python code for scraping can be found at [src/scraper](/src/scraper).
+The Python code for scraping can be found at [src/scraper](src/scraper). The main file is [src/scraper/scraper.py](src/scraper/scraper.py).
 
-The Python code for sentiment analysis and topic modelling can be found at [src/sentiment](src/sentiment)
+The Python code for sentiment analysis and topic modelling can be found at [src/sentiment](src/sentiment). The main file is [src/sentiment/sentiment.py](src/sentiment/sentiment.py).
 
 ## Getting Started
 
