@@ -55,10 +55,25 @@ html {
   transition-duration: 0.3s;
   cursor: pointer;
   font-size: calc(5px + 2vmin);
-  width: 150px;
+  width: 143px;
 }
 
 .button:hover {
+  background-color: #61dafb;
+  color: white;
+}
+
+.button1 {
+  background-color: white;
+  color: #282c34;
+  border: 2px solid #61dafb;
+  transition-duration: 0.3s;
+  cursor: pointer;
+  font-size: calc(5px + 2vmin);
+  width: 122px;
+}
+
+.button1:hover {
   background-color: #61dafb;
   color: white;
 }

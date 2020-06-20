@@ -1,8 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import { animateScroll as scroll } from "react-scroll";
-import feed from './data/displayFeed.json'
 import Card from 'react-bootstrap/Card'
+import feed from './data/displayFeed.json'
 
 class Feed extends React.Component {
   scrollMore = () => {
@@ -26,11 +26,17 @@ class Feed extends React.Component {
 
             <Link to="/sentiment">
               <button className="button">
-                See sentiment
+                See Sentiment
               </button>
             </Link>
 
-            <button onClick={this.scrollMore}>Scroll down</button>    
+            <button 
+              className="button1"
+              onClick={this.scrollMore}
+              style={{ marginLeft: '6rem' }}
+            >
+                See More
+            </button>    
 
             <Card.Text>
               <a 

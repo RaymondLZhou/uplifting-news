@@ -1,9 +1,14 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
-import feed from './data/displayFeed.json'
+import { animateScroll as scroll } from "react-scroll";
 import Card from 'react-bootstrap/Card'
+import feed from './data/displayFeed.json'
 
 class Feed extends React.Component {
+  scrollMore = () => {
+    scroll.scrollMore(634);
+  };
+
   render() {
     return (
       feed.map((feed) => (
@@ -22,9 +27,17 @@ class Feed extends React.Component {
 
             <Link to="/">
               <button className="button">
-                See keywords
+                See Keywords
               </button>
-            </Link>      
+            </Link>    
+
+            <button 
+              className="button1"
+              onClick={this.scrollMore}
+              style={{ marginLeft: '6rem' }}
+            >
+              See More
+            </button>    
 
             <Card.Text>
               <a 
