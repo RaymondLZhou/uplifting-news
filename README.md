@@ -10,6 +10,10 @@ Measures the positivity of news articles based on VADER's sentiment analysis sco
 
 Extracts keywords of each article using latent Dirichlet Allocation to perform topic modelling. 
 
+The Python code for scraping can be found at [src/scraper](/src/scraper).
+
+The Python code for sentiment analysis and topic modelling can be found at [src/sentiment](src/sentiment)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine.
@@ -35,7 +39,7 @@ The following tools are required.
 
 How to run the application
 
-1. Clone the repo.
+1. Clone the repository.
 2. Run ```npm install``` to build the necessary modules.
 3. Run ```npm start``` to access the application at [http://localhost:3000/](http://localhost:3000/).
 
