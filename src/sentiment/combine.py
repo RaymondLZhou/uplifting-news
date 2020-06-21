@@ -22,4 +22,3 @@ def process(sentiments):
     sentiments.sort(key=lambda x: x['overall'])
     sentiments.reverse()
     return sentiments[:len(sentiments)//3*3]
-    

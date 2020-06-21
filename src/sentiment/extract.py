@@ -10,4 +10,3 @@ def keywords(lda, tf_feature_names):
         messages.append(message)
     
     return messages
-    
