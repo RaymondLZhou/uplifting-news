@@ -61,7 +61,7 @@ To update the news feed
 
 ## Built With
 
-* [React](https://reactjs.org/) - Frond-End User Interface
+* [React](https://reactjs.org/) - Front-End User Interface
 * [VADER (Valence Aware Dictionary and sEntiment Reasoner)](https://www.nltk.org/api/nltk.sentiment.html?highlight=vader#module-nltk.sentiment.vader) - Sentiment Analysis
 * [LDA (latent Dirichlet Allocation)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html) - Topic Modelling
 
