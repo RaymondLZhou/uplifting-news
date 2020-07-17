@@ -11,12 +11,12 @@ Scrapes the contents of RSS feeds of various news sources. Sorts articles by pos
 ![image1](images/image1.png)
 
 
-Measures the positivity of news articles based on VADER's sentiment analysis scores by scraping their contents.
+Measures the positivity of news articles by training a recurrent neural network (RNN).
 
 ![image2](images/image2.png)
 
 
-Extracts keywords of each article using latent Dirichlet Allocation to perform topic modelling. 
+Extracts keywords of each article using Latent Dirichlet Allocation to perform topic modelling. 
 
 ![image3](images/image3.png)
 
@@ -36,13 +36,12 @@ The following tools are required.
 1. npm is needed for installation and can be downloaded [here](https://nodejs.org/en/).
 
 2. Python must be installed, along with the following libraries.
-    * feedparser
-    * requests
+    * Feedparser
+    * Requests
     * BeautifulSoup
     * pandas
-    * time
-    * nltk
-    * sklearn
+    * TensorFlow
+    * Scikit-learn
 
     These can be installed using ```pip install library-name```.
 
@@ -62,8 +61,8 @@ To update the news feed
 ## Built With
 
 * [React](https://reactjs.org/) - Front-End User Interface
-* [VADER (Valence Aware Dictionary and sEntiment Reasoner)](https://www.nltk.org/api/nltk.sentiment.html?highlight=vader#module-nltk.sentiment.vader) - Sentiment Analysis
-* [LDA (latent Dirichlet Allocation)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html) - Topic Modelling
+* [TensorFlow]https://www.tensorflow.org/) - Deep Learning Sentiment Analysis
+* [LDA (Latent Dirichlet Allocation)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html) - Topic Modelling
 
 ## License
 
