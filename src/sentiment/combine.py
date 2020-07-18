@@ -7,9 +7,6 @@ def consolidate(scores, messages):
             "description": score["description"],
             "date": score["date"],
             "link": score["link"],
-            "positive": score["positive"],
-            "neutral": score["neutral"],
-            "negative": score["negative"],
             "overall": score["overall"],
             "keywords": message,
         }

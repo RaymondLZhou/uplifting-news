@@ -25,7 +25,7 @@ def predict_text(text, model, encoder, pad=True):
     encoded_text = tf.cast(encoded_text, tf.float32)
     prediction = model.predict(tf.expand_dims(encoded_text, 0))
 
-    return (prediction[0][0])
+    return (str(prediction[0][0]))
 
 def predict_list(text_list):
     model, encoder = load_data()
@@ -36,11 +36,3 @@ def predict_list(text_list):
         outputs.append(output)
     
     return outputs
-
-text_positive = 'The movie was cool. The animation and the graphics were out of this world. I would recommend this movie.'
-text_negative = 'The movie was not good. The animation and the graphics were terrible. I would not recommend this movie.'
-
-text_list = [text_positive, text_negative]
-
-prediction = predict_list(text_list)
-print(prediction)

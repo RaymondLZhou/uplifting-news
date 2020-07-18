@@ -1,29 +1,27 @@
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
 from sklearn.decomposition import LatentDirichletAllocation
 
 import LemmaCountVectorizer
 
+import evaluate
+
 def positivityScores(newsList):
-    sia = SentimentIntensityAnalyzer()
-    sentiments = []
+    text_list = [news["title"] + news["description"] for news in newsList]
+    sentiments = evaluate.predict_list(text_list)
 
-    for news in newsList:
-        scores = sia.polarity_scores(news["title"] + news["description"])
+    scores = []
 
-        sentiment = {
+    for news, sentiment in zip(newsList, sentiments):
+        score = {
             "title": news["title"],
             "description": news["description"],
             "date": news["date"],
             "link": news["link"],
-            "positive": scores["pos"],
-            "neutral": scores["neu"],
-            "negative": scores["neg"],
-            "overall": scores["compound"]
+            "overall": sentiment
         }
 
-        sentiments.append(sentiment)
+        scores.append(score)
 
-    return sentiments
+    return scores
 
 def train(newsList):
     articles = [news["text"] for news in newsList]
