@@ -28,3 +28,13 @@ assert original_string == sample_string
 
 for index in encoded_string:
     print('{} ----> {}'.format(index, encoder.decode([index])))
+
+BUFFER_SIZE = 10000
+BATCH_SIZE = 64
+
+train_dataset = train_dataset.shuffle(BUFFER_SIZE)
+train_dataset = train_dataset.padded_batch(BATCH_SIZE)
+
+test_dataset = test_dataset.padded_batch(BATCH_SIZE)
+
+
