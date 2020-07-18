@@ -39,8 +39,10 @@ test_dataset = test_dataset.padded_batch(BATCH_SIZE)
 
 model = tf.keras.Sequential([
     tf.keras.layers.Embedding(encoder.vocab_size, 64),
-    tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64)),
+    tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(64,  return_sequences=True)),
+    tf.keras.layers.Bidirectional(tf.keras.layers.LSTM(32)),
     tf.keras.layers.Dense(64, activation='relu'),
+    tf.keras.layers.Dropout(0.5),
     tf.keras.layers.Dense(1)
 ])
 
@@ -48,7 +50,7 @@ model.compile(loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
               optimizer=tf.keras.optimizers.Adam(1e-4),
               metrics=['accuracy'])
 
-history = model.fit(train_dataset, epochs=10, validation_data=test_dataset, validation_steps=30)
+history = model.fit(train_dataset, epochs=5, validation_data=test_dataset, validation_steps=30)
 
 test_loss, test_acc = model.evaluate(test_dataset)
 
@@ -74,5 +76,11 @@ sample_pred_text = ('The movie was cool. The animation and the graphics were out
 predictions = sample_predict(sample_pred_text, pad=True)
 print(predictions)
 
+sample_pred_text = ('The movie was not good. The animation and the graphics were terrible. I would not recommend this movie.')
+predictions = sample_predict(sample_pred_text, pad=True)
+print(predictions)
+
 plot_graphs(history, 'accuracy')
 plot_graphs(history, 'loss')
+
+model.save('../data')
