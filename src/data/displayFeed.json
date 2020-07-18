@@ -4,9 +4,6 @@
         "description": "After Marcus Rashford's successful campaign, what do charities and schools want to happen?",
         "date": "Wed, 17 Jun 2020 14:30:54 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-53079784",
-        "positive": 0.505,
-        "neutral": 0.495,
-        "negative": 0.0,
         "overall": 0.936,
         "keywords": "employer, work, employee, furlough, government"
     },
@@ -15,9 +12,6 @@
         "description": "How charity shop staff are preparing to be on the receiving end of the great Covid clearout.",
         "date": "Thu, 18 Jun 2020 12:32:21 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-essex-53082847",
-        "positive": 0.297,
-        "neutral": 0.703,
-        "negative": 0.0,
         "overall": 0.8658,
         "keywords": "poem, minister, lockdown, word, letter"
     },
@@ -26,9 +20,6 @@
         "description": "Schoolgirl Leah Begg's funny lockdown poem has attracted the praise of Nicola Sturgeon.",
         "date": "Tue, 16 Jun 2020 23:01:37 GMT",
         "link": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-53067673",
-        "positive": 0.329,
-        "neutral": 0.671,
-        "negative": 0.0,
         "overall": 0.8519,
         "keywords": "country, uk, disease, death, estate"
     },
@@ -37,9 +28,6 @@
         "description": "The government in England will now provide free school meals vouchers over the summer holidays.",
         "date": "Wed, 17 Jun 2020 08:38:25 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-53053337",
-        "positive": 0.315,
-        "neutral": 0.685,
-        "negative": 0.0,
         "overall": 0.8481,
         "keywords": "coronavirus, disease, government, people, 2m"
     },
@@ -48,9 +36,6 @@
         "description": "Call it love. Call it romance. Call it sensuality. Go ahead and call it old-fashioned lust if you want.",
         "date": "Sat, 20 Jun 2020 04:30:33 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/FIBov8NkSG4/index.html",
-        "positive": 0.252,
-        "neutral": 0.748,
-        "negative": 0.0,
         "overall": 0.8442,
         "keywords": "floyd, deserve, george, 1964, sharp"
     },
@@ -59,9 +44,6 @@
         "description": "Although most governments are still advising against \"nonessential\" international travel, a host of popular destinations are beginning to ease their Covid-19 lockdown measures and border restrictions and are moving toward welcoming tourists back.",
         "date": "Fri, 19 Jun 2020 17:09:24 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/RLLRPDkc6QU/index.html",
-        "positive": 0.199,
-        "neutral": 0.801,
-        "negative": 0.0,
         "overall": 0.802,
         "keywords": "death, people, country, new, number"
     },
@@ -70,9 +52,6 @@
         "description": "The Trump campaign confirmed six staffers working on the Tulsa rally tested positive for coronavirus.",
         "date": "Sat, 20 Jun 2020 18:59:09 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Rho4Rznge0w/index.html",
-        "positive": 0.238,
-        "neutral": 0.762,
-        "negative": 0.0,
         "overall": 0.802,
         "keywords": "white, enforcement, floyd, black, wife"
     },
@@ -81,9 +60,6 @@
         "description": "The Bank of England has unveiled new measures to stimulate the economy. How do they work?",
         "date": "Thu, 18 Jun 2020 11:33:16 GMT",
         "link": "https://www.bbc.co.uk/news/business-15198789",
-        "positive": 0.277,
-        "neutral": 0.723,
-        "negative": 0.0,
         "overall": 0.7691,
         "keywords": "crowd, england, sibling, airport, unwell"
     },
@@ -92,9 +68,6 @@
         "description": "After a decade in the making, NASA is one month out from launching the Perseverance rover to Mars. This rover, launching during a pandemic, will carry a tribute to health care workers from around the world.",
         "date": "Sat, 20 Jun 2020 06:01:07 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/WSjnQC5FHZA/index.html",
-        "positive": 0.122,
-        "neutral": 0.878,
-        "negative": 0.0,
         "overall": 0.7506,
         "keywords": "nonessential, stitch, disinformation, defines, extension"
     },
@@ -103,9 +76,6 @@
         "description": "As businesses struggle to stay afloat during the pandemic and a record number of Americans have lost their jobs, one small city in Washington state put forth a creative solution to help its neediest residents pull through: printing their own money, out of wood.",
         "date": "Sat, 20 Jun 2020 15:14:23 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/g-4isabHOm4/index.html",
-        "positive": 0.19,
-        "neutral": 0.736,
-        "negative": 0.074,
         "overall": 0.743,
         "keywords": "slavery, church, slave, england, historic"
     },
@@ -114,9 +84,6 @@
         "description": "Meeting friends? Here's how to handle the awkward new rules - from sharing food to avoiding hugs.",
         "date": "Sat, 30 May 2020 08:43:46 GMT",
         "link": "https://www.bbc.co.uk/news/uk-52848793",
-        "positive": 0.283,
-        "neutral": 0.592,
-        "negative": 0.125,
         "overall": 0.7269,
         "keywords": "black, year, seen, office, floyd"
     },
@@ -125,9 +92,6 @@
         "description": "In the wake of Donald Trump's surprise election win in 2016, CNN's Van Jones went on a journey of discovery across America to understand why voters sent Trump to Washington.",
         "date": "Fri, 19 Jun 2020 22:49:35 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/z1HySiF2U3g/index.html",
-        "positive": 0.144,
-        "neutral": 0.856,
-        "negative": 0.0,
         "overall": 0.7096,
         "keywords": "bond, money, bank, rate, price"
     },
@@ -136,9 +100,6 @@
         "description": "Pubs and restaurants in England are expected to reopen in July, but can I meet a friend for a meal?",
         "date": "Thu, 11 Jun 2020 10:07:25 GMT",
         "link": "https://www.bbc.co.uk/news/business-52977388",
-        "positive": 0.163,
-        "neutral": 0.837,
-        "negative": 0.0,
         "overall": 0.6868,
         "keywords": "trump, berman, president, new, barr"
     },
@@ -147,9 +108,6 @@
         "description": "The new track, released on Juneteenth, calls for \"peace and reparation for my people\".",
         "date": "Sat, 20 Jun 2020 09:52:06 GMT",
         "link": "https://www.bbc.co.uk/news/entertainment-arts-53119767",
-        "positive": 0.219,
-        "neutral": 0.781,
-        "negative": 0.0,
         "overall": 0.6808,
         "keywords": "people, supplement, health, unprecedented, furlough"
     },
@@ -158,9 +116,6 @@
         "description": "The government is under pressure to relax the 2m social distancing rule - but is it safe to do so?",
         "date": "Sun, 14 Jun 2020 09:27:50 GMT",
         "link": "https://www.bbc.co.uk/news/science-environment-52522460",
-        "positive": 0.188,
-        "neutral": 0.763,
-        "negative": 0.049,
         "overall": 0.6767,
         "keywords": "trump, bolton, people, england, capitol"
     },
@@ -169,9 +124,6 @@
         "description": "Shops in England are preparing to welcome customers back but what will the \"new normal\" look like?",
         "date": "Fri, 12 Jun 2020 21:01:40 GMT",
         "link": "https://www.bbc.co.uk/news/business-53005123",
-        "positive": 0.179,
-        "neutral": 0.821,
-        "negative": 0.0,
         "overall": 0.6428,
         "keywords": "surplus, planet, county, drive, swedish"
     },
@@ -180,9 +132,6 @@
         "description": "The Miami Dolphins are opening up their home field not to an opposing team but to moviegoers to enjoy two new outdoor movie theaters.",
         "date": "Sat, 20 Jun 2020 19:00:00 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/VBXQi3XmqVU/index.html",
-        "positive": 0.109,
-        "neutral": 0.861,
-        "negative": 0.03,
         "overall": 0.6249,
         "keywords": "club, white, miss, micro, possible"
     },
@@ -191,9 +140,6 @@
         "description": "Is it now possible to go on holiday, either in the UK or abroad?",
         "date": "Fri, 19 Jun 2020 14:22:45 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52646738",
-        "positive": 0.21,
-        "neutral": 0.79,
-        "negative": 0.0,
         "overall": 0.6199,
         "keywords": "tourism, island, country, hotel, visitor"
     },
@@ -202,9 +148,6 @@
         "description": "Geoffrey Berman, the US attorney for the Southern District of New York who has investigated a number of associates with ties to President Donald Trump, said he will not leave his post shortly after the Department of Justice announced late Friday night he was stepping down. Read his full statement:",
         "date": "Sat, 20 Jun 2020 03:35:53 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/0oZ3b-k8tas/index.html",
-        "positive": 0.09,
-        "neutral": 0.91,
-        "negative": 0.0,
         "overall": 0.5924,
         "keywords": "option, lawmaker, 000, boom, business"
     },
@@ -213,9 +156,6 @@
         "description": "Lockdown rules are changing to help single people cut off from family and friends.",
         "date": "Fri, 19 Jun 2020 14:07:00 GMT",
         "link": "https://www.bbc.co.uk/news/uk-51506729",
-        "positive": 0.224,
-        "neutral": 0.695,
-        "negative": 0.081,
         "overall": 0.5719,
         "keywords": "confrontation, exactly, justify, screen, inflammatory"
     },
@@ -224,9 +164,6 @@
         "description": "Greta Thunberg says the world needs to treat climate change with similar urgency to Covid-19.",
         "date": "Sat, 20 Jun 2020 05:47:18 GMT",
         "link": "https://www.bbc.co.uk/news/science-environment-53100800",
-        "positive": 0.184,
-        "neutral": 0.816,
-        "negative": 0.0,
         "overall": 0.5423,
         "keywords": "police, child, law, watch, affiliated"
     },
@@ -235,9 +172,6 @@
         "description": "As America reopens, business owners wonder how much physical protection to provide for themselves, their employees and their guests. Patrons wonder whether it'll be safe to go out to eat, to shop or walk into an office.",
         "date": "Fri, 19 Jun 2020 23:14:17 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/YH8XeupJ4cU/index.html",
-        "positive": 0.066,
-        "neutral": 0.934,
-        "negative": 0.0,
         "overall": 0.4404,
         "keywords": "white, christian, american, racism, church"
     },
@@ -246,9 +180,6 @@
         "description": "The Colombian military has rescued two foreign nationals -- along with their pet dogs -- after they were abducted three months ago by dissident members of the Revolutionary Armed Forces of Colombia (FARC.)",
         "date": "Fri, 19 Jun 2020 18:55:09 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/6gBJ2Kw9xyg/index.html",
-        "positive": 0.129,
-        "neutral": 0.802,
-        "negative": 0.07,
         "overall": 0.4215,
         "keywords": "symptom, testing, test, bolton, hot"
     },
@@ -257,9 +188,6 @@
         "description": "Google Chrome extensions downloaded more than 32 million times were used to spy on the popular browser's users in a massive global surveillance campaign, according to a new report.",
         "date": "Fri, 19 Jun 2020 20:11:18 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/tsUdR_Jw7Oo/index.html",
-        "positive": 0.069,
-        "neutral": 0.931,
-        "negative": 0.0,
         "overall": 0.4215,
         "keywords": "government, year, bond, deficit, debt"
     },
@@ -268,9 +196,6 @@
         "description": "Some people in England, Northern Ireland and Scotland can form \"support bubbles\".",
         "date": "Thu, 18 Jun 2020 14:19:46 GMT",
         "link": "https://www.bbc.co.uk/news/health-52637354",
-        "positive": 0.114,
-        "neutral": 0.886,
-        "negative": 0.0,
         "overall": 0.4019,
         "keywords": "loud, movie, earn, claim, moral"
     },
@@ -279,9 +204,6 @@
         "description": "Questions about support bubbles, and other coronavirus topics",
         "date": "Fri, 12 Jun 2020 23:39:41 GMT",
         "link": "https://www.bbc.co.uk/news/world-asia-china-51176409",
-        "positive": 0.153,
-        "neutral": 0.847,
-        "negative": 0.0,
         "overall": 0.4019,
         "keywords": "money, government, square, bond, price"
     },
@@ -290,9 +212,6 @@
         "description": "A new photo project highlights the experiences of refugees through the language of football.",
         "date": "Fri, 19 Jun 2020 23:16:37 GMT",
         "link": "https://www.bbc.co.uk/news/in-pictures-53099133",
-        "positive": 0.109,
-        "neutral": 0.891,
-        "negative": 0.0,
         "overall": 0.4019,
         "keywords": "rack, sen, election, surveillance, phrase"
     },
@@ -301,9 +220,6 @@
         "description": "Loss of taste and smell have been added to the UK's list of coronavirus symptoms.",
         "date": "Thu, 04 Jun 2020 19:53:57 GMT",
         "link": "https://www.bbc.co.uk/news/health-51048366",
-        "positive": 0.102,
-        "neutral": 0.898,
-        "negative": 0.0,
         "overall": 0.3818,
         "keywords": "people, bond, money, social, england"
     },
@@ -312,9 +228,6 @@
         "description": "With lockdown restrictions eased, people are starting to go back to work. But what are your rights?",
         "date": "Tue, 16 Jun 2020 19:22:07 GMT",
         "link": "https://www.bbc.co.uk/news/business-52567567",
-        "positive": 0.093,
-        "neutral": 0.907,
-        "negative": 0.0,
         "overall": 0.3736,
         "keywords": "england, people, shop, household, child"
     },
@@ -323,9 +236,6 @@
         "description": "US Attorney General William Barr triggered yet another firestorm this week when he announced that Geoffrey Berman, the US attorney for the Southern District of New York, would resign. The news \u2014 which was came late Friday night \u2014 immediately created concerns that this was a politically motivated ouster.",
         "date": "Sat, 20 Jun 2020 19:20:19 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/9FjxagGl7zs/index.html",
-        "positive": 0.087,
-        "neutral": 0.852,
-        "negative": 0.061,
         "overall": 0.3612,
         "keywords": "cinema, learned, virus, mad, yes"
     },
@@ -334,9 +244,6 @@
         "description": "Some people might want to consider it during the pandemic. Here's why.",
         "date": "Thu, 18 Jun 2020 15:44:03 GMT",
         "link": "https://www.bbc.co.uk/news/health-52371688",
-        "positive": 0.189,
-        "neutral": 0.811,
-        "negative": 0.0,
         "overall": 0.3612,
         "keywords": "bag, seattle, investigation, beach, police"
     },
@@ -345,9 +252,6 @@
         "description": "Some states are seeing a spike in cases, but the White House says not to worry. So what's going on?",
         "date": "Fri, 19 Jun 2020 20:23:40 GMT",
         "link": "https://www.bbc.co.uk/news/world-us-canada-53088354",
-        "positive": 0.114,
-        "neutral": 0.819,
-        "negative": 0.067,
         "overall": 0.344,
         "keywords": "brazil, time, island, sample, bolsonaro"
     },
@@ -356,9 +260,6 @@
         "description": "Canal tow-path users have increased in number by more than 170% in Birmingham during the lockdown.",
         "date": "Fri, 19 Jun 2020 23:04:57 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-birmingham-52756428",
-        "positive": 0.145,
-        "neutral": 0.855,
-        "negative": 0.0,
         "overall": 0.34,
         "keywords": "mar, nasa, mission, launch, earth"
     },
@@ -367,9 +268,6 @@
         "description": "The devices allow a person's temperature to be checked from a distance, but are not always reliable.",
         "date": "Tue, 09 Jun 2020 00:48:41 GMT",
         "link": "https://www.bbc.co.uk/news/health-52940951",
-        "positive": 0.155,
-        "neutral": 0.845,
-        "negative": 0.0,
         "overall": 0.3182,
         "keywords": "regard, 700m, tech, look, predict"
     },
@@ -378,9 +276,6 @@
         "description": "Senate Judiciary Chairman Lindsey Graham's announcement Saturday that he will honor tradition to let home-state senators sign off on a replacement for Geoffrey Berman's US attorney post means that it will be a tough climb to confirm anyone new to the job before the November elections, according to Senate sources.",
         "date": "Sat, 20 Jun 2020 18:50:17 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/f7eARhMblE0/index.html",
-        "positive": 0.048,
-        "neutral": 0.908,
-        "negative": 0.045,
         "overall": 0.296,
         "keywords": "wedding, supplier, venue, cost, unlikely"
     },
@@ -389,9 +284,6 @@
         "description": "James Bowen wrote six books about his pet Bob who he chanced upon while battling drug addiction.",
         "date": "Tue, 16 Jun 2020 20:46:22 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-london-53072938",
-        "positive": 0.106,
-        "neutral": 0.825,
-        "negative": 0.069,
         "overall": 0.2732,
         "keywords": "trump, people, tweet, twitter, president"
     },
@@ -400,9 +292,6 @@
         "description": "Born into a fabulously wealthy family of seemingly continuous intrigues, betrayals and conflicts, Mary L. Trump did not seek the spotlight. She earned a master's in literature at Columbia and a doctorate in psychology at Adelphi University.",
         "date": "Wed, 17 Jun 2020 17:25:49 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/mWgUI74BnxE/index.html",
-        "positive": 0.106,
-        "neutral": 0.835,
-        "negative": 0.059,
         "overall": 0.2716,
         "keywords": "alex, world, new, year, company"
     },
@@ -411,9 +300,6 @@
         "description": "How will social and work life be different after the easing of some restrictions around the UK?",
         "date": "Fri, 19 Jun 2020 15:35:58 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52530518",
-        "positive": 0.074,
-        "neutral": 0.926,
-        "negative": 0.0,
         "overall": 0.25,
         "keywords": "cox, friend, september, phone, day"
     },
@@ -422,9 +308,6 @@
         "description": "UK travellers will be able to visit the country \"freely\" from Sunday, says Spain's foreign minister.",
         "date": "Sat, 20 Jun 2020 18:10:03 GMT",
         "link": "https://www.bbc.co.uk/news/uk-53122825",
-        "positive": 0.079,
-        "neutral": 0.921,
-        "negative": 0.0,
         "overall": 0.2263,
         "keywords": "violence, hub, hoped, include, trend"
     },
@@ -433,9 +316,6 @@
         "description": "Like many others, I was startled to learn that President Donald Trump was resuming his campaign barnstorming in Tulsa, Oklahoma. Startled that he was hitting the road again in the middle of a pandemic, startled that he had picked the place where a massacre of African Americans occurred (and was covered up) 99 years ago, startled that he initially decided to do this on Juneteenth -- June 19, the holiday celebrating the end of slavery.",
         "date": "Fri, 19 Jun 2020 20:31:12 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/wqB7kc920_M/index.html",
-        "positive": 0.107,
-        "neutral": 0.769,
-        "negative": 0.124,
         "overall": 0.1027,
         "keywords": "suspected, cast, assume, tedros, visitor"
     },
@@ -444,9 +324,6 @@
         "description": "As soon as Forrest Fenn announced that his treasure was found earlier this month, rumors swirled about whether it had really been found or if the treasure hunt had been a hoax all along.",
         "date": "Thu, 18 Jun 2020 22:33:55 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/cWIF9pSGQzw/index.html",
-        "positive": 0.125,
-        "neutral": 0.777,
-        "negative": 0.098,
         "overall": 0.1027,
         "keywords": "appeared, article, little, helicopter, exclusively"
     },
@@ -455,9 +332,6 @@
         "description": "Fifty years in public office has not dampened Andr\u00e9 Trigano's desire to be mayor of Pamiers, France.",
         "date": "Sat, 20 Jun 2020 01:17:36 GMT",
         "link": "https://www.bbc.co.uk/news/stories-53113686",
-        "positive": 0.092,
-        "neutral": 0.822,
-        "negative": 0.086,
         "overall": 0.0516,
         "keywords": "bolton, trump, book, president, court"
     },
@@ -466,9 +340,6 @@
         "description": "The Department of Health's daily dashboard records no new positive cases in a 24 hour period.",
         "date": "Sat, 20 Jun 2020 17:39:51 GMT",
         "link": "https://www.bbc.co.uk/news/uk-northern-ireland-53122657",
-        "positive": 0.12,
-        "neutral": 0.733,
-        "negative": 0.147,
         "overall": 0.0516,
         "keywords": "atlanta, arrest, home, restaurant, suspect"
     },
@@ -477,9 +348,6 @@
         "description": "Growing up in the South, Robert P. Jones attended Southern Baptist churches, Sunday schools, even a Southern Baptist college.",
         "date": "Sat, 20 Jun 2020 01:32:57 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/BCUQDhxj4IA/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "responsible, big, downward, attempt, confirming"
     },
@@ -488,9 +356,6 @@
         "description": "My wife, Gilda, is Black.",
         "date": "Fri, 19 Jun 2020 10:11:55 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/O7hPrRK-qt4/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "people, immigrant, west, knew, birmingham"
     },
@@ -499,9 +364,6 @@
         "description": "The tweet was when Eric Yuan knew something had to change.",
         "date": "Fri, 22 May 2020 19:54:55 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/s9NIICmmXKc/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "requirement, elderly, bolton, administrator, conduct"
     },
@@ -510,9 +372,6 @@
         "description": "A video game prescribed by doctors, bears turn up in unexpected places, and the cast from a classic movie franchise reunites. Here are the must-see videos of the week.",
         "date": "Fri, 19 Jun 2020 14:06:11 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/RBT33GK5WTw/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "year, government, site, company, business"
     },
@@ -521,9 +380,6 @@
         "description": "As the evening of 20 June approaches, so too does summer solstice.",
         "date": "Sat, 20 Jun 2020 10:37:33 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/hLGEuko2iyo/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "arthur, nick, teeth, family, father"
     },
@@ -532,9 +388,6 @@
         "description": "There's a reason Greece's Prime Minister Kyriakos Mitsotakis flew to Santorini earlier this month when he wanted to announce the reopening of his country to tourism.",
         "date": "Sat, 20 Jun 2020 08:23:05 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/nIvvL74c3sg/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "cat, book, life, author, street"
     },
@@ -543,9 +396,6 @@
         "description": "A group of young Black men stands at attention. Clad in black, they are practicing military drills at BS Roberts Park in Tulsa, Oklahoma.",
         "date": "Sat, 20 Jun 2020 15:55:29 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/x_hu30uSEAM/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "solstice, day, sun, time, tradition"
     },
@@ -554,9 +404,6 @@
         "description": "Bags of human remains were found near the waterfront in Seattle on Friday afternoon, police report in a statement.",
         "date": "Sat, 20 Jun 2020 11:44:35 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/25OIDezd9YE/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "welcomed, headache, player, hitler, tokyo"
     },
@@ -565,9 +412,6 @@
         "description": "Facebook and Twitter on Friday removed a video posted by President Donald Trump's account that had twisted a viral video of two toddlers after one of the children's parents lodged a copyright claim. The video had more than 4 million views on Facebook and more than 20 million views on Twitter before it was taken down.",
         "date": "Sat, 20 Jun 2020 03:55:30 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/bBiT2gylqdM/index.html",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "sea, number, researcher, new, people"
     },
@@ -576,9 +420,6 @@
         "description": "Fans are asking how some players managed to have such immaculate hairdos despite lockdown",
         "date": "Thu, 18 Jun 2020 14:54:27 GMT",
         "link": "https://www.bbc.co.uk/news/newsbeat-53096057",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "berman, case, new, number, york"
     },
@@ -587,9 +428,6 @@
         "description": "Should you be comparing Covid-19 statistics between countries?",
         "date": "Wed, 17 Jun 2020 17:24:44 GMT",
         "link": "https://www.bbc.co.uk/news/52311014",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "number, death, case, country, river"
     },
@@ -598,9 +436,6 @@
         "description": "Our guide to different types of face coverings and step-by-step instructions on how to make them.",
         "date": "Thu, 04 Jun 2020 16:22:43 GMT",
         "link": "https://www.bbc.co.uk/news/uk-52609777",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "background, teenager, make, mandatory, newly"
     },
@@ -609,9 +444,6 @@
         "description": "What are the tests for coronavirus, who are they for and how do they work?",
         "date": "Fri, 12 Jun 2020 16:20:56 GMT",
         "link": "https://www.bbc.co.uk/news/health-51943612",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "bar, identifying, liberal, offering, environmental"
     },
@@ -620,9 +452,6 @@
         "description": "Travellers to the UK now have to self-isolate for 14 days. But how will the rules work in practice?",
         "date": "Wed, 10 Jun 2020 12:05:13 GMT",
         "link": "https://www.bbc.co.uk/news/52963306",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "carried, send, portugal, lawful, apollo"
     },
@@ -631,9 +460,6 @@
         "description": "Nine million people have accessed the scheme, which will move to its next phase in July.",
         "date": "Fri, 12 Jun 2020 09:19:19 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52135342",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "anthony, swiftly, union, slim, headed"
     },
@@ -642,9 +468,6 @@
         "description": "Many non-essential shops have reopened, but will I be able to buy a book or have a haircut?",
         "date": "Fri, 19 Jun 2020 12:39:26 GMT",
         "link": "https://www.bbc.co.uk/news/business-52808931",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "dangerous, experience, administrator, tropical, historian"
     },
@@ -653,9 +476,6 @@
         "description": "People who have been in close contact with someone found to have Covid-19 are now being traced.",
         "date": "Thu, 18 Jun 2020 13:35:36 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52442754",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "culture, morgan, inflammatory, stand, tradition"
     },
@@ -664,9 +484,6 @@
         "description": "What do you need to know if you're planning to fly during the Covid-19 pandemic?",
         "date": "Wed, 17 Jun 2020 13:00:21 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52544307",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "people, coronavirus, uk, government, time"
     },
@@ -675,9 +492,6 @@
         "description": "Key maps and charts explaining how the respiratory virus has spread around the world and how it is being dealt with.",
         "date": "Sat, 20 Jun 2020 10:29:59 GMT",
         "link": "https://www.bbc.co.uk/news/world-51235105",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "school, meal, free, england, voucher"
     },
@@ -686,9 +500,6 @@
         "description": "Which children are going back to school, and what about the rest?",
         "date": "Fri, 19 Jun 2020 09:05:19 GMT",
         "link": "https://www.bbc.co.uk/news/education-51643556",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "fail, listening, laboratory, excelled, approached"
     },
@@ -697,9 +508,6 @@
         "description": "The threat of Covid-19 in England is being ranked through a five-level, colour-coded alert system.",
         "date": "Fri, 19 Jun 2020 11:15:54 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52634739",
-        "positive": 0.164,
-        "neutral": 0.709,
-        "negative": 0.127,
         "overall": 0.0,
         "keywords": "uk, coronavirus, disease, people, twitter"
     },
@@ -708,9 +516,6 @@
         "description": "Key graphics explaining how coronavirus has spread in the UK and the government's response.",
         "date": "Sat, 20 Jun 2020 14:50:11 GMT",
         "link": "https://www.bbc.co.uk/news/uk-51768274",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "author, solved, slightly, individual, hopkins"
     },
@@ -719,9 +524,6 @@
         "description": "Face coverings are compulsory for people using public transport in England.",
         "date": "Thu, 18 Jun 2020 16:17:50 GMT",
         "link": "https://www.bbc.co.uk/news/health-51205344",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "carrying, terrible, war, excelled, metre"
     },
@@ -730,9 +532,6 @@
         "description": "Sixty years after his father did it first, Kelly Walsh dives to the deepest point in Earth's oceans.",
         "date": "Sat, 20 Jun 2020 12:45:42 GMT",
         "link": "https://www.bbc.co.uk/news/science-environment-53112621",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "deep, ocean, company, kelly, don"
     },
@@ -741,9 +540,6 @@
         "description": "All workers at the 2 Sisters chicken factory on the islands are being tested for Covid-19.",
         "date": "Sat, 20 Jun 2020 17:46:23 GMT",
         "link": "https://www.bbc.co.uk/news/uk-wales-53122894",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "people, health, shop, case, coronavirus"
     },
@@ -752,9 +548,6 @@
         "description": "Lee Longlands' first furniture shop opened in Birmingham in 1932 and it has been trading ever since.",
         "date": "Sat, 20 Jun 2020 15:23:54 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-birmingham-53119614",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "work, employer, people, furlough, employee"
     },
@@ -763,9 +556,6 @@
         "description": "Alexandra Burke says she was told to bleach her skin and style her hair \"to appeal to white people\".",
         "date": "Sat, 20 Jun 2020 13:11:03 GMT",
         "link": "https://www.bbc.co.uk/news/entertainment-arts-53120390",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "dedicated, fluid, data, rely, unclear"
     },
@@ -774,9 +564,6 @@
         "description": "The US president will hold his first rally since March, when the US coronavirus lockdown began.",
         "date": "Sat, 20 Jun 2020 18:40:20 GMT",
         "link": "https://www.bbc.co.uk/news/world-us-canada-53121488",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "extension, awake, report, google, browser"
     },
@@ -785,9 +572,6 @@
         "description": "Kris and Julie Smith and their two children had spent three months in a remote town.",
         "date": "Sat, 20 Jun 2020 18:35:32 GMT",
         "link": "https://www.bbc.co.uk/news/uk-scotland-53123554",
-        "positive": 0.0,
-        "neutral": 1.0,
-        "negative": 0.0,
         "overall": 0.0,
         "keywords": "cut, wash, 1930s, recession, people"
     },
@@ -796,9 +580,6 @@
         "description": "Pubs and restaurants might not survive under current guidance in England, industry leaders warn.",
         "date": "Sat, 20 Jun 2020 15:39:29 GMT",
         "link": "https://www.bbc.co.uk/news/uk-53117853",
-        "positive": 0.0,
-        "neutral": 0.943,
-        "negative": 0.057,
         "overall": -0.1027,
         "keywords": "people, uk, coronavirus, disease, need"
     },
@@ -807,9 +588,6 @@
         "description": "Actor, comedian and former CNN anchor D.L. Hughley collapsed Friday night on stage in Nashville while performing, publicist Yvette Shearer said.",
         "date": "Sat, 20 Jun 2020 16:43:12 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/WBnNbMowzGM/index.html",
-        "positive": 0.084,
-        "neutral": 0.777,
-        "negative": 0.139,
         "overall": -0.1779,
         "keywords": "step, option, motivated, build, 11"
     },
@@ -818,9 +596,6 @@
         "description": "More than two weeks after his controversial photo-op outside a Washington, DC, church, President Donald Trump offered a new explanation last week for why he didn't enter St. John's Episcopal Church. In an interview with the Wall Street Journal on Wednesday Trump said there were \"a lot of insurance reasons\" for why he couldn't go in.",
         "date": "Sat, 20 Jun 2020 14:37:54 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/WxEmNqjrocg/index.html",
-        "positive": 0.016,
-        "neutral": 0.957,
-        "negative": 0.027,
         "overall": -0.1779,
         "keywords": "green, suit, liberal, growing, bill"
     },
@@ -829,9 +604,6 @@
         "description": "Will students have online or face-to-face learning this autumn, and will they still have to pay full fees?",
         "date": "Fri, 19 Jun 2020 08:21:39 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52753913",
-        "positive": 0.0,
-        "neutral": 0.929,
-        "negative": 0.071,
         "overall": -0.1926,
         "keywords": "face, covering, light, trump, soap"
     },
@@ -840,9 +612,6 @@
         "description": "How does it work when a government wants to borrow money, and when does it have to pay it back?",
         "date": "Fri, 19 Jun 2020 09:35:55 GMT",
         "link": "https://www.bbc.co.uk/news/business-50504151",
-        "positive": 0.0,
-        "neutral": 0.929,
-        "negative": 0.071,
         "overall": -0.1926,
         "keywords": "test, people, tested, testing, home"
     },
@@ -851,9 +620,6 @@
         "description": "People have gathered in parks and cities around the country, with many in the crowds wearing masks.",
         "date": "Sat, 20 Jun 2020 17:03:55 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-53120735",
-        "positive": 0.046,
-        "neutral": 0.875,
-        "negative": 0.079,
         "overall": -0.2023,
         "keywords": "china, community, hour, super, estimate"
     },
@@ -862,9 +628,6 @@
         "description": "Donald Trump is not coping well.",
         "date": "Tue, 16 Jun 2020 17:59:58 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/nHphi1_V9c4/index.html",
-        "positive": 0.0,
-        "neutral": 0.815,
-        "negative": 0.185,
         "overall": -0.2057,
         "keywords": "usually, 000, customer, assumed, use"
     },
@@ -873,9 +636,6 @@
         "description": "Editor's Note: The content in this story is part of a \"Risk Takers\" TV special. It airs on CNN on Saturday, June 20 at 2:30 pm ET.",
         "date": "Sat, 20 Jun 2020 14:16:57 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/LBBcN4N5EaU/index.html",
-        "positive": 0.059,
-        "neutral": 0.835,
-        "negative": 0.105,
         "overall": -0.2732,
         "keywords": "risk, people, infected, defense, tourism"
     },
@@ -884,9 +644,6 @@
         "description": "Authorities used the pings from the cell phone of the brother of Lori Vallow when determining where to search for the remains of her missing children, according to a probable cause affidavit obtained by CNN affiliate East Idaho News.",
         "date": "Sat, 20 Jun 2020 12:12:23 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/8fK7rzNNu1M/index.html",
-        "positive": 0.0,
-        "neutral": 0.955,
-        "negative": 0.045,
         "overall": -0.296,
         "keywords": "restaurant, rule, pub, people, bar"
     },
@@ -895,9 +652,6 @@
         "description": "Police, politicians and Glasgow's council had asked members of the public to avoid George Square.",
         "date": "Sat, 20 Jun 2020 17:00:58 GMT",
         "link": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-53120070",
-        "positive": 0.0,
-        "neutral": 0.896,
-        "negative": 0.104,
         "overall": -0.296,
         "keywords": "lie, obligation, material, harmed, break"
     },
@@ -906,9 +660,6 @@
         "description": "As coronavirus cases spike in states across the country, some communities hoping to enact measures to mitigate the virus' spread are hitting major roadblocks.",
         "date": "Sat, 20 Jun 2020 16:06:12 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/gzCke5aXRmg/index.html",
-        "positive": 0.065,
-        "neutral": 0.839,
-        "negative": 0.096,
         "overall": -0.3182,
         "keywords": "people, coronavirus, disease, publicity, going"
     },
@@ -917,9 +668,6 @@
         "description": "Geoffrey Berman, the powerful US attorney for the Southern District of New York who has been thrust into the national spotlight for refusing to leave his post, has a long history at the prosecutors' office in New York and held a position on President Donald Trump's transition team before going on to investigate a number of Trump associates.",
         "date": "Sat, 20 Jun 2020 15:10:36 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/MW1TGLjFFSw/index.html",
-        "positive": 0.058,
-        "neutral": 0.849,
-        "negative": 0.093,
         "overall": -0.3612,
         "keywords": "tulsa, trump, black, police, rally"
     },
@@ -928,9 +676,6 @@
         "description": "The UK Statistics Authority has criticised the government's handling of Covid-19 testing data.",
         "date": "Tue, 02 Jun 2020 16:47:18 GMT",
         "link": "https://www.bbc.co.uk/news/health-52891611",
-        "positive": 0.054,
-        "neutral": 0.83,
-        "negative": 0.116,
         "overall": -0.3612,
         "keywords": "people, uk, restriction, repair, caf\u00e9s"
     },
@@ -939,9 +684,6 @@
         "description": "Identifying superspreading events could be crucial in the fight against the virus, scientists say.",
         "date": "Sat, 06 Jun 2020 07:16:46 GMT",
         "link": "https://www.bbc.co.uk/news/health-52903787",
-        "positive": 0.0,
-        "neutral": 0.86,
-        "negative": 0.14,
         "overall": -0.3818,
         "keywords": "tobacco, kidney, wood, captured, october"
     },
@@ -950,9 +692,6 @@
         "description": "A cheap steroid is hailed a big breakthrough in the treatment of seriously ill Covid-19 patients.",
         "date": "Thu, 18 Jun 2020 10:52:00 GMT",
         "link": "https://www.bbc.co.uk/news/health-53077879",
-        "positive": 0.081,
-        "neutral": 0.726,
-        "negative": 0.192,
         "overall": -0.3818,
         "keywords": "video, cnn, china, past, credit"
     },
@@ -961,9 +700,6 @@
         "description": "There is a lot of uncertainty around when and how weddings are allowed to take place. What are your rights?",
         "date": "Fri, 05 Jun 2020 14:20:16 GMT",
         "link": "https://www.bbc.co.uk/news/explainers-52811509",
-        "positive": 0.0,
-        "neutral": 0.897,
-        "negative": 0.103,
         "overall": -0.4137,
         "keywords": "video, trump, twitter, facebook, cnn"
     },
@@ -972,9 +708,6 @@
         "description": "After nearly 100 years, Eskimo Pie ice cream will get a new name.",
         "date": "Sat, 20 Jun 2020 16:22:15 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/K-Rjc-2FqxI/index.html",
-        "positive": 0.0,
-        "neutral": 0.823,
-        "negative": 0.177,
         "overall": -0.5106,
         "keywords": "trump, donald, people, president, dollar"
     },
@@ -983,9 +716,6 @@
         "description": "Judge Royce Lamberth has denied the Trump administration's attempt to block the upcoming publication of the book by former national security adviser John Bolton.",
         "date": "Sat, 20 Jun 2020 14:34:04 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/eP4xWIKOa1I/index.html",
-        "positive": 0.07,
-        "neutral": 0.76,
-        "negative": 0.17,
         "overall": -0.5267,
         "keywords": "climate, landing, katie, english, stonehenge"
     },
@@ -994,9 +724,6 @@
         "description": "A collection of your tributes to some of the thousands of people in the UK who have died with coronavirus.",
         "date": "Fri, 19 Jun 2020 14:51:13 GMT",
         "link": "https://www.bbc.co.uk/news/uk-52676411",
-        "positive": 0.0,
-        "neutral": 0.874,
-        "negative": 0.126,
         "overall": -0.5574,
         "keywords": "face, oust, need, person, mask"
     },
@@ -1005,9 +732,6 @@
         "description": "Brazil has now reported more than 1 million confirmed cases of coronavirus and 48,954 deaths, marking a grim milestone for the South American country.",
         "date": "Fri, 19 Jun 2020 22:24:49 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/TqaduNqZ1VU/index.html",
-        "positive": 0.0,
-        "neutral": 0.899,
-        "negative": 0.101,
         "overall": -0.5719,
         "keywords": "lockdown, people, case, covering, public"
     },
@@ -1016,9 +740,6 @@
         "description": "The BBC's anti-disinformation team has been investigating misleading claims about the health risks of face masks.",
         "date": "Fri, 19 Jun 2020 23:21:52 GMT",
         "link": "https://www.bbc.co.uk/news/53108405",
-        "positive": 0.0,
-        "neutral": 0.789,
-        "negative": 0.211,
         "overall": -0.5859,
         "keywords": "trump, attorney, beginning, mentioned, delay"
     },
@@ -1027,9 +748,6 @@
         "description": "In a fast-escalating crisis Friday night, Attorney General William Barr tried to oust Geoffrey Berman, the powerful US attorney for the Southern District of New York who has investigated a number of associates of President Donald Trump, but Berman defied him by refusing to step down.",
         "date": "Sat, 20 Jun 2020 16:02:53 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/DryCniAK6Ek/index.html",
-        "positive": 0.05,
-        "neutral": 0.85,
-        "negative": 0.1,
         "overall": -0.6187,
         "keywords": "trump, barr, berman, new, 250"
     },
@@ -1038,9 +756,6 @@
         "description": "With social distancing still in place and fears of a second peak, will Christmas outings be cancelled?",
         "date": "Fri, 19 Jun 2020 23:01:47 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-53055224",
-        "positive": 0.0,
-        "neutral": 0.803,
-        "negative": 0.197,
         "overall": -0.6322,
         "keywords": "twitter, mask, lockdown, video, footballer"
     },
@@ -1049,9 +764,6 @@
         "description": "It started as a normal day. Dawn Guest, 54, got up and headed out to her job as a nurse around 5 a.m. She heard her 16-year-old son, Andre, stirring in his room, but he had always been an earlier riser, even when his school was shut for Covid-19. Later that day she would get a call from her husband, telling her there was something wrong with their son.",
         "date": "Fri, 19 Jun 2020 19:33:39 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/Pw5GMbzYSpA/index.html",
-        "positive": 0.024,
-        "neutral": 0.894,
-        "negative": 0.082,
         "overall": -0.6808,
         "keywords": "patient, easily, coronavirus, week, covid"
     },
@@ -1060,9 +772,6 @@
         "description": "The Bank of England has become the latest British institution to apologize for historic ties to slavery.",
         "date": "Fri, 19 Jun 2020 14:18:43 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/RSBse-ywxVQ/index.html",
-        "positive": 0.046,
-        "neutral": 0.754,
-        "negative": 0.2,
         "overall": -0.6908,
         "keywords": "refugee, football, photo, participant, goal"
     },
@@ -1071,9 +780,6 @@
         "description": "The abandoned bus on the Stampede Trail in Alaska -- made famous by the book and film \"Into the Wild\" -- has made its first journey in decades. This time by air.",
         "date": "Fri, 19 Jun 2020 11:31:31 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/njBbG51blls/index.html",
-        "positive": 0.0,
-        "neutral": 0.881,
-        "negative": 0.119,
         "overall": -0.7003,
         "keywords": "game, donald, bear, family, trump"
     },
@@ -1082,9 +788,6 @@
         "description": "Iran was one of the worst affected countries early on, so is the virus flaring up again?",
         "date": "Mon, 15 Jun 2020 11:56:15 GMT",
         "link": "https://www.bbc.co.uk/news/52959756",
-        "positive": 0.0,
-        "neutral": 0.776,
-        "negative": 0.224,
         "overall": -0.7236,
         "keywords": "considering, bigger, memorial, interrupt, leave"
     },
@@ -1093,9 +796,6 @@
         "description": "Why is lifting restrictions being described as a \"dangerous moment\"?",
         "date": "Mon, 01 Jun 2020 23:57:25 GMT",
         "link": "https://www.bbc.co.uk/news/health-52878816",
-        "positive": 0.0,
-        "neutral": 0.647,
-        "negative": 0.353,
         "overall": -0.7622,
         "keywords": "video, tourism, destination, bolton, cnn"
     },
@@ -1104,9 +804,6 @@
         "description": "Black Lives Matter protests continue in the UK - but are they illegal under restrictions on gatherings?",
         "date": "Mon, 08 Jun 2020 11:27:27 GMT",
         "link": "https://www.bbc.co.uk/news/uk-52909814",
-        "positive": 0.087,
-        "neutral": 0.605,
-        "negative": 0.308,
         "overall": -0.782,
         "keywords": "people, health, police, number, solstice"
     },
@@ -1115,9 +812,6 @@
         "description": "People at risk of becoming severely ill if they get coronavirus should take extra precautions.",
         "date": "Fri, 19 Jun 2020 15:03:48 GMT",
         "link": "https://www.bbc.co.uk/news/health-51997151",
-        "positive": 0.0,
-        "neutral": 0.669,
-        "negative": 0.331,
         "overall": -0.7845,
         "keywords": "banning, island, leverage, generally, lore"
     },
@@ -1126,9 +820,6 @@
         "description": "After an assault on rugby player Debbie Kaore went viral, will things change in Papua New Guinea?",
         "date": "Fri, 19 Jun 2020 23:21:07 GMT",
         "link": "https://www.bbc.co.uk/news/world-asia-52978324",
-        "positive": 0.0,
-        "neutral": 0.777,
-        "negative": 0.223,
         "overall": -0.7845,
         "keywords": "opposition, hospitalised, 2000, afternoon, stagger"
     },
@@ -1137,9 +828,6 @@
         "description": "The world faces the worst recession for 80 years. But what does that mean?",
         "date": "Fri, 12 Jun 2020 09:14:36 GMT",
         "link": "https://www.bbc.co.uk/news/business-52986863",
-        "positive": 0.0,
-        "neutral": 0.674,
-        "negative": 0.326,
         "overall": -0.8053,
         "keywords": "alert, shop, announced, stirring, husband"
     },
@@ -1148,9 +836,6 @@
         "description": "A federal judge has denied the Trump administration's attempt to block the upcoming publication of a book by former national security adviser John Bolton.",
         "date": "Sat, 20 Jun 2020 18:36:34 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/D03vVhMV4n0/index.html",
-        "positive": 0.056,
-        "neutral": 0.676,
-        "negative": 0.268,
         "overall": -0.8442,
         "keywords": "military, dog, rescue, member, black"
     },
@@ -1159,9 +844,6 @@
         "description": "A 16-year-old boy visiting North Carolina's Outer Banks with his family is recovering from injuries suffered when he was attacked by a shark on Thursday.",
         "date": "Sat, 20 Jun 2020 01:56:17 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/VXoz_HdjA50/index.html",
-        "positive": 0.0,
-        "neutral": 0.744,
-        "negative": 0.256,
         "overall": -0.8519,
         "keywords": "company, audience, walker, country, product"
     },
@@ -1170,9 +852,6 @@
         "description": "William Faulkner's famous line, \"the past is never dead. It's not even past,\" is back in vogue. It's not just about debate in the US about removing Confederate statues, or in the UK over monuments to imperialists -- the war over World War II is back in play, too.",
         "date": "Thu, 18 Jun 2020 22:43:14 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/g-Ny4xh_644/index.html",
-        "positive": 0.077,
-        "neutral": 0.735,
-        "negative": 0.188,
         "overall": -0.8576,
         "keywords": "coronavirus, developed, tweeted, christopher, quarantine"
     },
@@ -1181,9 +860,6 @@
         "description": "A US judge denies the Trump administration's bid to halt publication of John Bolton's memoir.",
         "date": "Sat, 20 Jun 2020 17:19:13 GMT",
         "link": "https://www.bbc.co.uk/news/world-us-canada-53118721",
-        "positive": 0.0,
-        "neutral": 0.686,
-        "negative": 0.314,
         "overall": -0.8625,
         "keywords": "soviet, war, union, germany, russia"
     },
@@ -1192,9 +868,6 @@
         "description": "Twitter has permanently suspended the account of extreme right-wing British columnist Katie Hopkins for violating its hateful conduct policy.",
         "date": "Fri, 19 Jun 2020 22:07:20 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/HmtnG3PgPIQ/index.html",
-        "positive": 0.0,
-        "neutral": 0.692,
-        "negative": 0.308,
         "overall": -0.8689,
         "keywords": "country, government, uk, health, people"
     },
@@ -1203,9 +876,6 @@
         "description": "So it's come to this. In a presidency debased by extraordinary and ongoing assaults on truth and the First Amendment, Donald Trump is now exploiting and defaming toddlers, to further his political goals and war on the media.",
         "date": "Sat, 20 Jun 2020 17:02:39 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/X7xlJjkeeX0/index.html",
-        "positive": 0.043,
-        "neutral": 0.717,
-        "negative": 0.24,
         "overall": -0.886,
         "keywords": "uk, government, people, usual, public"
     },
@@ -1214,9 +884,6 @@
         "description": "John Bolton has offered the nation a staggering profile in cowardice. He has left no doubt about his own monumental betrayal of his country.",
         "date": "Thu, 18 Jun 2020 02:32:23 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/xor3C9Gwqms/index.html",
-        "positive": 0.0,
-        "neutral": 0.648,
-        "negative": 0.352,
         "overall": -0.91,
         "keywords": "showed, roll, predict, stated, resuming"
     },
@@ -1225,9 +892,6 @@
         "description": "The siblings, aged, 12, eight and five, died after a fire broke out in their flat on Friday night.",
         "date": "Sat, 20 Jun 2020 17:06:52 GMT",
         "link": "https://www.bbc.co.uk/news/uk-scotland-glasgow-west-53119365",
-        "positive": 0.0,
-        "neutral": 0.583,
-        "negative": 0.417,
         "overall": -0.9325,
         "keywords": "hair, twitter, footballer, sharp, post"
     },
@@ -1236,9 +900,6 @@
         "description": "An arrest warrant has been issued for a suspect in the arson fire that burned down an Atlanta Wendy's restaurant last week after the police killing of Rayshard Brooks, authorities announced Saturday.",
         "date": "Sat, 20 Jun 2020 19:14:16 GMT",
         "link": "http://rss.cnn.com/~r/rss/cnn_topstories/~3/GeOcALH5OSk/index.html",
-        "positive": 0.0,
-        "neutral": 0.684,
-        "negative": 0.316,
         "overall": -0.9349,
         "keywords": "bus, alaska, book, mr, trump"
     },
@@ -1247,9 +908,6 @@
         "description": "A vulnerable 15-year-old was stabbed to death by two boys over rumours he had molested a girl.",
         "date": "Sat, 20 Jun 2020 11:21:42 GMT",
         "link": "https://www.bbc.co.uk/news/uk-england-london-53119254",
-        "positive": 0.0,
-        "neutral": 0.513,
-        "negative": 0.487,
         "overall": -0.9442,
         "keywords": "tourism, tourist, covid, travel, reopen"
     }
