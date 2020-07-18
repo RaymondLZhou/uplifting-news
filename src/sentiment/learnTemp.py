@@ -50,7 +50,7 @@ model.compile(loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
               optimizer=tf.keras.optimizers.Adam(1e-4),
               metrics=['accuracy'])
 
-history = model.fit(train_dataset, epochs=5, validation_data=test_dataset, validation_steps=30)
+history = model.fit(train_dataset, epochs=3, validation_data=test_dataset, validation_steps=30)
 
 test_loss, test_acc = model.evaluate(test_dataset)
 
@@ -67,6 +67,7 @@ def sample_predict(sample_pred_text, pad):
 
     if pad:
         encoded_sample_pred_text = pad_to_size(encoded_sample_pred_text, 64)
+    
     encoded_sample_pred_text = tf.cast(encoded_sample_pred_text, tf.float32)
     predictions = model.predict(tf.expand_dims(encoded_sample_pred_text, 0))
 
