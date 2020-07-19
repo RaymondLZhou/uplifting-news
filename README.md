@@ -11,14 +11,9 @@ Scrapes the contents of RSS feeds of various news sources. Sorts articles by pos
 ![image1](images/image1.png)
 
 
-Measures the positivity of news articles by training a recurrent neural network (RNN).
+Measures the positivity of news articles by training a recurrent neural network (RNN). Extracts keywords of each article using Latent Dirichlet Allocation to perform topic modelling.
 
 ![image2](images/image2.png)
-
-
-Extracts keywords of each article using Latent Dirichlet Allocation to perform topic modelling. 
-
-![image3](images/image3.png)
 
 
 The Python code for scraping can be found at [src/scraper](src/scraper). The main file is [src/scraper/scraper.py](src/scraper/scraper.py).
@@ -61,7 +56,7 @@ To update the news feed
 ## Built With
 
 * [React](https://reactjs.org/) - Front-End User Interface
-* [TensorFlow]https://www.tensorflow.org/) - Deep Learning Sentiment Analysis
+* [TensorFlow](https://www.tensorflow.org/) - Deep Learning Sentiment Analysis
 * [LDA (Latent Dirichlet Allocation)](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.LatentDirichletAllocation.html) - Topic Modelling
 
 ## License
