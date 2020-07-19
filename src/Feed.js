@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
+//import { Link } from 'react-router-dom'
 import { animateScroll as scroll } from "react-scroll";
 import Card from 'react-bootstrap/Card'
 import feed from './data/displayFeed.json'
@@ -20,20 +20,14 @@ class Feed extends React.Component {
             <Card.Text className="cardDescription"> {feed.description} </Card.Text>  
 
             <Card.Text> Key words: {feed.keywords} </Card.Text>
+
+            <Card.Text className="cardOverallScore"> Positivity Score: {feed.overall} </Card.Text> 
             </div>
-
-            <Card.Text> {feed.date} </Card.Text>
-
-            <Link to="/sentiment">
-              <button className="button">
-                See Sentiment
-              </button>
-            </Link>
 
             <button 
               className="button1"
               onClick={this.scrollMore}
-              style={{ marginLeft: '6rem' }}
+              //style={{ marginLeft: '8rem' }}
             >
                 See More
             </button>    
