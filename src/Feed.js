@@ -6,7 +6,7 @@ import feed from './data/displayFeed.json'
 
 class Feed extends React.Component {
   scrollMore = () => {
-    scroll.scrollMore(634);
+    scroll.scrollMore(635);
   };
 
   render() {
