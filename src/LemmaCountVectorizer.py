@@ -3,6 +3,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 
 lemmatizer = WordNetLemmatizer()
 
+
 class LemmaCountVectorizer(CountVectorizer):
     def build_analyzer(self):
         analyzer = super(LemmaCountVectorizer, self).build_analyzer()
