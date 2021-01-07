@@ -1,17 +1,16 @@
 from sklearn.decomposition import LatentDirichletAllocation
 
 import LemmaCountVectorizer
+import predict
 
-import evaluate
 
-
-def positivityScores(newsList):
-    text_list = [news["title"] + news["description"] for news in newsList]
-    sentiments = evaluate.predict_list(text_list)
+def get_sentiment(news_list):
+    text_list = [news["title"] + news["description"] for news in news_list]
+    sentiments = predict.predict_list(text_list)
 
     scores = []
 
-    for news, sentiment in zip(newsList, sentiments):
+    for news, sentiment in zip(news_list, sentiments):
         score = {
             "title": news["title"],
             "description": news["description"],
@@ -25,13 +24,13 @@ def positivityScores(newsList):
     return scores
 
 
-def train(newsList):
-    articles = [news["text"] for news in newsList]
+def train(news_list):
+    articles = [news["text"] for news in news_list]
     tf_vectorizer = LemmaCountVectorizer.LemmaCountVectorizer(max_df=0.95, min_df=2, stop_words='english',
                                                               decode_error='ignore')
     tf = tf_vectorizer.fit_transform(articles)
 
-    lda = LatentDirichletAllocation(n_components=len(newsList), max_iter=5, learning_method='online',
+    lda = LatentDirichletAllocation(n_components=len(news_list), max_iter=5, learning_method='online',
                                     learning_offset=50., random_state=0)
     lda.fit(tf)
 
