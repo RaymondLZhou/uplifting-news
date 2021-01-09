@@ -1,9 +1,27 @@
 import numpy as np
+import pandas as pd
 
 
 def predict(model):
-    sample_text = ('The movie was cool. The animation and the graphics '
-                   'were out of this world. I would recommend this movie.')
-    predictions = model.predict(np.array([sample_text]))
+    df = pd.read_csv("../data/feed.csv")
+    news_list = df.to_dict("records")
 
-    print(predictions)
+    text_list = [news["title"] + news["description"] + news["text"] for news in news_list]
+    scores = [model.predict(np.array([text])) for text in text_list]
+
+    sentiments = []
+
+    for news, score in zip(news_list, scores):
+        sentiment = {
+            "title": news["title"],
+            "link": news["link"],
+            "score": score
+        }
+
+        sentiments.append(sentiment)
+
+    sentiments.sort(key=lambda x: x["score"])
+    sentiments.reverse()
+
+    df = pd.DataFrame(sentiments)
+    df.to_csv("../data/sentiment.csv", encoding="utf-8-sig")
