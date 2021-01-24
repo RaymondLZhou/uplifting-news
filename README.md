@@ -1,6 +1,6 @@
 # Uplifting News
 
-React application which uses Python to scrape news articles, performing sentiment analysis to measure positivity and topic modelling to extract keywords.
+Performs sentiment analysis on news articles to measure positivity.
 
 ## Description
 
