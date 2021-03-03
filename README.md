@@ -1,6 +1,6 @@
 # Uplifting News
 
-Positive news feed using sentiment analysis  built on TensorFlow and Keras with a recurrent neural network (RNN). Web scrapes with Python to find news article data to measure positivity.
+Positive news aggregator using sentiment analysis built on TensorFlow and Keras with a recurrent neural network (RNN). Web scrapes with Python to find news article data on which to measure positivity.
 
 ## Description
 
