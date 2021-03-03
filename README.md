@@ -1,6 +1,6 @@
 # Uplifting News
 
-Performs sentiment analysis on news articles to measure positivity.
+Positive news feed using sentiment analysis  built on TensorFlow and Keras with a recurrent neural network (RNN). Web scrapes with Python to find news article data to measure positivity.
 
 ## Description
 
@@ -20,7 +20,7 @@ How to run the application
 
 1. Clone the repository.
 2. Open [constants.py](src/constants.py) and adjust the values as desired. 
-3. Run [main.py](src/main.py) with ```python main.py```. The output image is saved in [data/sentiment.csv](data/sentiment.csv).
+3. Run [main.py](src/main.py) with ```python main.py```. The output data is saved in [data/sentiment.csv](data/sentiment.csv).
 
 ## Built With
 
