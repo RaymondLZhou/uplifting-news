@@ -1,18 +1,21 @@
 # Uplifting News
 
-Positive news aggregator using sentiment analysis built on TensorFlow and Keras with a recurrent neural network (RNN). Web scrapes with Python to find news article data on which to measure positivity.
+Positive news aggregator built on sentiment analysis in TensorFlow and Keras with an RNN to sort news feed.
+Extracts keywords with scikit-learn and NLTK to perform topic modelling, web scraping with Python for data.
 
 ## Description
 
-We train an RNN on the [IMDB large movie review dataset](http://ai.stanford.edu/~amaas/data/sentiment/) for sentiment analysis. The raw text is preprocessed, then fed into the model. The model is used to predict the positivity of a given news article, with the most positive being displayed first. 
+We train an RNN on the [IMDB large movie review dataset](http://ai.stanford.edu/~amaas/data/sentiment/) for sentiment analysis. 
+The raw text is preprocessed, then fed into the model. The model is used to predict the positivity of a given news article, 
+with the most positive being displayed first. Additionally, Latent Dirichlet Allocation is used for topic modelling and keyword extraction.
 
 ## Examples
 
-| Article Title  | Score |
-| ------------- | ------------- |
-| NASA's Perseverance rover will launch to Mars next month with a global tribute to health care workers  | 4.6343  |
-| How football can help displaced people heal, develop, and grow  | 2.7856  |
-| Three children die and mother critical after Paisley fire  | -1.8799 |
+| Article Title | Keywords | Score |
+| ------------- | ------------- | ------------- |
+| Rashford's free school meals victory 'chance to end holiday hunger' | school, meal, free, england, voucher | 0.936 |
+| How football can help displaced people 'heal, develop and grow' | refugee, football, photo, participant, goal | 0.4019 |
+| Michael Irving: Teens jailed for 'Trojan horse trap' murder | hair, twitter, footballer, sharp, post | -0.9442 |
 
 ## Getting Started
 
@@ -25,6 +28,7 @@ How to run the application
 ## Built With
 
 * [TensorFlow](https://www.tensorflow.org/) - Deep Learning
+* [NLTK](https://www.nltk.org/) - Natural Language Processing
 
 ## License
 
